@@ -1,0 +1,9 @@
+outcome,spec,var,coef,se,p,nobs
+hdds,R3 main,D,0.0398,0.0619,0.5211,8038
+hdds,R3 main,W,0.0509,0.0608,0.4029,8038
+hdds,R3 placebo post-interview,D_post,-0.1227,0.2062,0.5518,8038
+hdds,R3 placebo post-interview,W_post,-0.079,0.0663,0.2333,8038
+asf,R3 main,D,0.0218,0.0301,0.4682,8038
+asf,R3 main,W,-0.0268,0.0252,0.2879,8038
+asf,R3 placebo post-interview,D_post,-0.0446,0.0851,0.6003,8038
+asf,R3 placebo post-interview,W_post,-0.0565,0.0283,0.0456,8038

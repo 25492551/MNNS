@@ -1,0 +1,5 @@
+data/chirps-v2.0.monthly.nc
+data/external/riceatlas/RiceCalendar_v1.zip
+__MACOSX/
+.DS_Store
+__pycache__/

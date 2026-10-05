@@ -1,0 +1,32 @@
+Q3A_New_16.dta  rows=7927  cols=23
+
+tinh_2016      nn=7927   min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=7927   min=1 max=50 nuniq=31 | District 2016
+xa_2016        nn=7927   min=1 max=99 nuniq=47 | Commune 2016
+ma_h0_2016     nn=7927   min=1 max=99 nuniq=73 | HHcode 2016
+tinh_2014      nn=7922   min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=7922   min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=7922   min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=7922   min=1 max=99 nuniq=73 | HHcode 2014
+p15ma1_        nn=7927   nuniq=42 ex=['a4', 'a2', 'a1', 'a7'] | Plot Code
+p15q1_         nn=7758   min=1 max=24 nuniq=23 | Plot use-main crop-most recent season
+p15q2_         nn=7575   min=1 max=100 nuniq=68 | Area used for this purpose-main crop
+p15q3a_        nn=7404   min=0 max=5.52e+05 nuniq=688 | Total quantity produced-number
+p15q3b_        nn=7209   min=1 max=9 nuniq=3 | Total quantity produced-unit
+p15q4_         nn=7214   min=1 max=6 nuniq=6 | Reason for growing this crop?
+p15q5_         nn=4964   min=1 max=24 nuniq=21 | Plot use-main crop-2nd most recent season
+p15q6_         nn=4941   min=3 max=100 nuniq=46 | Area used for this purpose-main crop
+p15q7a_        nn=4936   min=0 max=7.9e+04 nuniq=606 | Total quantity produced-number
+p15q7b_        nn=4922   min=1 max=9 nuniq=3 | Total quantity produced-unit
+p15q8_         nn=505    min=0 max=24 nuniq=15 | Plot use-main crop-3rd recent season
+p15q9_         nn=473    min=1 max=100 nuniq=26 | Area used for this purpose-main crop
+p15q10a_       nn=471    min=0 max=2.095e+04 nuniq=168 | Total quantity produced-number
+p15q10b_       nn=473    min=1 max=9 nuniq=2 | Total quantity produced-unit
+panel0816      nn=6739   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[plotuse] n=24: 1=Rice; 2=Maize; 3=Potato (non-sweet); 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Soy beans; 8=Vegetables; 9=Other annual crop; 10=Fruit; 11=Coffee; 12=Tea; 13=Cocoa; 14=Cashew nuts; 15=Sugar cane; 16=Pepper; 17=Rubber; 18=Medicinal plants/trees; 19=Other perennial crop; 20=Forestry; 21=Grazing of animals; 22=Aquaculture; 23=Left fallow; 24=Not used
+[number] n=2: 99=Don't know; 98=Have not reaped yet
+[unit] n=3: 9=Don't know; 1=Kg; 2=Other
+[reason] n=6: 1=Obliged by commune authorities; 2=High productivity/high efficiency; 3=Plot does not suit for other crops; 4=Safe/not risky; 5=traditional crop; 6=Other

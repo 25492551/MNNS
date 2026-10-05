@@ -1,0 +1,802 @@
+commune_12_clean.dta  rows=460  cols=741
+
+tinh_2012      nn=460    min=105 max=801 nuniq=12 | Province 2012
+quan_2012      nn=460    min=1 max=50 nuniq=29 | District 2012
+xa_2012        nn=460    min=1 max=99 nuniq=46 | Commune 2012
+tinh_2010      nn=460    min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=460    min=1 max=50 nuniq=29 | District 2010
+xa_2010        nn=460    min=1 max=99 nuniq=46 | Commune 2010
+khu_vuc        nn=457    min=1 max=2 nuniq=2 | Household classified as rural(1)/urban(2)
+c_trinh        nn=451    min=1 max=7 nuniq=7 | National target programs
+month          nn=455    min=6 max=8 nuniq=3 | Month of interview
+s1q1           nn=460    min=0 max=1.6e+04 nuniq=426 | Number of HHs living in this commune
+s1q2           nn=460    min=210 max=2.103e+04 nuniq=428 | Number of HHs registered in this commune
+s1q3           nn=460    min=0 max=2.513e+04 nuniq=447 | Number of people living in this commune
+s1q4           nn=460    min=379 max=2.513e+04 nuniq=449 | Number of people registered in this commune
+s1q5           nn=460    min=0 max=1786 nuniq=308 | Number of HHs in commune classified as poor by MOLISA
+s1q6           nn=459    min=0 max=2.04e+04 nuniq=140 | Number of HHs that live in temporary dwellings
+s1q7           nn=459    min=0 max=9.8e+04 nuniq=208 | Average annual income per capita in commune
+s1q8           nn=458    min=1 max=2 nuniq=2 | Is malaria prevalent
+s1q9           nn=459    min=1 max=2 nuniq=2 | Has the commune tried to control/reduce alcohol consumption
+s1q10          nn=459    min=1 max=2 nuniq=2 | Has the commune tried to control/reduce tobacco consumption
+s1q11          nn=460    min=1 max=83 nuniq=37 | Number of villages in the commune
+s2q1           nn=460    min=0 max=1021 nuniq=208 | Number of people who migrated from commune in last two years
+s2q2a          nn=431    min=1 max=98 nuniq=9 | Reason for migration - work
+s2q2b          nn=380    min=1 max=98 nuniq=10 | Reason for migration - looking for work
+s2q2c          nn=286    min=1 max=98 nuniq=13 | Reason for migration - lack of available land
+s2q2d          nn=347    min=1 max=98 nuniq=11 | Reason for migration - education
+s2q2e          nn=276    min=2 max=98 nuniq=12 | Reason for migration - escaping natural disaster
+s2q2f          nn=438    min=1 max=98 nuniq=13 | Reason for migration - marriage
+s2q2g          nn=310    min=1 max=98 nuniq=12 | Reason for migration - health care
+s2q2h          nn=272    min=1 max=98 nuniq=12 | Reason for migration - conflict with neighbors
+s2q2i          nn=270    min=3 max=98 nuniq=11 | Reason for migration - conflict with officials
+s2q2j          nn=275    min=0 max=98 nuniq=11 | Reason for migration - social pressure
+s2q2k          nn=275    min=1 max=99 nuniq=14 | Reason for migration - relocation by government or organisation
+s2q2l          nn=382    min=1 max=98 nuniq=14 | Reason for migration - return migration
+s2q3           nn=454    min=0 max=1143 nuniq=182 | Number of people who migrated to the commune in last two years
+s2q4a          nn=434    min=1 max=4 nuniq=4 | previous location of migrants - 1
+s2q4b          nn=427    min=1 max=3 nuniq=3 | previous location of migrants - 2
+s2q4c          nn=378    min=1 max=4 nuniq=4 | previous location of migrants - 3
+s2q4d1         nn=406    min=0 max=135 nuniq=7 | previous location of migrants - 1a
+s2q4d2         nn=332    min=0 max=983 nuniq=6 | previous location of migrants - 4b
+s2q5a          nn=411    min=1 max=98 nuniq=10 | Reason why people migrated into commmune - work
+s2q5b          nn=352    min=1 max=98 nuniq=11 | Reason why people migrated into commmune - looking for work
+s2q5c          nn=291    min=1 max=98 nuniq=13 | Reason why people migrated into commmune - lack of available land
+s2q5d          nn=287    min=1 max=98 nuniq=13 | Reason why people migrated into commmune - education
+s2q5e          nn=273    min=2 max=98 nuniq=12 | Reason why people migrated into commmune - escaping natural disaster
+s2q5f          nn=436    min=1 max=98 nuniq=12 | Reason why people migrated into commmune - marriage
+s2q5g          nn=296    min=1 max=98 nuniq=12 | Reason why people migrated into commmune - health care
+s2q5h          nn=272    min=1 max=98 nuniq=13 | Reason why people migrated into commmune - conflict with neighbors
+s2q5i          nn=267    min=0 max=98 nuniq=13 | Reason why people migrated into commmune - conflict with leaders
+s2q5j          nn=272    min=1 max=98 nuniq=13 | Reason why people migrated into commmune - social pressure
+s2q5k          nn=273    min=1 max=98 nuniq=13 | Reason why people migrated into commmune - relocation by government or organisat
+s2q5l          nn=389    min=1 max=98 nuniq=13 | Reason why people migrated into commmune -return migration
+s2q6a          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - land
+s2q6b          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - employment
+s2q6c          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - conflift related to land
+s2q6d          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - conflict related to employment
+s2q6e          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - other conflict
+s2q6f          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - education
+s2q6g          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - health care
+s2q6h          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - social service
+s2q6i          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - cultural integration
+s2q6j          nn=459    min=1 max=2 nuniq=2 | Migrants experienced problem - discrimination
+s3q1           nn=459    min=0 max=2051 nuniq=157 | How many people migrated from this commune (unofficially) in the last two years?
+s3q2a          nn=349    min=1 max=98 nuniq=9 | Reasons why people migrated from this commune -1
+s3q2b          nn=332    min=1 max=98 nuniq=11 | Reasons why people migrated from this commune -2
+s3q2c          nn=178    min=1 max=98 nuniq=12 | Reasons why people migrated from this commune -3
+s3q2d          nn=323    min=1 max=98 nuniq=13 | Reasons why people migrated from this commune -4
+s3q2e          nn=165    min=1 max=98 nuniq=13 | Reasons why people migrated from this commune -5
+s3q2f          nn=253    min=1 max=98 nuniq=13 | Reasons why people migrated from this commune -6
+s3q2g          nn=238    min=1 max=98 nuniq=12 | Reasons why people migrated from this commune -7
+s3q2h          nn=154    min=2 max=98 nuniq=11 | Reasons why people migrated from this commune -8
+s3q2i          nn=150    min=3 max=98 nuniq=10 | Reasons why people migrated from this commune -9
+s3q2j          nn=158    min=2 max=98 nuniq=11 | Reasons why people migrated from this commune -10
+s3q2k          nn=225    min=1 max=98 nuniq=12 | Reasons why people migrated from this commune -11
+s3q3           nn=458    min=0 max=3600 nuniq=128 | How many people migrated to this commune (unofficially) in the last two years?
+s3q4a          nn=345    min=1 max=3 nuniq=3 | Rank of locations where migrants come from - Another commune within district
+s3q4b          nn=341    min=1 max=3 nuniq=3 | Rank of locations where migrants come from - Another district within province
+s3q4c          nn=281    min=1 max=3 nuniq=3 | Rank of locations where migrants come from - Another province
+s3q4d1         nn=331    min=0 max=135 nuniq=5 | Rank of locations where migrants come from - Outside VN - country code 1
+s3q4d2         nn=287    min=0 max=98 nuniq=2 | Rank of locations where migrants come from - Outside VN - country code 2
+s3q5a          nn=330    min=1 max=98 nuniq=10 | Importance of the reasons why people migrated into this commune - 1
+s3q5b          nn=283    min=1 max=98 nuniq=11 | Importance of the reasons why people migrated into this commune - 2
+s3q5c          nn=178    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 3
+s3q5d          nn=180    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 4
+s3q5e          nn=159    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 5
+s3q5f          nn=243    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 6
+s3q5g          nn=182    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 7
+s3q5h          nn=150    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 8
+s3q5i          nn=143    min=3 max=98 nuniq=11 | Importance of the reasons why people migrated into this commune - 9
+s3q5j          nn=155    min=2 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 10
+s3q5k          nn=223    min=1 max=98 nuniq=12 | Importance of the reasons why people migrated into this commune - 11
+s3q6a          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to accessing land
+s3q6b          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to accessing empl
+s3q6c          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to conflict relat
+s3q6d          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to conflict relat
+s3q6e          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to other conflict
+s3q6f          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to access to educ
+s3q6g          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to access to heal
+s3q6h          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to access to othe
+s3q6j          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to cultural integ
+s3q6k          nn=456    min=1 max=2 nuniq=2 | Migrants into this commune have experienced  problems relating to discrimination
+s3ten_1        nn=460    nuniq=268 ex=['x©y nhµ thu nhËp thÊp', 'n\xadíc s¹ch', 'dù ¸n XD tr\xadêng THCS , TH ®¹t chuÈn QG', '®Ò ¸n x©y dùng n«ng th«n míi'] | Development programmes of last 2 years-progr1
+s3ten_2        nn=460    nuniq=240 ex=['n©ng cÊp ®\xadêng lµng', 't¹o viÖc lµm', 'dù ¸n xd giao th«ng n«ng th«n', 'vay vèn sv , xdcn'] | Development programmes of last 2 years-progr2
+s3ten_3        nn=460    nuniq=186 ex=['', 'quü n\xadíc s¹ch', 'tr\xadêng THCS', 'Ct sx rau an toµn'] | Development programmes of last 2 years-progr3
+s3ten_4        nn=460    nuniq=119 ex=['', 'tr\xadêng tiÓu häc', 'CT xãa ®ãi gi¶m nghÌo, h.trî hs , sv', '®\xadêng'] | Development programmes of last 2 years-progr4
+s3ten_5        nn=460    nuniq=81 ex=['', '®iÖn h¹ thÕ', 'Trô së UB', 'XD trôc ®\xadêng Kim Bµi - x·'] | Development programmes of last 2 years-progr5
+s3ten_6        nn=460    nuniq=42 ex=['', 'vay vèn ng\xadêi nghÌo', 'cøng hãa kªnh', '®\xadêng vµ cÇu b·i r¸c'] | Development programmes of last 2 years-progr6
+s3ten_7        nn=460    nuniq=27 ex=['', 'KHHG§ & CS y tÕ', 'kÌ san lÊp nÒn chî', 'GT néi ®ång'] | Development programmes of last 2 years-progr7
+s3ten_8        nn=460    nuniq=17 ex=['', 'd¹y nghÒ', 'ph©n gièng cho hé nghÌo', 'vay vèn + SXKD + SV'] | Development programmes of last 2 years-progr8
+s3q1a_1        nn=421    min=1 max=16 nuniq=15 | Type of program-progr1:1st type
+s3q1a_2        nn=337    min=1 max=16 nuniq=16 | Type of program-progr2:1st type
+s3q1a_3        nn=238    min=1 max=16 nuniq=16 | Type of program-progr3:1st type
+s3q1a_4        nn=150    min=0 max=16 nuniq=16 | Type of program-progr4:1st type
+s3q1a_5        nn=91     min=1 max=16 nuniq=15 | Type of program-progr5:1st type
+s3q1a_6        nn=46     min=1 max=16 nuniq=13 | Type of program-progr6:1st type
+s3q1a_7        nn=27     min=1 max=16 nuniq=11 | Type of program-progr7:1st type
+s3q1a_8        nn=17     min=1 max=16 nuniq=9 | Type of program-progr8:1st type
+s3q1b_1        nn=139    min=0 max=98 nuniq=17 | Type of program-progr1:2nd type
+s3q1b_2        nn=93     min=0 max=98 nuniq=17 | Type of program-progr2:2nd type
+s3q1b_3        nn=51     min=0 max=98 nuniq=15 | Type of program-progr3:2nd type
+s3q1b_4        nn=30     min=1 max=15 nuniq=12 | Type of program-progr4:2nd type
+s3q1b_5        nn=14     min=1 max=16 nuniq=6 | Type of program-progr5:2nd type
+s3q1b_6        nn=13     min=1 max=13 nuniq=5 | Type of program-progr6:2nd type
+s3q1b_7        nn=10     min=1 max=14 nuniq=7 | Type of program-progr7:2nd type
+s3q1b_8        nn=8      min=1 max=12 nuniq=5 | Type of program-progr8:2nd type
+s3q1c_1        nn=82     min=1 max=98 nuniq=15 | Type of program-progr1:3rd type
+s3q1c_2        nn=35     min=2 max=98 nuniq=12 | Type of program-progr2:3rd type
+s3q1c_3        nn=29     min=2 max=98 nuniq=12 | Type of program-progr3:3rd type
+s3q1c_4        nn=13     min=1 max=12 nuniq=7 | Type of program-progr4:3rd type
+s3q1c_5        nn=5      min=3 max=9 nuniq=4 | Type of program-progr5:3rd type
+s3q1c_6        nn=8      min=1 max=9 nuniq=4 | Type of program-progr6:3rd type
+s3q1c_7        nn=4      min=3 max=12 nuniq=3 | Type of program-progr7:3rd type
+s3q1c_8        nn=6      min=1 max=14 nuniq=4 | Type of program-progr8:3rd type
+s3q1d_1        nn=54     min=1 max=98 nuniq=15 | Type of program-progr1:4th type
+s3q1d_2        nn=21     min=1 max=98 nuniq=11 | Type of program-progr2:4th type
+s3q1d_3        nn=13     min=1 max=98 nuniq=7 | Type of program-progr3:4th type
+s3q1d_4        nn=3      min=6 max=14 nuniq=3 | Type of program-progr4:4th type
+s3q1d_5        nn=0      nuniq=0 ex=[] | Type of program-progr5:4th type
+s3q1d_6        nn=2      min=4 max=6 nuniq=2 | Type of program-progr6:4th type
+s3q1d_7        nn=0      nuniq=0 ex=[] | Type of program-progr7:4th type
+s3q1d_8        nn=0      nuniq=0 ex=[] | Type of program-progr8:4th type
+s3q2_1         nn=416    min=98 max=2015 nuniq=21 | YEAR of START of progr1 in the commune
+s3q2_2         nn=329    min=2 max=2012 nuniq=19 | YEAR of START of progr2 in the commune
+s3q2_3         nn=232    min=99 max=2012 nuniq=17 | YEAR of START of progr3 in the commune
+s3q2_4         nn=142    min=99 max=2012 nuniq=13 | YEAR of START of progr4 in the commune
+s3q2_5         nn=87     min=99 max=2012 nuniq=11 | YEAR of START of progr5 in the commune
+s3q2_6         nn=41     min=99 max=2012 nuniq=9 | YEAR of START of progr6 in the commune
+s3q2_7         nn=24     min=2007 max=2012 nuniq=6 | YEAR of START of progr7 in the commune
+s3q2_8         nn=14     min=2001 max=2012 nuniq=4 | YEAR of START of progr8 in the commune
+s3q333_1       nn=417    min=99 max=2013 nuniq=8 | YEAR of END of progr1 in the commune
+s3q333_2       nn=331    min=99 max=2013 nuniq=9 | YEAR of END of progr2 in the commune
+s3q333_3       nn=235    min=99 max=2014 nuniq=10 | YEAR of END of progr3 in the commune
+s3q333_4       nn=148    min=99 max=2013 nuniq=7 | YEAR of END of progr4 in the commune
+s3q333_5       nn=89     min=99 max=2012 nuniq=5 | YEAR of END of progr5 in the commune
+s3q333_6       nn=44     min=99 max=2014 nuniq=6 | YEAR of END of progr6 in the commune
+s3q333_7       nn=27     min=999 max=2012 nuniq=3 | YEAR of END of progr7 in the commune
+s3q333_8       nn=17     min=999 max=2012 nuniq=3 | YEAR of END of progr8 in the commune
+s3q4_1         nn=411    min=1 max=4 nuniq=4 | By whom is progr1 sponsored/supported?
+s3q4_2         nn=326    min=1 max=4 nuniq=4 | By whom is progr2 sponsored/supported?
+s3q4_3         nn=228    min=1 max=4 nuniq=4 | By whom is progr3 sponsored/supported?
+s3q4_4         nn=142    min=1 max=4 nuniq=4 | By whom is progr4 sponsored/supported?
+s3q4_5         nn=87     min=1 max=4 nuniq=3 | By whom is progr5 sponsored/supported?
+s3q4_6         nn=43     min=1 max=4 nuniq=3 | By whom is progr6 sponsored/supported?
+s3q4_7         nn=26     min=1 max=4 nuniq=3 | By whom is progr7 sponsored/supported?
+s3q4_8         nn=16     min=1 max=4 nuniq=3 | By whom is progr8 sponsored/supported?
+s3q5_1         nn=412    min=0 max=4e+09 nuniq=119 | Amount of money allocated to the project (000VND)-progr1
+s3q5_2         nn=328    min=0 max=8e+09 nuniq=95 | Amount of money allocated to the project (000VND)-progr2
+s3q5_3         nn=233    min=0 max=1.5e+09 nuniq=76 | Amount of money allocated to the project (000VND)-progr3
+s3q5_4         nn=144    min=99 max=3.45e+08 nuniq=52 | Amount of money allocated to the project (000VND)-progr4
+s3q5_5         nn=86     min=30 max=4e+09 nuniq=34 | Amount of money allocated to the project (000VND)-progr5
+s3q5_6         nn=42     min=97 max=6.12e+08 nuniq=21 | Amount of money allocated to the project (000VND)-progr6
+s3q5_7         nn=24     min=99 max=4e+07 nuniq=12 | Amount of money allocated to the project (000VND)-progr7
+s3q5_8         nn=15     min=99 max=2.4e+07 nuniq=8 | Amount of money allocated to the project (000VND)-progr8
+s3q6_1         nn=417    min=1 max=8 nuniq=7 | Most direct beneficiary of progr1
+s3q6_2         nn=331    min=1 max=8 nuniq=6 | Most direct beneficiary of progr2
+s3q6_3         nn=237    min=1 max=8 nuniq=7 | Most direct beneficiary of progr3
+s3q6_4         nn=149    min=1 max=8 nuniq=5 | Most direct beneficiary of progr4
+s3q6_5         nn=89     min=1 max=8 nuniq=7 | Most direct beneficiary of progr5
+s3q6_6         nn=46     min=1 max=6 nuniq=4 | Most direct beneficiary of progr6
+s3q6_7         nn=27     min=1 max=6 nuniq=4 | Most direct beneficiary of progr7
+s3q6_8         nn=17     min=1 max=2 nuniq=2 | Most direct beneficiary of progr8
+s3q7a          nn=460    min=1 max=3 nuniq=3 | Commune a recognised a New Village Program Commune
+s3q7b          nn=459    min=1 max=3 nuniq=3 | Commune a recognised a New Village Program Commune in 2015
+s3q8           nn=458    min=1 max=3 nuniq=3 | Commune actively engaged in meeting crietaria
+s4ma_01        nn=456    min=1 max=13 nuniq=6 | RICE
+s4ma_02        nn=424    min=2 max=16 nuniq=11 | MAIZE
+s4ma_03        nn=389    min=3 max=13 nuniq=10 | TUBER
+s4ma_04        nn=302    min=4 max=16 nuniq=11 | SUGARCANE
+s4ma_05        nn=224    min=5 max=16 nuniq=11 | PEANUTS
+s4ma_06        nn=136    min=6 max=16 nuniq=11 | VEGETABLES
+s4ma_07        nn=80     min=7 max=16 nuniq=10 | SOY BEAN
+s4ma_08        nn=46     min=8 max=16 nuniq=9 | OTHER ANNUAL CROP
+s4ma_09        nn=25     min=9 max=16 nuniq=7 | FRUIT
+s4ma_10        nn=17     min=10 max=16 nuniq=6 | COFFEE
+s4ma_11        nn=7      min=12 max=15 nuniq=4 | TEA
+s4ma_12        nn=4      min=13 max=16 nuniq=4 | COCOA
+s4ma_13        nn=1      min=14 max=14 nuniq=1 | CASHEW
+s4ma_14        nn=1      min=16 max=16 nuniq=1 | PEPPER
+s4ma_15        nn=0      nuniq=0 ex=[] | RUBBER
+s4ma_16        nn=0      nuniq=0 ex=[] | OTHER PERENNIAL CROP
+s4q1a_01_new   nn=454    min=1 max=965 nuniq=8 | Average productivity of RICE per hectare-UNIT
+s4q1a_02_new   nn=421    min=1 max=9 nuniq=9 | Average productivity of MAIZE per hectare-UNIT
+s4q1a_03_new   nn=383    min=1 max=9 nuniq=9 | Average productivity of TUBER per hectare-UNIT
+s4q1a_04_new   nn=297    min=1 max=1000 nuniq=8 | Average productivity of SUGARCANE per hectare-UNIT
+s4q1a_05_new   nn=222    min=1 max=1000 nuniq=8 | Average productivity of PEANUTS per hectare-UNIT
+s4q1a_06_new   nn=134    min=1 max=9 nuniq=7 | Average productivity of VEGETABLES per hectare-UNIT
+s4q1a_07_new   nn=77     min=1 max=9 nuniq=7 | Average productivity of SOY BEAN per hectare-UNIT
+s4q1a_08_new   nn=45     min=1 max=6 nuniq=5 | Average productivity of OTHER ANNUAL CROP per hectare-UNIT
+s4q1a_09_new   nn=23     min=1 max=6 nuniq=4 | Average productivity of FRUIT per hectare-UNIT
+s4q1a_10_new   nn=13     min=1 max=6 nuniq=3 | Average productivity of COFFEE per hectare-UNIT
+s4q1a_11_new   nn=7      min=1 max=6 nuniq=3 | Average productivity of TEA per hectare-UNIT
+s4q1a_12_new   nn=4      min=1 max=6 nuniq=3 | Average productivity of COCOA per hectare-UNIT
+s4q1a_13_new   nn=1      min=1 max=1 nuniq=1 | Average productivity of CASHEW per hectare-UNIT
+s4q1a_14_new   nn=1      min=2 max=2 nuniq=1 | Average productivity of PEPPER per hectare-UNIT
+s4q1a_15_new   nn=0      nuniq=0 ex=[] | Average productivity of RUBBER per hectare-UNIT
+s4q1a_16_new   nn=0      nuniq=0 ex=[] | Average productivity of OTHER PERENNIAL CROP per hectare-UNIT
+s4q1b_01       nn=455    min=0.5 max=8000 nuniq=153 | Average productivity of RICE per hectare-QUANTITY Summer/autumn
+s4q1b_02       nn=424    min=0.4 max=9300 nuniq=160 | Average productivity of MAIZE per hectare-QUANTITY Summer/autumn
+s4q1b_03       nn=388    min=0.6 max=8000 nuniq=155 | Average productivity of TUBER per hectare-QUANTITY Summer/autumn
+s4q1b_04       nn=301    min=0.1 max=9060 nuniq=128 | Average productivity of SUGARCANE per hectare-QUANTITY Summer/autumn
+s4q1b_05       nn=224    min=0.5 max=5000 nuniq=87 | Average productivity of PEANUTS per hectare-QUANTITY Summer/autumn
+s4q1b_06       nn=135    min=0.5 max=2247 nuniq=68 | Average productivity of VEGETABLES per hectare-QUANTITY Summer/autumn
+s4q1b_07       nn=80     min=0.5 max=2000 nuniq=47 | Average productivity of SOY BEAN per hectare-QUANTITY Summer/autumn
+s4q1b_08       nn=46     min=0.8 max=700 nuniq=28 | Average productivity of OTHER ANNUAL CROP per hectare-QUANTITY Summer/autumn
+s4q1b_09       nn=25     min=0.6 max=1700 nuniq=20 | Average productivity of FRUIT per hectare-QUANTITY Summer/autumn
+s4q1b_10       nn=17     min=1 max=1800 nuniq=14 | Average productivity of COFFEE per hectare-QUANTITY Summer/autumn
+s4q1b_11       nn=7      min=0.5 max=8 nuniq=5 | Average productivity of TEA per hectare-QUANTITY Summer/autumn
+s4q1b_12       nn=4      min=1 max=2.5 nuniq=4 | Average productivity of COCOA per hectare-QUANTITY Summer/autumn
+s4q1b_13       nn=1      min=40.5 max=40.5 nuniq=1 | Average productivity of CASHEW per hectare-QUANTITY Summer/autumn
+s4q1b_14       nn=1      min=1.6 max=1.6 nuniq=1 | Average productivity of PEPPER per hectare-QUANTITY Summer/autumn
+s4q1b_15       nn=0      nuniq=0 ex=[] | Average productivity of RUBBER per hectare-QUANTITY Summer/autumn
+s4q1b_16       nn=0      nuniq=0 ex=[] | Average productivity of OTHER PERENNIAL CROP per hectare-QUANTITY Summer/autumn
+s4q1c_01       nn=413    min=0.6 max=8000 nuniq=133 | Average productivity of RICE per hectare-QUANTITY Winter/spring
+s4q1c_02       nn=23     min=2.5 max=280.5 nuniq=19 | Average productivity of MAIZE per hectare-QUANTITY Winter/spring
+s4q1c_03       nn=10     min=0 max=1400 nuniq=10 | Average productivity of TUBER per hectare-QUANTITY Winter/spring
+s4q1c_04       nn=3      min=8 max=31.2 nuniq=3 | Average productivity of SUGARCANE per hectare-QUANTITY Winter/spring
+s4q1c_05       nn=1      min=65 max=65 nuniq=1 | Average productivity of PEANUTS per hectare-QUANTITY Winter/spring
+s4q1c_06       nn=0      nuniq=0 ex=[] | Average productivity of VEGETABLES per hectare-QUANTITY Winter/spring
+s4q1c_07       nn=0      nuniq=0 ex=[] | Average productivity of SOY BEAN per hectare-QUANTITY Winter/spring
+s4q1c_08       nn=0      nuniq=0 ex=[] | Average productivity of OTHER ANNUAL CROP per hectare-QUANTITY Winter/spring
+s4q1c_09       nn=0      nuniq=0 ex=[] | Average productivity of FRUIT per hectare-QUANTITY Winter/spring
+s4q1c_10       nn=0      nuniq=0 ex=[] | Average productivity of COFFEE per hectare-QUANTITY Winter/spring
+s4q1c_11       nn=0      nuniq=0 ex=[] | Average productivity of TEA per hectare-QUANTITY Winter/spring
+s4q1c_12       nn=0      nuniq=0 ex=[] | Average productivity of COCOA per hectare-QUANTITY Winter/spring
+s4q1c_13       nn=0      nuniq=0 ex=[] | Average productivity of CASHEW per hectare-QUANTITY Winter/spring
+s4q1c_14       nn=0      nuniq=0 ex=[] | Average productivity of PEPPER per hectare-QUANTITY Winter/spring
+s4q1c_15       nn=0      nuniq=0 ex=[] | Average productivity of RUBBER per hectare-QUANTITY Winter/spring
+s4q1c_16       nn=0      nuniq=0 ex=[] | Average productivity of OTHER PERENNIAL CROP per hectare-QUANTITY Winter/spring
+s4q2_01        nn=433    min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_02        nn=360    min=1 max=4 nuniq=4 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_03        nn=247    min=1 max=4 nuniq=4 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_04        nn=94     min=1 max=4 nuniq=4 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_05        nn=54     min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_06        nn=34     min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_07        nn=21     min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_08        nn=12     min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_09        nn=6      min=1 max=2 nuniq=2 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_10        nn=4      min=1 max=3 nuniq=3 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_11        nn=3      min=2 max=3 nuniq=2 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_12        nn=1      min=2 max=2 nuniq=1 | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_13        nn=0      nuniq=0 ex=[] | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_14        nn=0      nuniq=0 ex=[] | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_15        nn=0      nuniq=0 ex=[] | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q2_16        nn=0      nuniq=0 ex=[] | Importance of crop in the village, by total output value (mention 3 most imp)
+s4q3           nn=460    min=0 max=920 nuniq=137 | During 2011 how many times were sales of LUCs registered with authorities
+s4q4           nn=378    min=0 max=259 nuniq=68 | Share of land involved land for agriculture
+s4q5           nn=460    min=0 max=956 nuniq=23 | During 2011 how many times were applications for approval of sale of land use ce
+s4q6           nn=128    min=0 max=100 nuniq=22 | Share of rejections involving land for agriculture
+s4q7           nn=459    min=1 max=99 nuniq=6 | During 2011 how many unregistered sales of LUCs for agricultural land in commune
+s4q8a          nn=460    min=0 max=99 nuniq=9 | Main reason HH purchase LUCs - most important
+s4q8b          nn=372    min=0 max=98 nuniq=8 | Main reason HH purchase LUCs - second most important
+s4q9a          nn=460    min=0 max=99 nuniq=9 | Main reason for HH selling LUCs - most important
+s4q9b          nn=353    min=1 max=98 nuniq=7 | Main reason for HH selling LUCs - second most important
+s4q10          nn=460    min=0 max=670 nuniq=38 | During 2011, number of rental contracts for LUCs registered in this commune
+s4q11          nn=178    min=0 max=200 nuniq=22 | Share of rental contracts for LUCs involved land for agriculture (%)
+s4q12          nn=459    min=0 max=99 nuniq=14 | During 2011, number of times applications for land rental agreements rejected
+s4q13          nn=52     min=0 max=100 nuniq=12 | Share of rejected applications for land rental involved land for agriculture (%)
+s4q14          nn=456    min=0 max=99 nuniq=8 | During 2011, number of unregistered rental agreements for agricultural land
+s4ma1_1        nn=460    nuniq=247 ex=['', 'cÊp míi QSD  ®Êt', 'xin §K cÊp CN quyÒn sd ®Êt', 'trÝch lôc b¶n ®å , x® ph¸p ly'] | Formal administrative procedure for transactions involving LUCs-1
+s4ma1_2        nn=460    nuniq=161 ex=['', 'xin duyÖt c® c¬ cÊu c©y trång', '§K cÊp CN QSD§', 'sang tªn , mua b¸n , ®Êt'] | Formal administrative procedure for transactions involving LUCs-2
+s4ma1_3        nn=460    nuniq=71 ex=['', 'h® thuª ®c & c«ng Ých 5%', 'X§ ranh giíi thöa ®Êt', 'sang tªn ®æi chñ'] | Formal administrative procedure for transactions involving LUCs-3
+s4ma1_4        nn=460    nuniq=23 ex=['', 'thõa kÕ', 'sæ ®á , sè liÖu kª khai', 'chøng nhËn'] | Formal administrative procedure for transactions involving LUCs-4
+s4ma1_5        nn=460    nuniq=9 ex=['', 'hå s¬ xin chuyÓn QSD§', '®k biÕn ®éng sd® , ts g.liÒn', 'cÊp ®æi , cÊp l¹i'] | Formal administrative procedure for transactions involving LUCs-5
+s4q15_1        nn=379    min=0 max=60 nuniq=26 | Number of days necessary to process application-procedure 1
+s4q15_2        nn=221    min=1 max=60 nuniq=24 | Number of days necessary to process application-procedure 2
+s4q15_3        nn=95     min=1 max=70 nuniq=18 | Number of days necessary to process application-procedure 3
+s4q15_4        nn=28     min=1 max=30 nuniq=10 | Number of days necessary to process application-procedure 4
+s4q15_5        nn=8      min=1 max=25 nuniq=6 | Number of days necessary to process application-procedure 5
+s4q16          nn=460    min=1 max=2 nuniq=2 | Commune implemented policies for exchange/consolidation of land
+s4q17          nn=446    min=0 max=2.6e+04 nuniq=68 | Number of plots exchanged under consolidation policy since July 2008
+s4q18a         nn=459    min=1 max=2 nuniq=2 | Commune has plan for food security
+s4q18a1        nn=453    min=1 max=650 nuniq=77 | % of total area with plan for food security
+s4q18b         nn=459    min=1 max=2 nuniq=2 | Commune has plan for forestry
+s4q18b1        nn=454    min=0 max=225 nuniq=62 | % of total area with plan for forestry
+s4q18c         nn=458    min=1 max=2 nuniq=2 | Commune has plan for national defense
+s4q18c1        nn=448    min=0 max=272.5 nuniq=29 | % of total area with plan for national defense
+s4q18d         nn=449    min=1 max=2 nuniq=2 | Commune has plan for other
+s4q18d1        nn=447    min=0 max=160 nuniq=31 | % of total area with plan for other
+s4q19          nn=453    min=1 max=2 nuniq=2 | Land use plan specifies farmers' choice of crops
+s4q20          nn=451    min=1 max=98 nuniq=3 | Land use plan regulates farmers' choice of crops in all seasons
+s4q21_1        nn=459    min=0 max=4.121e+04 nuniq=402 | Total area of annual crop land (ha)
+s4q21_2        nn=460    min=0 max=2000 nuniq=82 | Total area of annual cropland: upland rice (ha)
+s4q21_3        nn=460    min=0 max=4.334e+05 nuniq=376 | Total area of annual cropland: lowland rice (ha)
+s4q21_4        nn=460    min=0 max=2.704e+04 nuniq=304 | Total area of perennial crop land (ha)
+s4q21_5        nn=460    min=0 max=7.453e+05 nuniq=280 | Total area of water surfaces (ha)
+s4q21_6        nn=460    min=0 max=1.772e+06 nuniq=285 | Total area of forest land (ha)
+s4q21_7        nn=460    min=0 max=2e+06 nuniq=363 | Total area of residential land (ha)
+s4q21_8        nn=451    min=0 max=1.136e+04 nuniq=198 | Total area of other type of land (ha)
+s4q22_1        nn=457    min=0 max=158 nuniq=59 | % of annual crop land irrigated
+s4q22_2        nn=460    min=98 max=98 nuniq=1 | % of annual cropland: upland rice irrigated
+s4q22_3        nn=459    min=0 max=324 nuniq=42 | % of annual cropland: lowland rice irrigated
+s4q22_4        nn=457    min=0 max=100 nuniq=36 | % of perennial crop land irrigated
+s4q22_5        nn=460    min=98 max=98 nuniq=1 | % of water surfaces irrigated
+s4q22_6        nn=460    min=98 max=98 nuniq=1 | % of forest land irrigated
+s4q22_7        nn=460    min=98 max=98 nuniq=1 | % of residential land irrigated
+s4q22_8        nn=0      nuniq=0 ex=[] | % of other type of land irrigated
+s4q23a_1       nn=457    min=0 max=100 nuniq=62 | % of annual crop land with LUC
+s4q23a_2       nn=458    min=0 max=100 nuniq=31 | % of annual cropland: upland rice with LUC
+s4q23a_3       nn=459    min=0 max=100 nuniq=58 | % of annual cropland: lowland rice with LUC
+s4q23a_4       nn=459    min=0 max=100 nuniq=56 | % of perennial crop land with LUC
+s4q23a_5       nn=459    min=0 max=100 nuniq=45 | % of water surfaces with LUC
+s4q23a_6       nn=459    min=0 max=447 nuniq=53 | % of forest land with LUC
+s4q23a_7       nn=459    min=0 max=100 nuniq=84 | % of residential land with LUC
+s4q23a_8       nn=449    min=0 max=100 nuniq=25 | % of other type of land with LUC
+s4q23b_1       nn=459    min=0 max=282 nuniq=53 | % of annual crop land with land use restrictions
+s4q23b_2       nn=457    min=0 max=100 nuniq=15 | % of annual cropland: upland rice with land use restrictions
+s4q23b_3       nn=459    min=0 max=282 nuniq=41 | % of annual cropland: lowland rice with land use restrictions
+s4q23b_4       nn=458    min=0 max=100 nuniq=28 | % of perennial crop land with land use restrictions
+s4q23b_5       nn=459    min=0 max=300 nuniq=34 | % of water surfaces with land use restrictions
+s4q23b_6       nn=458    min=0 max=100 nuniq=24 | % of forest land with land use restrictions
+s4q23b_7       nn=458    min=0 max=100 nuniq=21 | % of residential land with land use restrictions
+s4q23b_8       nn=449    min=0 max=100 nuniq=13 | % of other type of land with land use restrictions
+s4q23c_1       nn=459    min=0 max=814.8 nuniq=130 | % of annual crop land reserved (administratively) for rice production
+s4q24a         nn=460    min=0 max=100 nuniq=32 | % of HHs in commune with no land
+s4q24b         nn=460    min=0 max=1110 nuniq=81 | % of HHs in commune with 0.5ha or less land
+s4q24c         nn=460    min=0 max=100 nuniq=61 | % of HHs in commune with 0.5ha to less than 1 ha of land
+s4q24d         nn=460    min=0 max=638 nuniq=54 | % of HHs in commune with 1 ha to less than 2 ha of land
+s4q24e         nn=460    min=0 max=99 nuniq=35 | % of HHs in commune with 2 ha to less than 5 ha of land
+s4q24f         nn=458    min=0 max=99 nuniq=18 | % of HHs in commune with 5 hectares or more land
+s4q24          nn=460    min=0 max=100 nuniq=3 | Household scale by area
+s4maa_1        nn=460    min=1 max=1 nuniq=1 | C«ng viÖc
+s4maa_2        nn=460    min=2 max=2 nuniq=1 | C«ng viÖc
+s4maa_3        nn=460    min=3 max=5 nuniq=2 | C«ng viÖc
+s4maa_4        nn=460    min=4 max=6 nuniq=2 | C«ng viÖc
+s4maa_5        nn=460    min=5 max=7 nuniq=2 | C«ng viÖc
+s4q25a_1       nn=460    min=0 max=7e+04 nuniq=25 | Women's daily wage - harvesting '000 VND
+s4q25a_2       nn=460    min=0 max=6e+04 nuniq=26 | Women's daily wage - plowing '000 VND
+s4q25a_3       nn=460    min=0 max=5e+04 nuniq=26 | Women's daily wage - sawing/seeding '000 VND
+s4q25a_4       nn=460    min=0 max=1e+05 nuniq=21 | Women's daily wage - construction '000 VND
+s4q25a_5       nn=460    min=0 max=210 nuniq=25 | Women's daily wage - HH chores '000 VND
+s4q25b_1       nn=460    min=0 max=6e+04 nuniq=24 | Men's daily wage - harvesting '000 VND
+s4q25b_2       nn=460    min=0 max=1e+05 nuniq=31 | Men's daily wage - plowing '000 VND
+s4q25b_3       nn=460    min=0 max=6e+04 nuniq=27 | Men's daily wage - sawing/seeding '000 VND
+s4q25b_4       nn=460    min=0 max=1.2e+05 nuniq=22 | Men's daily wage - construction '000 VND
+s4q25b_5       nn=460    min=0 max=999 nuniq=19 | Men's daily wage - HH chores '000 VND
+s5q1a          nn=459    min=0 max=10 nuniq=9 | Main source of income in this commune
+s5q1b          nn=450    min=0 max=98 nuniq=11 | 2nd most important source of income in this commune
+s5q1c          nn=417    min=1 max=98 nuniq=11 | 3rd most important source of income in this commune
+s5q2a          nn=460    min=0 max=936 nuniq=114 | proportion of total work force in agriculture
+s5q2b          nn=460    min=0 max=98 nuniq=60 | proportion of total work force in forestry
+s5q2c          nn=459    min=0 max=98 nuniq=49 | proportion of total work force in fisheries
+s5q2d          nn=459    min=0 max=82 nuniq=87 | proportion of total work force in wage employment
+s5q2f          nn=460    min=0 max=75 nuniq=112 | proportion of total work force in non-farm non-wage
+s5q3           nn=460    min=1 max=1160 nuniq=52 | Number of enterprises with 10 or more employees located in commune
+s5q4           nn=448    min=0 max=6 nuniq=7 | Any enterprise/firms/factories with >=10 employees from neighbouring communes
+s5q5           nn=460    min=1 max=2 nuniq=2 | Any traditional occupation villages in commune
+s6q1           nn=458    min=1 max=2 nuniq=2 | Does commune have master plan for economic/social development
+s6q2           nn=394    min=0 max=3 nuniq=4 | Who participates in the design of plan
+s6q3a          nn=460    min=0 max=100 nuniq=74 | % of central asphalt or concrete commmune roads
+s6q3b          nn=460    min=0 max=105 nuniq=98 | share of village roads that are concrete
+s6q3c          nn=460    min=0 max=100 nuniq=77 | % of hamlet roads that are clean and not muddy in rainy season
+s6q3d          nn=460    min=0 max=100 nuniq=54 | % of field roads that are concrete and available to vehicle travel
+s6q3e          nn=456    min=1 max=2 nuniq=2 | rural markets meet national standards
+s6q3f          nn=460    min=1 max=2 nuniq=2 | Postal service in village
+s6q3g          nn=460    min=1 max=2 nuniq=2 | At least one internet access point
+s6q3h          nn=460    min=1 max=2 nuniq=2 | cultural house and sports facilities meet national standards
+s6q4_01        nn=460    min=1 max=2 nuniq=2 | Permanent daily market within commune
+s6q4_02        nn=460    min=1 max=2 nuniq=2 | Periodic market within commune
+s6q4_03        nn=460    min=1 max=2 nuniq=2 | Kindergarten within commune
+s6q4_04        nn=460    min=1 max=2 nuniq=2 | Primary school within commune
+s6q4_05        nn=460    min=1 max=2 nuniq=2 | Secondary school within commune
+s6q4_06        nn=460    min=1 max=2 nuniq=2 | High school within commune
+s6q4_07        nn=460    min=1 max=2 nuniq=2 | Heatlh care center within commune
+s6q4_08        nn=460    min=1 max=2 nuniq=2 | Clinic center within commune
+s6q4_09        nn=460    min=1 max=2 nuniq=2 | Hospital within commune
+s6q4_10        nn=460    min=1 max=2 nuniq=2 | Public taps within commune
+s6q4_11        nn=460    min=1 max=2 nuniq=2 | Public wells within commune
+s6q4_12        nn=460    min=1 max=2 nuniq=2 | Post office within commune
+s6q4_13        nn=460    min=1 max=2 nuniq=2 | Sporting area within commune
+s6q4_14        nn=460    min=1 max=2 nuniq=2 | Culture house within commune
+s6q5_01        nn=257    min=1 max=5 nuniq=5 | Number of Permanent daily market within commune
+s6q5_02        nn=87     min=1 max=4 nuniq=4 | Number of Periodic market within commune
+s6q5_03        nn=456    min=1 max=27 nuniq=21 | Number of Kindergarten within commune
+s6q5_04        nn=457    min=1 max=27 nuniq=15 | Number of Primary school within commune
+s6q5_05        nn=423    min=1 max=5 nuniq=4 | Number of Secondary school within commune
+s6q5_06        nn=109    min=1 max=2 nuniq=2 | Number of High school within commune
+s6q5_07        nn=445    min=1 max=3 nuniq=3 | Number of Heatlh care center within commune
+s6q5_08        nn=38     min=1 max=2 nuniq=2 | Number of Clinic center within commune
+s6q5_09        nn=22     min=1 max=6 nuniq=3 | Number of Hospital within commune
+s6q5_10        nn=46     min=1 max=300 nuniq=18 | Number of Public taps within commune
+s6q5_11        nn=63     min=1 max=52 nuniq=16 | Number of Public wells within commune
+s6q5_12        nn=392    min=1 max=4 nuniq=4 | Number of Post office within commune
+s6q5_13        nn=172    min=1 max=20 nuniq=16 | Number of Sporting area within commune
+s6q5_14        nn=279    min=1 max=26 nuniq=22 | Number of Culture house within commune
+s6q6_01        nn=263    min=0 max=700 nuniq=31 | Nearest Permanent daily market (km from commune headquarter)
+s6q6_02        nn=94     min=0 max=1000 nuniq=25 | Nearest Periodic market (km from commune headquarter)
+s6q6_03        nn=453    min=0 max=1200 nuniq=28 | Nearest Kindergarten (km from commune headquarter)
+s6q6_04        nn=448    min=0 max=200 nuniq=27 | Nearest Primary school (km from commune headquarter)
+s6q6_05        nn=422    min=0 max=700 nuniq=32 | Nearest Secondary school (km from commune headquarter)
+s6q6_06        nn=130    min=0 max=500 nuniq=30 | Nearest High school (km from commune headquarter)
+s6q6_07        nn=441    min=0 max=500 nuniq=29 | Nearest Heatlh care center (km from commune headquarter)
+s6q6_08        nn=44     min=0 max=500 nuniq=23 | Nearest Clinic center (km from commune headquarter)
+s6q6_09        nn=30     min=0 max=1000 nuniq=19 | Nearest Hospital (km from commune headquarter)
+s6q6_10        nn=52     min=0 max=990 nuniq=16 | Nearest Public taps (km from commune headquarter)
+s6q6_11        nn=68     min=0 max=1e+04 nuniq=23 | Nearest Public wells (km from commune headquarter)
+s6q6_12        nn=388    min=0 max=5000 nuniq=30 | Nearest Post office (km from commune headquarter)
+s6q6_13        nn=171    min=0 max=1.5e+04 nuniq=22 | Nearest Sporting area (km from commune headquarter)
+s6q6_14        nn=270    min=0 max=1e+04 nuniq=27 | Nearest Culture house (km from commune headquarter)
+s6q7_01        nn=264    min=1 max=3 nuniq=3 | General condition of Permanent daily market
+s6q7_02        nn=94     min=1 max=9 nuniq=4 | General condition of Periodic market
+s6q7_03        nn=454    min=1 max=3 nuniq=3 | General condition of Kindergarten
+s6q7_04        nn=450    min=1 max=3 nuniq=3 | General condition of Primary school
+s6q7_05        nn=419    min=1 max=3 nuniq=3 | General condition of Secondary school
+s6q7_06        nn=116    min=1 max=3 nuniq=3 | General condition of High school
+s6q7_07        nn=440    min=1 max=3 nuniq=3 | General condition of Heatlh care center
+s6q7_08        nn=40     min=1 max=3 nuniq=3 | General condition of Clinic center
+s6q7_09        nn=26     min=2 max=3 nuniq=2 | General condition of Hospital
+s6q7_10        nn=52     min=0 max=99 nuniq=16 | General condition of Public taps
+s6q7_11        nn=68     min=0 max=1000 nuniq=23 | General condition of Public wells
+s6q7_12        nn=389    min=0 max=500 nuniq=31 | General condition of Post office
+s6q7_13        nn=172    min=0 max=1500 nuniq=23 | General condition of Sporting area
+s6q7_14        nn=272    min=0 max=1000 nuniq=28 | General condition of Culture house
+s6q8_01        nn=263    min=1 max=9 nuniq=5 | Last maintenance of Permanent daily market
+s6q8_02        nn=94     min=1 max=9 nuniq=5 | Last maintenance of Periodic market
+s6q8_03        nn=452    min=1 max=9 nuniq=5 | Last maintenance of Kindergarten
+s6q8_04        nn=449    min=1 max=9 nuniq=6 | Last maintenance of Primary school
+s6q8_05        nn=417    min=1 max=9 nuniq=6 | Last maintenance of Secondary school
+s6q8_06        nn=115    min=1 max=9 nuniq=6 | Last maintenance of High school
+s6q8_07        nn=438    min=1 max=9 nuniq=6 | Last maintenance of Heatlh care center
+s6q8_08        nn=39     min=1 max=9 nuniq=5 | Last maintenance of Clinic center
+s6q8_09        nn=26     min=2 max=9 nuniq=4 | Last maintenance of Hospital
+s6q8_10        nn=46     min=1 max=4 nuniq=4 | Last maintenance of Public taps
+s6q8_11        nn=63     min=1 max=6 nuniq=5 | Last maintenance of Public wells
+s6q8_12        nn=386    min=1 max=9 nuniq=5 | Last maintenance of Post office
+s6q8_13        nn=165    min=1 max=9 nuniq=5 | Last maintenance of Sporting area
+s6q8_14        nn=275    min=1 max=9 nuniq=5 | Last maintenance of Culture house
+s6q9a          nn=460    min=0 max=10 nuniq=43 | coverage of street lightning in this commune-%
+s6q9b          nn=460    min=0 max=10 nuniq=68 | coverage of network for drinking water distribution-%
+s6q10          nn=460    min=0 max=500 nuniq=58 | Distance to nearest bus stop from People's Committee Office-km
+s6q11          nn=460    min=0 max=500 nuniq=44 | Distance between commune centre and main road-km
+s6q12          nn=460    min=0 max=7000 nuniq=56 | Distance between commune centre and district centre-km
+s6q13          nn=460    min=0 max=3000 nuniq=61 | Distance between commune centre and nearest extension centre-km
+s6q14          nn=460    min=0 max=7000 nuniq=55 | Distance between commune centre and nearest extension shop-km
+s7a1_1         nn=460    min=1 max=2 nuniq=2 | Occurence - flood 2010
+s7a1_2         nn=460    min=1 max=2 nuniq=2 | Occurence - drought 2010
+s7a1_3         nn=460    min=1 max=2 nuniq=2 | Occurence - typhoon 2010
+s7a1_4         nn=460    min=1 max=2 nuniq=2 | Occurence - land slide 2010
+s7a1_5         nn=460    min=1 max=2 nuniq=2 | Occurence - Animal/livestock 2010
+s7a1_6         nn=460    min=1 max=2 nuniq=2 | Occurence - Plant disease 2010
+s7a1_7         nn=460    min=1 max=2 nuniq=2 | Occurence - insects/rats 2010
+s7a1_8         nn=460    min=1 max=2 nuniq=2 | Other
+s7a2_1         nn=171    min=1 max=98 nuniq=13 | occurence flood 2010 - month
+s7a2_2         nn=170    min=1 max=12 nuniq=12 | occurence drought 2010 - month
+s7a2_3         nn=131    min=1 max=11 nuniq=10 | occurence typhoon 2010 - month
+s7a2_4         nn=62     min=2 max=11 nuniq=10 | occurence land slide 2010 - month
+s7a2_5         nn=223    min=1 max=99 nuniq=13 | occurence animal/livestock 2010 - month
+s7a2_6         nn=193    min=1 max=12 nuniq=12 | occurence plant disease 2010 - month
+s7a2_7         nn=124    min=1 max=12 nuniq=12 | occurence insects/rats 2010 - month
+s7a2_8         nn=19     min=1 max=12 nuniq=8 | occurence other 2010 - month
+s7b1_1         nn=460    min=1 max=2 nuniq=2 | Occurence - flood 2011
+s7b1_2         nn=460    min=1 max=2 nuniq=2 | Occurence - drought 2011
+s7b1_3         nn=460    min=1 max=2 nuniq=2 | Occurence - typhoon 2011
+s7b1_4         nn=460    min=1 max=2 nuniq=2 | Occurence - land slide 2011
+s7b1_5         nn=460    min=1 max=2 nuniq=2 | Occurence - Animal/livestock 2011
+s7b1_6         nn=460    min=1 max=2 nuniq=2 | Occurence - Plant disease 2011
+s7b1_7         nn=460    min=1 max=2 nuniq=2 | Occurence - insects/rats 2011
+s7b1_8         nn=460    min=1 max=2 nuniq=2 | Other 2011
+s7b2_1         nn=151    min=1 max=12 nuniq=11 | occurence flood 2011 - month
+s7b2_2         nn=171    min=1 max=11 nuniq=11 | occurence drought 2011 - month
+s7b2_3         nn=114    min=1 max=11 nuniq=11 | occurence typhoon 2011 - month
+s7b2_4         nn=62     min=2 max=11 nuniq=10 | occurence land slide 2011 - month
+s7b2_5         nn=214    min=1 max=99 nuniq=13 | occurence animal/livestock 2011 - month
+s7b2_6         nn=180    min=1 max=12 nuniq=12 | occurence plant disease 2011 - month
+s7b2_7         nn=111    min=1 max=12 nuniq=12 | occurence insects/rats 2011 - month
+s7b2_8         nn=19     min=1 max=12 nuniq=8 | occurence other 2011 - month
+s7c1_1         nn=460    min=1 max=2 nuniq=2 | occurence flood 2012 - month
+s7c1_2         nn=460    min=1 max=2 nuniq=2 | occurence drought 2012 - month
+s7c1_3         nn=460    min=1 max=2 nuniq=2 | occurence typhoon 2012 - month
+s7c1_4         nn=460    min=1 max=2 nuniq=2 | occurence land slide 2012 - month
+s7c1_5         nn=460    min=1 max=2 nuniq=2 | occurence animal/livestock 2012 - month
+s7c1_6         nn=460    min=1 max=2 nuniq=2 | occurence plant disease 2012 - month
+s7c1_7         nn=460    min=1 max=2 nuniq=2 | occurence insects/rats 2012 - month
+s7c1_8         nn=460    min=1 max=2 nuniq=2 | occurence other 2012 - month
+s7c2_1         nn=36     min=1 max=11 nuniq=11 | occurence flood 2012 - month
+s7c2_2         nn=124    min=1 max=10 nuniq=8 | occurence drought 2012 - month
+s7c2_3         nn=39     min=2 max=10 nuniq=9 | occurence typhoon 2012 - month
+s7c2_4         nn=32     min=2 max=9 nuniq=8 | occurence land slide 2012 - month
+s7c2_5         nn=129    min=1 max=12 nuniq=12 | occurence animal/livestock 2012 - month
+s7c2_6         nn=142    min=1 max=12 nuniq=12 | occurence plant disease 2012 - month
+s7c2_7         nn=83     min=1 max=10 nuniq=9 | occurence insects/rats 2012 - month
+s7c2_8         nn=13     min=1 max=7 nuniq=6 | occurence other 2012 - month
+s7d_1          nn=460    min=1 max=3 nuniq=3 | Last 10 years has floods gotten
+s7d_2          nn=460    min=1 max=3 nuniq=3 | Last 10 years has drought gotten
+s7d_3          nn=460    min=1 max=3 nuniq=3 | Last 10 years has typhoon gotten
+s7d_4          nn=460    min=1 max=3 nuniq=3 | Last 10 years has land slide gotten
+s7d_5          nn=460    min=1 max=3 nuniq=3 | Last 10 years has animal disease gotten
+s7d_6          nn=460    min=1 max=3 nuniq=3 | Last 10 years has plant disease gotten
+s7d_7          nn=460    min=1 max=3 nuniq=3 | Last 10 years has insects/rats gotten
+s7d_8          nn=460    min=1 max=3 nuniq=3 | Last 10 years has other disatser gotten
+s7e_1          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with floods
+s7e_2          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with drought
+s7e_3          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with typhoon
+s7e_4          nn=460    min=1 max=3 nuniq=3 | Any organizations/communes that assist with land slide
+s7e_5          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with animal/livestock
+s7e_6          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with plant disease
+s7e_7          nn=460    min=1 max=2 nuniq=2 | Any organizations/communes that assist with insects/rats
+s7e_8          nn=460    min=1 max=3 nuniq=3 | Any organizations/communes that assist with other distaster
+s7e1_1         nn=460    nuniq=89 ex=['', 'phßng chèng óng lôt', 'tr\xadëng phßng hãa', 'BCD phßng chèng lôt b·o'] | Name of organization/program that assits with floods
+s7e1_2         nn=460    nuniq=80 ex=['', 'phßng chèng h¹n h¸n', 'CTy thñy n«ng x· ®å', 'HTXNN'] | Name of organization/program that assits with drought
+s7e1_3         nn=460    nuniq=70 ex=['', 'phßng chèng óng lôt', 'UBND x· PCBL', 'BCD phßng chèng lôt b·o'] | Name of organization/program that assits with typhoon
+s7e1_4         nn=460    nuniq=30 ex=['', 'BCD phßng chèng lôt b·o', 'phßng chèng', 'khuyÕn n«ng x·'] | Name of organization/program that assits with land slide
+s7e1_5         nn=460    nuniq=101 ex=['hç trî tiÒn mÆt tõ UBND', '', 'phßng dÞch', 'tr¹m thó y s¬n t©y'] | Name of organization/program that assits with animal/livestock
+s7e1_6         nn=460    nuniq=70 ex=['hç trî tiÒn mÆt tõ UBND', '', 'phßng s©u bÖnh', 'tr¹m khuyÕn n«ng s¬n t©y'] | Name of organization/program that assits with plant disease
+s7e1_7         nn=460    nuniq=50 ex=['', 'tr¹m thó y s¬n t©y', 'HTX NN, khuyÕn n«ng', 'PC SS HTP'] | Name of organization/program that assits with insects/rats
+s7e1_8         nn=460    nuniq=14 ex=['', 'phßng chèng', '99', 'nghiªng ®ång ®æ n\xadíc ra s«ng'] | Name of organization/program that assits with other disasters
+s7q9           nn=460    min=1 max=2 nuniq=2 | Weather generally favourable for agriculture during last 12 months
+s7q10          nn=460    min=1 max=3 nuniq=3 | During last 3 years, weather for agriculture
+s8q1           nn=460    min=1 max=4 nuniq=4 | Public or cooperative irrigation facilities in this commune
+s8q2           nn=458    min=0 max=100 nuniq=43 | Share of farming HHs in this commune using public sources of irrigation
+s8q3           nn=459    min=0 max=100 nuniq=31 | Share of farming HHs in this commune using private sources of irrigation
+s8q4           nn=460    min=0 max=2012 nuniq=53 | Year when most important irrigation canal in this commune was constructed
+s8q5           nn=458    min=0 max=99 nuniq=8 | Location of commune in relation to district's main irrigation facilities
+s8q6a          nn=458    min=0 max=99 nuniq=8 | Main irrigation canals lined with concrete or other solid materials
+s8q6b          nn=460    min=0 max=99 nuniq=8 | Tertiary irrigation canals lined with concrete or other solid materials
+s8q7a          nn=459    min=1 max=99 nuniq=5 | Assessment of state of public/cooperative irrigation facilities-main canals
+s8q7b          nn=460    min=1 max=99 nuniq=5 | Assessment of state of public/cooperative irrigation facilities-tertiary canals
+s8q7c          nn=449    min=0 max=98 nuniq=5 | Assessment of state of public/cooperative irrigation facilities-public wells
+s8q7d          nn=457    min=0 max=99 nuniq=6 | Assessment of state of public/cooperative irrigation facilities-dikes
+s8q7e          nn=458    min=1 max=98 nuniq=4 | Assessment of state of public/cooperative irrigation facilities-gates
+s8q7f          nn=455    min=1 max=98 nuniq=4 | Assessment of state of public/cooperative irrigation facilities-ALL in general
+s8q8           nn=460    min=1 max=2 nuniq=2 | Any cooperatives dealing with irrigation in this commune
+s8q9           nn=108    min=0 max=4 nuniq=5 | How are leaders of the irrigation cooperative appointed
+s8q10          nn=460    min=1 max=2 nuniq=2 | Any commune irrigation groups in this commune
+s8q11          nn=453    min=1 max=3 nuniq=3 | Responsibility for irrigation management given to farmers by authorities
+s8q12a         nn=456    min=1 max=9 nuniq=8 | Who has most influence on decisions on public irrigation facilities-construction
+s8q12b         nn=454    min=1 max=9 nuniq=7 | Who has most influence on decisions on public irrigation facilities-operation of
+s8q12c         nn=455    min=1 max=9 nuniq=8 | Who has most influence on decisions on public irrigation facilities-maintenance 
+s8q12d         nn=443    min=0 max=9 nuniq=9 | Who has most influence on decisions on public irrigation facilities-in general
+s8q13          nn=454    min=1 max=9 nuniq=8 | Who carries out maintenance of tertiary canals and related structures
+s8q14          nn=457    min=1 max=9 nuniq=3 | Did commune apply the Exemption Policy for Irrigation Fees
+s8q15          nn=23     min=1 max=9 nuniq=4 | Why was Exemption Policy for Irrigation Fees not applied in this commune
+s8q16          nn=453    min=1 max=9 nuniq=3 | Anybody not exampted from paying the irrigation fees
+s8q17          nn=457    min=1 max=9 nuniq=3 | Informal irrigation fees that most HHs need to pay
+s8q18          nn=113    min=0 max=2.916e+05 nuniq=54 | Approx. amount paid by typical HH for irrigation of 1000m² agriculture land year
+s8q19          nn=114    min=0 max=6e+05 nuniq=57 | Approx. amount of irrigation cost a typical HH pays per year (000VND)
+s9q1_01        nn=460    min=1 max=2 nuniq=2 | Bank for Social Policies (BSP) has office/organisation in the commune
+s9q1_02        nn=460    min=1 max=2 nuniq=2 | BARD has office/organisation in the commune
+s9q1_03        nn=460    min=1 max=2 nuniq=2 | Other state commercial bank-1 has office/organisation in the commune
+s9q1_04        nn=460    min=1 max=2 nuniq=2 | Other state commercial bank-2 has office/organisation in the commune
+s9q1_05        nn=460    min=1 max=2 nuniq=2 | Private bank has office/organisation in the commune
+s9q1_06        nn=460    min=1 max=2 nuniq=2 | Private bank has office/organisation in the commune
+s9q1_07        nn=460    min=1 max=2 nuniq=2 | People's Credit Funds has office/organisation in the commune
+s9q1_08        nn=460    min=1 max=2 nuniq=2 | Other credit organisations has office/organisation in the commune
+s9q1_09        nn=459    min=1 max=2 nuniq=2 | International organisation has office/organisation in the commune
+s9q1_10        nn=0      nuniq=0 ex=[] | Farmer's Union has office/organisation in the commune
+s9q1_11        nn=0      nuniq=0 ex=[] | Veterans Union has office/organisation in the commune
+s9q1_12        nn=0      nuniq=0 ex=[] | Women's Union has office/organisation in the commune
+s9q1_13        nn=455    min=1 max=2 nuniq=2 | Other mass organisations/unions has office/organisation in the commune
+s9q2_01        nn=307    min=99 max=2011 nuniq=23 | Year when Bank for Social Policies (BSP) was opened in commune
+s9q2_02        nn=134    min=99 max=2012 nuniq=24 | Year when BARD was opened in commune
+s9q2_03        nn=12     min=99 max=2011 nuniq=7 | Year when Other state commercial bank-1 was opened in commune
+s9q2_04        nn=4      min=99 max=2011 nuniq=3 | Year when Other state commercial bank-2 was opened in commune
+s9q2_05        nn=4      min=99 max=2012 nuniq=2 | Year when Private bank was opened in commune
+s9q2_06        nn=2      min=99 max=2010 nuniq=2 | Year when Private bank was opened in commune
+s9q2_07        nn=76     min=99 max=2012 nuniq=22 | Year when People's Credit Funds was opened in commune
+s9q2_08        nn=8      min=1979 max=2010 nuniq=6 | Year when Other credit organisations was opened in commune
+s9q2_09        nn=2      min=2000 max=2000 nuniq=1 | Year when International organisation was opened in commune
+s9q2_10        nn=0      nuniq=0 ex=[] | Year when Farmer's Union was opened in commune
+s9q2_11        nn=0      nuniq=0 ex=[] | Year when Veterans Union was opened in commune
+s9q2_12        nn=0      nuniq=0 ex=[] | Year when Women's Union was opened in commune
+s9q2_13        nn=85     min=99 max=2011 nuniq=20 | Year when Other mass organisations/unions was opened in commune
+s9q3_01        nn=148    min=1 max=500 nuniq=37 | Distance to nearest Bank for Social Policies (BSP) from commune centre (km)
+s9q3_02        nn=319    min=0.1 max=100 nuniq=47 | Distance to nearest BARD from commune centre (km)
+s9q3_03        nn=443    min=0 max=300 nuniq=50 | Distance to nearest Other state commercial bank-1 from commune centre (km)
+s9q3_04        nn=450    min=1 max=300 nuniq=52 | Distance to nearest Other state commercial bank-2 from commune centre (km)
+s9q3_05        nn=449    min=0 max=300 nuniq=56 | Distance to nearest Private bank from commune centre (km)
+s9q3_06        nn=449    min=1 max=300 nuniq=52 | Distance to nearest Private bank from commune centre (km)
+s9q3_07        nn=370    min=0 max=300 nuniq=36 | Distance to nearest People's Credit Funds from commune centre (km)
+s9q3_08        nn=440    min=0 max=300 nuniq=28 | Distance to nearest Other credit organisations from commune centre (km)
+s9q3_09        nn=443    min=0 max=300 nuniq=27 | Distance to nearest International organisation from commune centre (km)
+s9q3_10        nn=1      min=99 max=99 nuniq=1 | Distance to nearest Farmer's Union from commune centre (km)
+s9q3_11        nn=1      min=99 max=99 nuniq=1 | Distance to nearest Veterans Union from commune centre (km)
+s9q3_12        nn=1      min=99 max=99 nuniq=1 | Distance to nearest Women's Union from commune centre (km)
+s9q3_13        nn=354    min=0 max=99 nuniq=18 | Distance to nearest Other mass organisations/unions from commune centre (km)
+s9q4_01        nn=459    min=1 max=2 nuniq=2 | Does Bank for Social Policies (BSP) provide opportunities for saving
+s9q4_02        nn=459    min=1 max=2 nuniq=2 | Does BARD provide opportunities for saving
+s9q4_03        nn=454    min=1 max=2 nuniq=2 | Does Other state commercial bank-1 provide opportunities for saving
+s9q4_04        nn=454    min=1 max=2 nuniq=2 | Does Other state commercial bank-2 provide opportunities for saving
+s9q4_05        nn=454    min=1 max=2 nuniq=2 | Does Private bank provide opportunities for saving
+s9q4_06        nn=453    min=1 max=2 nuniq=2 | Does Private bank provide opportunities for saving
+s9q4_07        nn=455    min=1 max=2 nuniq=2 | Does People's Credit Funds provide opportunities for saving
+s9q4_08        nn=453    min=1 max=2 nuniq=2 | Does Other credit organisations provide opportunities for saving
+s9q4_09        nn=453    min=1 max=2 nuniq=2 | Does International organisation provide opportunities for saving
+s9q4_10        nn=448    min=1 max=2 nuniq=2 | Does Farmer's Union provide opportunities for saving
+s9q4_11        nn=448    min=1 max=2 nuniq=2 | Does Veterans Union provide opportunities for saving
+s9q4_12        nn=447    min=1 max=2 nuniq=2 | Does Women's Union provide opportunities for saving
+s9q4_13        nn=448    min=1 max=2 nuniq=2 | Does Other mass organisations/unions provide opportunities for saving
+s9q5_01        nn=375    min=0 max=99 nuniq=44 | Monthly interest received on current account deposit in Bank for Social Policies
+s9q5_02        nn=386    min=0 max=99 nuniq=63 | Monthly interest received on current account deposit in BARD
+s9q5_03        nn=239    min=0 max=99 nuniq=36 | Monthly interest received on current account deposit in Other state commercial b
+s9q5_04        nn=189    min=0 max=99 nuniq=34 | Monthly interest received on current account deposit in Other state commercial b
+s9q5_05        nn=175    min=0 max=99 nuniq=32 | Monthly interest received on current account deposit in Private bank
+s9q5_06        nn=134    min=0 max=99 nuniq=27 | Monthly interest received on current account deposit in Private bank
+s9q5_07        nn=173    min=0 max=99 nuniq=40 | Monthly interest received on current account deposit in People's Credit Funds
+s9q5_08        nn=68     min=0 max=99 nuniq=12 | Monthly interest received on current account deposit in Other credit organisatio
+s9q5_09        nn=53     min=0 max=99 nuniq=8 | Monthly interest received on current account deposit in International organisati
+s9q5_10        nn=73     min=0 max=99 nuniq=17 | Monthly interest received on current account deposit in Farmer's Union
+s9q5_11        nn=66     min=0 max=99 nuniq=12 | Monthly interest received on current account deposit in Veterans Union
+s9q5_12        nn=77     min=0 max=99 nuniq=17 | Monthly interest received on current account deposit in Women's Union
+s9q5_13        nn=24     min=0.1 max=99 nuniq=7 | Monthly interest received on current account deposit in Other mass organisations
+s9q6_01        nn=457    min=1 max=2 nuniq=2 | Does Bank for Social Policies (BSP) lend money to residents of this commune
+s9q6_02        nn=459    min=1 max=9 nuniq=3 | Does BARD lend money to residents of this commune
+s9q6_03        nn=454    min=1 max=9 nuniq=3 | Does Other state commercial bank-1 lend money to residents of this commune
+s9q6_04        nn=452    min=1 max=9 nuniq=3 | Does Other state commercial bank-2 lend money to residents of this commune
+s9q6_05        nn=451    min=1 max=9 nuniq=3 | Does Private bank lend money to residents of this commune
+s9q6_06        nn=452    min=1 max=9 nuniq=3 | Does Private bank lend money to residents of this commune
+s9q6_07        nn=455    min=1 max=9 nuniq=3 | Does People's Credit Funds lend money to residents of this commune
+s9q6_08        nn=400    min=1 max=2 nuniq=2 | Does Other credit organisations lend money to residents of this commune
+s9q6_09        nn=400    min=1 max=2 nuniq=2 | Does International organisation lend money to residents of this commune
+s9q6_10        nn=448    min=1 max=9 nuniq=3 | Does Farmer's Union lend money to residents of this commune
+s9q6_11        nn=448    min=1 max=9 nuniq=3 | Does Veterans Union lend money to residents of this commune
+s9q6_12        nn=448    min=1 max=9 nuniq=3 | Does Women's Union lend money to residents of this commune
+s9q6_13        nn=424    min=1 max=2 nuniq=2 | Does Other mass organisations/unions lend money to residents of this commune
+s9q7           nn=458    min=0 max=999 nuniq=31 | Number of private moneylenders in this commune
+s10q1_01       nn=460    min=1 max=3 nuniq=3 | Natural disasters/epidemic diseases is a problem in the commune
+s10q1_02       nn=459    min=1 max=2 nuniq=2 | Power, roads & drinking water is a problem in the commune
+s10q1_03       nn=459    min=1 max=2 nuniq=2 | Health services & education is a problem in the commune
+s10q1_04       nn=457    min=1 max=2 nuniq=2 | Poor irrigation system is a problem in the commune
+s10q1_05       nn=458    min=1 max=2 nuniq=2 | Access to education/health is a problem in the commune
+s10q1_06       nn=458    min=1 max=2 nuniq=2 | Quality of education/health is a problem in the commune
+s10q1_07       nn=459    min=1 max=2 nuniq=2 | Environmental problems is a problem in the commune
+s10q1_08       nn=458    min=1 max=2 nuniq=2 | Gender discrimination/family violence is a problem in the commune
+s10q1_09       nn=458    min=1 max=2 nuniq=2 | Ethnic discrimination is a problem in the commune
+s10q1_10       nn=458    min=1 max=2 nuniq=2 | Social evils is a problem in the commune
+s10q1_11       nn=457    min=1 max=2 nuniq=2 | Climate change is a problem in the commune
+s10q2_01       nn=266    min=1 max=3 nuniq=3 | Natural disasters/epidemic diseases is one of the 3 most serious problems in the
+s10q2_02       nn=244    min=1 max=3 nuniq=3 | Power, roads & drinking water is one of the 3 most serious problems in the commu
+s10q2_03       nn=54     min=1 max=3 nuniq=3 | Health services & education is one of the 3 most serious problems in the commune
+s10q2_04       nn=128    min=1 max=3 nuniq=3 | Poor irrigation system is one of the 3 most serious problems in the commune
+s10q2_05       nn=26     min=1 max=3 nuniq=3 | Access to education/health is one of the 3 most serious problems in the commune
+s10q2_06       nn=60     min=1 max=3 nuniq=3 | Quality of education/health is one of the 3 most serious problems in the commune
+s10q2_07       nn=231    min=1 max=3 nuniq=3 | Environmental problems is one of the 3 most serious problems in the commune
+s10q2_08       nn=24     min=1 max=3 nuniq=3 | Gender discrimination/family violence is one of the 3 most serious problems in t
+s10q2_09       nn=4      min=1 max=3 nuniq=3 | Ethnic discrimination is one of the 3 most serious problems in the commune
+s10q2_10       nn=172    min=1 max=3 nuniq=3 | Social evils is one of the 3 most serious problems in the commune
+s10q2_11       nn=109    min=1 max=3 nuniq=3 | Climate change is one of the 3 most serious problems in the commune
+s10q3_01       nn=261    min=1 max=3 nuniq=3 | Natural disasters/epidemic diseases was one of the 3 most serious problems 2 yea
+s10q3_02       nn=238    min=1 max=3 nuniq=3 | Power, roads & drinking water was one of the 3 most serious problems 2 years ago
+s10q3_03       nn=50     min=1 max=3 nuniq=3 | Health services & education was one of the 3 most serious problems 2 years ago
+s10q3_04       nn=133    min=1 max=3 nuniq=3 | Poor irrigation system was one of the 3 most serious problems 2 years ago
+s10q3_05       nn=29     min=1 max=3 nuniq=3 | Access to education/health was one of the 3 most serious problems 2 years ago
+s10q3_06       nn=70     min=1 max=3 nuniq=3 | Quality of education/health was one of the 3 most serious problems 2 years ago
+s10q3_07       nn=211    min=1 max=3 nuniq=3 | Environmental problems was one of the 3 most serious problems 2 years ago
+s10q3_08       nn=23     min=1 max=3 nuniq=3 | Gender discrimination/family violence was one of the 3 most serious problems 2 y
+s10q3_09       nn=3      min=1 max=3 nuniq=2 | Ethnic discrimination was one of the 3 most serious problems 2 years ago
+s10q3_10       nn=182    min=1 max=3 nuniq=3 | Social evils was one of the 3 most serious problems 2 years ago
+s10q3_11       nn=97     min=1 max=3 nuniq=3 | Climate change was one of the 3 most serious problems 2 years ago
+s10q4_01       nn=261    min=0 max=3 nuniq=4 | Natural disasters/epidemic diseases will be one of the 3 most serious problems o
+s10q4_02       nn=204    min=1 max=3 nuniq=3 | Power, roads & drinking water will be one of the 3 most serious problems over th
+s10q4_03       nn=53     min=1 max=3 nuniq=3 | Health services & education will be one of the 3 most serious problems over the 
+s10q4_04       nn=102    min=1 max=3 nuniq=3 | Poor irrigation system will be one of the 3 most serious problems over the next 
+s10q4_05       nn=22     min=1 max=3 nuniq=3 | Access to education/health will be one of the 3 most serious problems over the n
+s10q4_06       nn=67     min=1 max=3 nuniq=3 | Quality of education/health will be one of the 3 most serious problems over the 
+s10q4_07       nn=218    min=1 max=3 nuniq=3 | Environmental problems will be one of the 3 most serious problems over the next 
+s10q4_08       nn=25     min=1 max=3 nuniq=3 | Gender discrimination/family violence will be one of the 3 most serious problems
+s10q4_09       nn=3      min=1 max=3 nuniq=2 | Ethnic discrimination will be one of the 3 most serious problems over the next 2
+s10q4_10       nn=177    min=1 max=3 nuniq=3 | Social evils will be one of the 3 most serious problems over the next 2 years
+s10q4_11       nn=137    min=1 max=3 nuniq=3 | Climate change will be one of the 3 most serious problems over the next 2 years
+s11q1a         nn=459    min=0 max=700 nuniq=133 | proportion in commune with free health insurance
+s11q1b         nn=457    min=0 max=360 nuniq=98 | proportion in commune with voluntary health insurance
+s11q1c         nn=456    min=0 max=800 nuniq=91 | propoartion in commune with compulsory health insurance
+s11q2          nn=459    min=0 max=100 nuniq=28 | number of vilages designated as cultural villages
+s11q3a         nn=460    min=0 max=99 nuniq=37 | Number of villages with Youth organization
+s11q3b         nn=460    min=0 max=99 nuniq=36 | Number of villages with Women's organization
+s11q3c         nn=460    min=0 max=99 nuniq=36 | Number of villages with Farmer's organization
+s11q3d         nn=460    min=0 max=99 nuniq=36 | Number of villages with Veteran's organization
+s11q3e         nn=458    min=0 max=99 nuniq=35 | Number of villages with Red Cross organization
+s11q3f         nn=460    min=0 max=99 nuniq=36 | Number of villages with Old Age Group
+s11q3g         nn=456    min=0 max=99 nuniq=26 | Number of villages with Farmer Interest Group organization
+s11q3h         nn=458    min=0 max=98 nuniq=12 | Number of villages with Water User association
+s11q3i         nn=458    min=0 max=98 nuniq=10 | Number of villages with Business association
+s11q3j         nn=458    min=0 max=99 nuniq=17 | Number of villages with Informal credit
+s11q3k         nn=458    min=0 max=98 nuniq=29 | Number of villages with Cooperative/production group
+s11q3l         nn=458    min=0 max=98 nuniq=18 | Number of villages with Religous group
+s11q3m         nn=458    min=0 max=98 nuniq=19 | Number of villages with Sports/cultural group
+s11q4a         nn=460    min=0 max=100 nuniq=48 | % of HHs using electricity
+s11q4b         nn=459    min=0 max=100 nuniq=71 | % of HHs using hygenic water
+s11q4c         nn=460    min=0 max=100 nuniq=70 | % of students continueing to senior high school
+s11q4d         nn=459    min=0 max=99 nuniq=101 | % of labor force that gets training
+s11q4e         nn=459    min=0 max=190 nuniq=62 | % of students that graduate from sec school
+s11q4f         nn=444    min=0 max=100 nuniq=86 | % of HHs meet national standards
+s11q4g         nn=459    min=1 max=9 nuniq=5 | How is waste collected and processed
+s11q4h         nn=457    min=1 max=9 nuniq=5 | How is water collected and processed
+s11q4i         nn=454    min=0 max=421 nuniq=55 | During 2011 number of days with power outages
+s11q4j         nn=458    min=1 max=9 nuniq=5 | How do power outages negatively impact agriculture
+s11q4k         nn=456    min=1 max=9 nuniq=5 | How do power outages negatively impact industry
+s11q4l         nn=460    min=1 max=5 nuniq=4 | Ways of coping with power outages
+s19q1_1        nn=459    min=1 max=1991 nuniq=44 | Year of birth of interviewed person no. 1
+s19q1_2        nn=204    min=99 max=1992 nuniq=41 | Year of birth of interviewed person no. 2
+s19q1_3        nn=94     min=99 max=1989 nuniq=35 | Year of birth of interviewed person no. 3
+s19q1_4        nn=37     min=1952 max=1987 nuniq=22 | Year of birth of interviewed person no. 4
+s19q2_1        nn=460    min=1 max=2 nuniq=2 | Sex of interviewed person no. 1
+s19q2_2        nn=204    min=1 max=2 nuniq=2 | Sex of interviewed person no. 2
+s19q2_3        nn=94     min=1 max=2 nuniq=2 | Sex of interviewed person no. 3
+s19q2_4        nn=37     min=1 max=2 nuniq=2 | Sex of interviewed person no. 4
+s19q3_1        nn=460    min=1 max=5 nuniq=5 | Position in the commune of interviewed person no. 1
+s19q3_2        nn=204    min=1 max=5 nuniq=5 | Position in the commune of interviewed person no. 2
+s19q3_3        nn=94     min=1 max=5 nuniq=5 | Position in the commune of interviewed person no. 3
+s19q3_4        nn=37     min=1 max=5 nuniq=4 | Position in the commune of interviewed person no. 4
+s19q4_1        nn=460    min=1 max=3 nuniq=3 | Level of education of interviewed person no. 1
+s19q4_2        nn=204    min=1 max=3 nuniq=3 | Level of education of interviewed person no. 2
+s19q4_3        nn=94     min=1 max=3 nuniq=3 | Level of education of interviewed person no. 3
+s19q4_4        nn=37     min=1 max=3 nuniq=3 | Level of education of interviewed person no. 4
+s19q5_1        nn=460    min=1 max=6 nuniq=6 | Member of communist party
+s19q5_2        nn=204    min=1 max=6 nuniq=6 | Member of communist party
+s19q5_3        nn=94     min=1 max=6 nuniq=6 | Member of communist party
+s19q5_4        nn=37     min=1 max=6 nuniq=5 | Member of communist party
+s19q6_1        nn=348    min=1 max=4 nuniq=4 | Size of landholding
+s19q6_2        nn=190    min=1 max=4 nuniq=4 | Size of landholding
+s19q6_3        nn=92     min=1 max=5 nuniq=4 | Size of landholding
+s19q6_4        nn=36     min=1 max=5 nuniq=4 | Size of landholding
+year           nn=460    min=12 max=12 nuniq=1 | 
+tinh_2008      nn=438    min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=438    min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=438    min=1 max=99 nuniq=45 | Commune 2008
+tinh_2014      nn=452    min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=452    min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=452    min=1 max=99 nuniq=45 | Commune 2014
+tinh_2016      nn=445    min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=445    min=1 max=50 nuniq=30 | District 2016
+xa_2016        nn=445    min=1 max=99 nuniq=45 | Commune 2016
+copanel0816    nn=460    min=0 max=1 nuniq=2 | Panel of communes 08-16
+
+VALUE LABELS
+[education] n=4: 1=Primary school completed; 2=Lower secondary school completed; 3=Upper secondary school completed; 4=University completed
+[position] n=5: 1=Commune Chairperson; 2=Commune Deputy Chairperson; 3=Commune Statistical Officer; 4=Official responsible for agriculture; 5=Other
+[sex] n=2: 1=Male; 2=Female
+[cope] n=4: 1=nothing; 2=invest in electricity generator; 3=solar power; 4=reduce production
+[power] n=4: 1=Severely; 2=Moderately affects; 3=Does not affect much; 4=not at all
+[wastewater] n=4: 1=No system; 2=System but performance is bad; 3=System, performance is medium; 4=System performnace is good
+[problem] n=3: 1=Most serious problem; 2=2nd most serious problem; 3=3rd most serious problem
+[none] n=3: 99=Don't know; 999=None; 9999=None
+[DK] n=1: 99=Don't know
+[NADK] n=2: 98=Not applicable; 99=Don't know
+[exempt2] n=2: 1=Rich/non-poor households are not exempted; 2=Everybody is exempted
+[exempt1] n=3: 1=Didn't know about the Policy; 2=The service would be unfunded if the households don't pay a fee; 3=Other
+[maintenance2] n=6: 1=Farmers themselves; 2=Irrigation and drainage company; 3=Companies/individuals hired by Irrigation and drainage company; 4=Commune Irrigation Group/cooperative; 5=Companies/individuals hired by Commune Irrigation Group or cooperative; 6=Others
+[maintenance1] n=7: 1=Farmers groups; 2=Commune Irrigation Group; 3=Cooperative; 4=Irrigation and drainage company; 5=Commune People's Committee; 6=District People's Committee; 7=Others
+[resp] n=3: 1=Yes, a lot; 2=Yes, some; 3=No
+[leaders] n=4: 1=By the Commune People's Committee; 2=By farmers themselves; 3=By the People's Committee and the farmers; 4=By others
+[state] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not applicable; 99=Don't know
+[lining] n=6: 1=All canals lined; 2=Mostly lined; 3=Mostly not lined; 4=No canals lined; 98=Not applicable; 99=Don't know
+[s8q5] n=5: 1=Head end; 2=Tail end; 3=Middle/both; 98=Not applicable; 99=Don't know
+[year] n=2: 98=Not applicable; 99=Don't know
+[facility] n=4: 1=Yes, public; 2=Yes, cooperative; 3=Yes, both public and cooperative; 4=No
+[weather] n=3: 1=Better than normal; 2=Normal; 3=Worse than normal
+[s7d] n=3: 1=Better; 2=Same; 3=Worse
+[month] n=12: 1=January; 2=February; 3=March; 4=April; 5=May; 6=June; 7=July; 8=August; 9=September; 10=October; 11=November; 12=December
+[maintenance] n=5: 1=during last 6 months; 2=more than 1 year ago; 3=more than 3 years ago; 4=has never received maintenance; 9=Don't know
+[condition] n=4: 1=bad; 2=acceptable; 3=good; 9=Don't know
+[s6q2] n=3: 1=Commune officials; 2=commune officials with few local commune members; 3=commune officilas with many local commmune members
+[s5q4] n=3: 1=none; 2=some (1-5; 3=many(>5)
+[firms] n=3: 1=None; 2=Some(1-5); 3=Many(>5)
+[income] n=10: 1=Agriculture; 2=Forestry; 3=Aquaculture; 4=Manufacturing; 5=Handicrafts; 6=Construction; 7=Trade; 8=Transport; 9=Other services; 10=Other
+[s4q20] n=3: 1=All seasons; 2=Only some seasons; 98=Not applicable
+[NA] n=1: 98=Not applicable
+[reasonsell] n=6: 1=To take up non-agricultural occupation; 2=To move to another area; 3=Change to residential land; 4=Change to enterprise land; 5=Migrate into commune; 6=Other
+[reasonbuy] n=6: 1=To increase cultivated area; 2=To consolidate cultivated area; 3=Change to residential land; 4=Change to enterprise land; 5=Migrate into commune; 6=Other
+[s4q7] n=4: 1=None; 2=A few; 3=Some; 4=Many
+[s3q7] n=3: 1=yes; 2=no; 3=unsure
+[beneficiary] n=8: 1=Whole community; 2=Poor; 3=Landless; 4=Women; 5=Children; 6=Women & children; 7=Elders; 8=Other
+[budget] n=1: 99=Not known
+[sponsor] n=4: 1=Government; 2=NGO; 3=International development agency; 4=Other
+[endyear] n=1: 999=Still in operation
+[project] n=16: 1=Agriculture; 2=Irrigation; 3=Forestry; 4=Industry/services; 5=Micro-credit; 6=Roads; 7=Power; 8=Immigration; 9=Education; 10=Health/family planning; 11=Nutrition; 12=Drinking water; 13=Housing; 14=Job creation/vocational training; 15=Climate change awareness; 16=Other
+[yesnona] n=3: 1=yes; 2=no; 98=Not applicable
+[rank4] n=4: 1=Rank 1; 2=Rank 2; 3=Rank 3; 4=Rank 4
+[rank12] n=13: 1=Rank 1; 2=Rank 2; 3=Rank  3; 4=Rank  4; 5=Rank  5; 6=Rank  6; 7=Rank  7; 8=Rank  8; 9=Rank  9; 10=Rank  10; 11=Rank  11; 12=Rank  12; 98=Not applicable
+[yesno] n=2: 1=Yes; 2=No
+[target] n=5: 1=134 Programme; 2=135 Programme; 3=Coastal communes programme; 4=Other national targeted poverty reduction programme; 5=None
+[khu_vuc] n=2: 1=Urban; 2=Rural
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[S5Q2A] n=1: 98=Kh«ng ¸p dông
+[S5Q2B] n=1: 98=Kh«ng ¸p dông
+[S5Q2C] n=1: 98=Kh«ng ¸p dông
+[S5Q2D] n=1: 98=Kh«ng ¸p dông
+[S5Q2F] n=1: 98=Kh«ng ¸p dông
+[S6Q3A] n=1: 98=Kh«ng ¸p dông
+[S6Q3B] n=1: 98=Kh«ng ¸p dông
+[S6Q3C] n=1: 98=Kh«ng ¸p dông
+[S6Q3D] n=1: 98=Kh«ng ¸p dông

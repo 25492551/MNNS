@@ -1,0 +1,20 @@
+Q7A_New_10.dta  rows=31430  cols=10
+
+tinh_2010      nn=31430  min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=31430  min=1 max=50 nuniq=28 | District 2010
+xa_2010        nn=31430  min=1 max=99 nuniq=45 | Commune 2010
+ma_h0_2010     nn=31430  min=1 max=98 nuniq=37 | HHcode 2010
+p36ma_         nn=31430  min=1 max=14 nuniq=14 | Food item
+p36q1_         nn=31430  min=1 max=2 nuniq=2 | Household consumed food item in the last 4 weeks
+p36q2_         nn=31430  min=0 max=99 nuniq=72 | Quantity consumed of this item in the last 4 weeks
+p36q3_         nn=31430  min=0 max=750 nuniq=87 | Market price per unit (000VND)
+p36q4_         nn=31429  min=0 max=1e+06 nuniq=217 | Total monetary value consumed in the past 4 weeks (000VND)
+panel0816      nn=29834  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p36q4] n=1: 999999=Not Applicable
+[p36q3] n=2: 98=Not Applicable; 99=Don't know
+[p36q2] n=2: 98=Not Applicable; 99=Cannot estimate
+[yesno] n=2: 1=Yes; 2=No
+[p36ma] n=14: 1=Pork; 2=Beef; 3=Chicken; 4=Any kind of fish; 5=Any kind of shrimp; 6=Any kind of fruit; 7=Any kind of candy/cookie; 8=Powdered or canned milk; 9=Liquid Milk; 10=Any kind of beer; 11=Rice wine or other local alcoholic drink; 12=Coffee; 13=Industrial beverages (in can, bottle); 14=Eating and drinking outside the home/processed foods
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

@@ -1,0 +1,35 @@
+Q3b_New.dta  rows=43282  cols=18
+
+tinh_2008      nn=43282  min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=43282  min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=43282  min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=43282  min=1 max=98 nuniq=33 | HHcode 2008
+ntlp18         nn=41591  min=1 max=6 nuniq=6 | Respondent P18
+p18ma_         nn=38799  min=1 max=19 nuniq=19 | Crop
+p18q1_         nn=38795  min=0 max=1e+06 nuniq=999 | 1. What was the total quantity of output produced?
+p18q2_         nn=38792  min=0 max=9.098e+05 nuniq=1484 | 2. What was the total value of output produced?
+p18q3_         nn=38785  min=0 max=100 nuniq=30 | 3. What was the estimated post-harvest loss, in percent of total harvest?
+p18q4_         nn=36788  min=0 max=1e+06 nuniq=297 | 4. What was the total quantity sold or bartered?
+p18q5_         nn=37315  min=0 max=8.776e+05 nuniq=631 | 5. What was the total amount received?
+p18q6_         nn=36781  min=0 max=2.536e+04 nuniq=198 | 6. How much do you store today?
+p18q7_         nn=36777  min=0 max=4.8e+05 nuniq=279 | 7. What is the quantity of production in the last 12 months?
+p18q8_         nn=36094  min=1 max=1e+06 nuniq=11 | 8. Who is mainly responsible for selling this crop?
+p18q9_         nn=36094  min=1 max=1e+06 nuniq=8 | 9. To whom did you mainly sell/barter the output? Please tell me who your most i
+p18q10_        nn=38790  min=1 max=1e+06 nuniq=9 | 10. How do you store this crop?
+p18q11_        nn=38011  min=1 max=4.5e+05 nuniq=1303 | 11. What is the estimated are in hectares of three most important crops in the l
+panel0816      nn=40489  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p18q11_] n=1: 98=No Applicable
+[p18q10_] n=9: 1=Leave in field; 2=Store in soil tank; 3=Leave on ground inside house; 4=Hang inside house; 5=Keep underground; 6=In water with chemicals; 7=Other; 98=Not sell; 999999=No Applicable
+[p18q9_] n=8: 1=Private households/individuals; 2=Private trader/enterprise; 3=Cooperative; 4=State owned enterprise; 5=Foreign companies/individuals; 6=Other; 98=Not sell; 999999=No Applicable
+[p18q8_] n=2: 98=Not sell; 999999=No Applicable
+[p18q7_] n=1: 98=No Applicable
+[p18q6_] n=1: 98=No Applicable
+[p18q5_] n=1: 98=No Applicable
+[p18q4_] n=1: 98=No Applicable
+[p18q3_] n=1: 98=No Applicable
+[p18q2_] n=1: 98=No Applicable
+[p18q1_] n=2: 98=Have not reaped yet; 999999=No Applicable
+[p18ma_] n=19: 1=Rice; 2=Maize; 3=Potato; 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Vegetables; 8=Other annual crop; 9=Fruit; 10=Coffee; 11=Tea; 12=Cocoa; 13=Cashew Nuts; 14=Sugar cane; 15=Pepper; 16=Rubber; 17=Medicinal trees; 18=Other perennial crop; 19=Forestry products (e.g. timber, bamboo, bamboo shoots, rattan, sicklack, cardamom
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An

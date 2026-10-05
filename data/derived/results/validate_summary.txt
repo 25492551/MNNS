@@ -1,0 +1,170 @@
+== A1 병합과 대체
+         n  month_imp  wage_imp  uv_imp   V_na     V0  rain_dist
+wave                                                            
+2008  1664      0.120     0.042   0.011  0.016  0.025      0.879
+2010  1573      0.091     0.100   0.007  0.011  0.016      0.878
+2012  1814      0.026     0.071   0.004  0.004  0.019      0.874
+2014  1737      0.089     0.084   0.009  0.012  0.012      0.872
+2016  1574      0.017     0.040   0.003  0.031  0.020      0.857
+== A2 패널 연결
+waves per household (all hh): {1: 59, 2: 56, 3: 549, 4: 51, 5: 2131}
+{'linked_pairs': 9831, 'share_abs_dsize_le2': 0.9470043739192351, 'share_abs_dsize_ge5': 0.0077306479503611025, 'province_changed': 0}
+== A3 HDDS·ASF
+      hdds_mean  hdds_sd  asf_mean  cereal  asf_gt_hdds
+wave                                                   
+2008      5.887    1.854     1.545   0.981            0
+2010      6.201    1.878     1.679   0.989            0
+2012      6.219    1.679     1.659   0.989            0
+2014      5.958    1.760     1.581   0.992            0
+2016      6.075    1.799     1.681   0.988            0
+group shares {'g01': 0.988, 'g02': 0.415, 'g03': 0.973, 'g04': 0.555, 'g05': 0.698, 'g06': 0.369, 'g07': 0.37, 'g08': 0.304, 'g09': 0.192, 'g10': 0.788, 'g11': 0.418}
+hdds distribution {0.0: 2, 1.0: 4, 2.0: 122, 3.0: 396, 4.0: 1039, 5.0: 1580, 6.0: 1722, 7.0: 1514, 8.0: 927, 9.0: 464, 10.0: 174, 11.0: 94}
+== A4 V 구성
+                          count    25%    50%    75%  share_gt_1.05
+Ha Tay|Winter-spring     1912.0  0.500  0.524  0.545          0.001
+Lao Cai|Winter-spring     394.0  0.507  0.567  1.000          0.008
+Phu Tho|Winter-spring    1310.0  0.512  0.536  0.600          0.002
+Lai Chau|Winter-spring    536.0  0.544  1.000  1.000          0.006
+Dien Bien|Winter-spring   546.0  0.550  0.729  1.000          0.007
+Nghe An|Winter-spring     700.0  0.519  0.566  0.642          0.003
+Quang Nam|Winter-spring  1103.0  0.500  0.518  0.547          0.004
+Khanh Hoa|Winter-spring   164.0  0.500  0.519  0.545          0.000
+Dak Lak|Summer            342.0  0.501  0.600  1.000          0.018
+Dak Nong|Summer           167.0  0.528  0.610  1.000          0.000
+Lam Dong|Summer            79.0  0.542  0.600  1.000          0.000
+Long An|Spring-summer       1.0  0.520  0.520  0.520          0.000
+Long An|Winter-spring     831.0  0.444  0.529  0.600          0.000
+      varhs_uv_median_kVND_per_kg  faostat_annual_kVND_per_kg  ratio
+wave                                                                
+2008                        5.000                       4.671  1.070
+2010                        5.000                       5.389  0.928
+2012                        6.000                       6.234  0.962
+2014                        6.500                       6.446  1.008
+2016                        6.061                       6.342  0.956
+ln V sd (V>0): 0.973 within-hh sd: 0.439
+== A5 강우와 D/W
+mean annual rain 1981-2007 (mm) {'Ha Tay': 1671.0, 'Lao Cai': 1801.0, 'Phu Tho': 1681.0, 'Lai Chau': 1855.0, 'Dien Bien': 1724.0, 'Nghe An': 1600.0, 'Quang Nam': 2759.0, 'Khanh Hoa': 1910.0, 'Dak Lak': 1844.0, 'Dak Nong': 2089.0, 'Lam Dong': 2133.0, 'Long An': 1554.0}
+      Z_mean   Z_sd  share_dry  share_absZ_gt1
+wave                                          
+2008   0.711  1.325      0.360           0.352
+2010  -0.656  0.652      0.840           0.232
+2012   0.594  1.078      0.250           0.133
+2014  -0.083  1.247      0.531           0.250
+2016  -0.403  0.958      0.540           0.310
+district-wave cells 632 corr(Z, Z_prov) 0.975 corr(Z, Z_end) 0.762 share of Z variance within wave 0.8
+wave       2008  2010  2012  2014  2016
+Ha Tay    -0.32 -1.02  0.63  0.06 -0.82
+Lao Cai    0.37 -0.52 -0.16 -0.38  0.47
+Phu Tho   -0.32 -0.88  0.65  0.54  0.03
+Lai Chau   0.59 -0.26 -0.63 -0.11  0.30
+Dien Bien  0.56 -0.60 -0.49 -0.32  0.59
+Nghe An   -0.94 -1.87  0.09 -2.46 -1.01
+Quang Nam  3.24 -0.11  3.65  2.36  0.46
+Khanh Hoa  0.12 -0.44  1.32 -0.82  0.23
+Dak Lak    2.16  0.08  0.48  0.96 -1.56
+Dak Nong   2.41  0.15  0.17  0.01 -2.12
+Lam Dong   2.07 -0.12 -0.02 -0.29 -2.17
+Long An    0.65 -0.58  0.46 -0.11  0.58
+== A6 작기 배정(시작 기준) 진단: 최근 작기 쌀 kg / 두 번째 작기 쌀 kg
+                     n  median_log_ratio  share_recent_larger
+Ha Tay|2008|m7     222             0.159                0.905
+Ha Tay|2008|m8     114             0.213                0.939
+Ha Tay|2010|m6      44             0.095                0.727
+Ha Tay|2010|m7     249             0.049                0.606
+Ha Tay|2012|m6     314             0.084                0.691
+Ha Tay|2012|m7      85             0.100                0.729
+Ha Tay|2014|m6     307             0.114                0.808
+Ha Tay|2014|m7      20             0.085                0.750
+Ha Tay|2016|m6     311             0.037                0.592
+Lao Cai|2008|m7     41             0.041                0.561
+Lao Cai|2010|m7     47             0.028                0.617
+Lao Cai|2012|m6     52             0.038                0.635
+Lao Cai|2014|m6     39             0.197                0.821
+Lao Cai|2016|m6     44             0.042                0.636
+Phu Tho|2008|m7    186             0.099                0.640
+Phu Tho|2010|m7    179             0.080                0.715
+Phu Tho|2012|m6    233             0.110                0.837
+Phu Tho|2014|m6    263             0.223                0.943
+Phu Tho|2016|m6    242             0.183                0.831
+Lai Chau|2008|m8    41             0.223                0.780
+Lai Chau|2010|m7    40             0.054                0.775
+Lai Chau|2012|m6    37             0.108                0.865
+Lai Chau|2014|m6    59             0.112                0.678
+Lai Chau|2016|m6    31             0.000                0.419
+Dien Bien|2008|m7   27             0.709                0.852
+Dien Bien|2010|m7   55             0.230                0.782
+Dien Bien|2012|m6   71             0.477                0.944
+Dien Bien|2014|m6   75             0.305                0.947
+Dien Bien|2016|m6   74             0.186                0.878
+Nghe An|2008|m7    111             0.182                0.829
+Nghe An|2010|m7    111             0.083                0.811
+Nghe An|2012|m6     90             0.391                0.900
+Nghe An|2012|m7     40             0.470                0.950
+Nghe An|2014|m6    119             0.421                1.000
+Nghe An|2016|m6    126             0.182                0.897
+== B1 1단계 대안 명세 (결합 F = D, W 결합 Wald/2, district 군집)
+                                     nobs       F     F_p     b_D     b_W  b_D_prov  b_W_prov  b_D_end  b_W_end     b_Z    b_Z2    b_D1    b_W1  b_D_post  b_W_post
+spec                                                                                                                                                               
+main: lnV1 ~ D,W (district, start)   8038  1.6438  0.1932  0.0435 -0.0606       NaN       NaN      NaN      NaN     NaN     NaN     NaN     NaN       NaN       NaN
+quantity: ln(1+kg) ~ D,W             8035  2.6425  0.0712  0.0547 -0.0639       NaN       NaN      NaN      NaN     NaN     NaN     NaN     NaN       NaN       NaN
+province rain: lnV1 ~ D_prov,W_prov  8038  0.9402  0.3906     NaN     NaN    0.0504   -0.0494      NaN      NaN     NaN     NaN     NaN     NaN       NaN       NaN
+end rule: lnV1 ~ D_end,W_end         8038  3.5423  0.0289     NaN     NaN       NaN       NaN  -0.0528  -0.0734     NaN     NaN     NaN     NaN       NaN       NaN
+linear+square: lnV1 ~ Z,Z^2          8038  1.6545  0.1912     NaN     NaN       NaN       NaN      NaN      NaN -0.0563  0.0007     NaN     NaN       NaN       NaN
+extreme: lnV1 ~ 1[Z<-1],1[Z>1]       8038  1.3058  0.2710     NaN     NaN       NaN       NaN      NaN      NaN     NaN     NaN  0.0717 -0.1457       NaN       NaN
+placebo: lnV1 ~ D_post,W_post        8038  0.4106  0.6633     NaN     NaN       NaN       NaN      NaN      NaN     NaN     NaN     NaN     NaN    0.0478   -0.0152
+V>0 only: lnV1 ~ D,W                 7888  2.2328  0.1072 -0.0158 -0.0285       NaN       NaN      NaN      NaN     NaN     NaN     NaN     NaN       NaN       NaN
+district-rain only: lnV1 ~ D,W       7004  0.8072  0.4461  0.0545 -0.0437       NaN       NaN      NaN      NaN     NaN     NaN     NaN     NaN       NaN       NaN
+== B2 위약 축약형: HDDS ~ 면접 뒤 3개월 D,W
+outcome                      spec    var    coef     se      p  nobs
+   hdds                   R3 main      D  0.0398 0.0619 0.5211  8038
+   hdds                   R3 main      W  0.0509 0.0608 0.4029  8038
+   hdds R3 placebo post-interview D_post -0.1227 0.2062 0.5518  8038
+   hdds R3 placebo post-interview W_post -0.0790 0.0663 0.2333  8038
+    asf                   R3 main      D  0.0218 0.0301 0.4682  8038
+    asf                   R3 main      W -0.0268 0.0252 0.2879  8038
+    asf R3 placebo post-interview D_post -0.0446 0.0851 0.6003  8038
+    asf R3 placebo post-interview W_post -0.0565 0.0283 0.0456  8038
+== B3 이질성: 관개 비율, 지역
+irrigation share median 73.0 coverage 0.988
+                            nobs       F     F_p     b_D     p_D     b_W     p_W
+group                                                                           
+irrigation below median     3952  1.9900  0.1367  0.1461  0.0461 -0.0265  0.5416
+irrigation at/above median  4079  1.1611  0.3131 -0.0133  0.7306 -0.0730  0.2077
+north (5 provinces)         4649  0.0160  0.9842  0.0017  0.9871  0.0235  0.8735
+central/highlands/south     3389  2.1796  0.1131  0.0593  0.2068 -0.1155  0.0373
+drop Ha Tay                 6181  0.7947  0.4517  0.0079  0.8541 -0.0448  0.2076
+drop Lao Cai                7621  4.1646  0.0155  0.0649  0.0800 -0.0934  0.0061
+drop Phu Tho                6752  1.9361  0.1443  0.0599  0.1604 -0.0668  0.0682
+drop Lai Chau               7491  0.9710  0.3787  0.0392  0.3471 -0.0483  0.1751
+drop Dien Bien              7496  1.5139  0.2200  0.0512  0.2332 -0.0649  0.0932
+drop Nghe An                7344  1.9358  0.1443  0.1105  0.0818 -0.0510  0.1486
+drop Quang Nam              6935  1.6808  0.1862  0.0208  0.5861 -0.1304  0.0856
+drop Khanh Hoa              7872  1.7310  0.1771  0.0460  0.2536 -0.0632  0.0726
+drop Dak Lak                7682  1.1173  0.3271  0.0060  0.8741 -0.0502  0.1515
+drop Dak Nong               7860  1.1858  0.3055  0.0443  0.2933 -0.0505  0.1469
+drop Lam Dong               7958  1.7177  0.1795  0.0390  0.3336 -0.0644  0.0673
+drop Long An                7226  1.1013  0.3325  0.0289  0.4088 -0.0473  0.1700
+== B4 OLS FE 민감도 (lnV1 계수)
+V==0 hh-waves in sample 140 households with any V==0 125
+                          sample outcome    coef     se      p  nobs  n_hh
+                            full    hdds -0.0483 0.0247 0.0502  8038  1923
+                            full     asf -0.0272 0.0130 0.0362  8038  1923
+no imputed month/wage/unit value    hdds -0.0666 0.0273 0.0148  7095  1850
+no imputed month/wage/unit value     asf -0.0309 0.0145 0.0331  7095  1850
+              trim V 1-99% (V>0)    hdds  0.0605 0.0542 0.2642  7715  1888
+              trim V 1-99% (V>0)     asf -0.0128 0.0243 0.5994  7715  1888
+                balanced 5 waves    hdds -0.0513 0.0311 0.0986  5360  1072
+                balanced 5 waves     asf -0.0220 0.0166 0.1866  5360  1072
+              district rain only    hdds -0.0682 0.0270 0.0116  7004  1686
+              district rain only     asf -0.0382 0.0142 0.0073  7004  1686
+                        V>0 only    hdds  0.0413 0.0452 0.3609  7888  1910
+                        V>0 only     asf -0.0072 0.0213 0.7360  7888  1910
+            full + 1[V=0] (lnV1)    hdds  0.0174 0.0466 0.7081  8038  1923
+              full + 1[V=0] (V0)    hdds  0.6966 0.4267 0.1026  8038  1923
+            full + 1[V=0] (lnV1)     asf -0.0133 0.0217 0.5393  8038  1923
+              full + 1[V=0] (V0)     asf  0.1472 0.1877 0.4330  8038  1923
+== B5 1단계 F가 약할 때 2SLS: just-identified D만, W만
+instruments    coef     se      p  nobs  n_hh  n_cl   fs_F  fs_F_p  fs_partial_r2  overid_stat  overid_p  endog_stat  endog_p
+          D  1.5995 2.5347 0.5280  8038  1923   129 0.9020  0.3422         0.0002          NaN       NaN      0.9497   0.3298
+          W -0.6699 1.4110 0.6350  8038  1923   129 1.7428  0.1868         0.0006          NaN       NaN      0.2351   0.6278
+        D+W -0.1491 1.0966 0.8919  8038  1923   129 1.9649  0.3744         0.0008        4.002    0.0454      0.0085   0.9263

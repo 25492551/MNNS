@@ -1,0 +1,85 @@
+Phieu2_New_16.dta  rows=2669  cols=65
+
+tinh_2016      nn=2669   min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=2669   min=1 max=50 nuniq=31 | District 2016
+xa_2016        nn=2669   min=1 max=99 nuniq=47 | Commune 2016
+ma_h0_2016     nn=2669   min=1 max=99 nuniq=81 | HHcode 2016
+tinh_2014      nn=2667   min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=2667   min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=2667   min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=2667   min=1 max=99 nuniq=81 | HHcode 2014
+p37q1_01       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - bread, rice, noodles etc
+p37q1_02       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - Any potatoes, yams, cassava or any other food made from roots 
+p37q1_03       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - vegetables
+p37q1_04       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - fruit
+p37q1_05       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - meat, poultry, offal
+p37q1_06       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - eggs
+p37q1_07       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - fish and seafood
+p37q1_08       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - pulses, legumes, nuts
+p37q1_09       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - cheese, youghurt, milk etc
+p37q1_10       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - oil, fat, butter
+p37q1_11       nn=2669   min=1 max=2 nuniq=2 | did your HH eat - sugar, honey
+p37q2          nn=2647   min=1 max=98 nuniq=4 | At present, do you smoke?
+p37q3a         nn=2669   min=3 max=4 nuniq=2 | In which amount are the following beverages normally consumed-BEER
+p37q3b         nn=2669   min=3 max=4 nuniq=2 | In which amount are the following beverages normally consumed-WINE (Rice, Cassav
+p40q1          nn=2669   min=1 max=2 nuniq=2 | Has your household borrowed money or goods since 1 July 2014
+p41q21         nn=2669   min=0 max=10 nuniq=6 | How many times since 1 July 2014 have you had a loan rejected?
+p41q22a        nn=21     min=1 max=9 nuniq=7 | What are the three main reasons for having loan rejected - First
+p41q22b        nn=8      min=2 max=9 nuniq=2 | What are the three main reasons for having loan rejected - Second
+p41q22c        nn=4      min=2 max=9 nuniq=4 | What are the three main reasons for having loan rejected - Third
+p42q1          nn=2669   min=1 max=2 nuniq=2 | Household has any type of insurance
+p42q6          nn=2669   min=4 max=1e+04 nuniq=32 | If insurance against loss or damage of crop were available, how much would respo
+p43q1          nn=2669   min=1 max=2 nuniq=2 | Since 1 July 2014, did HH suffer from an unexpected loss from any of shocks ment
+p43q8a         nn=2669   min=1 max=98 nuniq=3 | Has the weather in general been favourable for agriculture - during last 12 mont
+p43q8b         nn=2669   min=1 max=98 nuniq=4 | During the last three years the weather has been in general?
+p46q13         nn=2632   min=0 max=98 nuniq=32 | Number of people known whom could be asked for help with [this]
+di_cu          nn=2669   min=1 max=2 nuniq=2 | is migration relevant to the HH
+p57q1          nn=2669   min=1 max=2 nuniq=2 | Any HH member holding office or other positions of public responsibility in the 
+p57q2a         nn=157    min=1 max=9 nuniq=8 | HH member ID holding these public responsibility positions? 1st person
+p57q2b         nn=21     min=2 max=9 nuniq=6 | HH member ID holding these public responsibility positions? 2nd person
+p57q3a         nn=153    min=1 max=6 nuniq=6 | Positions held by HH members? 1st person
+p57q3b         nn=20     min=2 max=6 nuniq=4 | Positions held by HH members? 2nd person
+p57q4          nn=2669   min=1 max=2 nuniq=2 | Any relatives outside HH holding office or other trusted positions in the Commun
+p57q5a         nn=413    min=1 max=4 nuniq=4 | Relationship to these relatives with trusted position? 1st person
+p57q5b         nn=128    min=1 max=4 nuniq=4 | Relationship to these relatives with trusted position? 2nd person
+p57q6a         nn=394    min=1 max=6 nuniq=6 | Positions held by relatives? 1st person
+p57q6b         nn=126    min=1 max=6 nuniq=6 | Positions held by relatives? 2nd person
+p57q7          nn=2669   min=1 max=2 nuniq=2 | Any personal friends holding office or other trusted positions in the Commune, o
+p57q8a         nn=619    min=1 max=6 nuniq=6 | Positions held by friends? 1st person
+p57q8b         nn=468    min=1 max=6 nuniq=6 | Positions held by friends? 2nd person
+p58q2          nn=2662   min=1 max=5 nuniq=5 | Access to internet services, if yes where mainly?
+p58q3b_01      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - RELATIVES
+p58q3b_02      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - COMMUNITY BOARD
+p58q3b_03      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - COMMUNITY LOUD SPEAKERS
+p58q3b_04      nn=2666   min=1 max=9 nuniq=5 | For information, how trustworthy are - LOCAL MARKET
+p58q3b_05      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - NEWSPAPER
+p58q3b_06      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - RADIO
+p58q3b_07      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - TELEVISON
+p58q3b_08      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - EXTENSION AGENTS
+p58q3b_09      nn=2666   min=1 max=9 nuniq=5 | For information, how trustworthy are - OTHER GROUPS/MASS ORGANISATION
+p58q3b_10      nn=2667   min=1 max=9 nuniq=5 | For information, how trustworthy are - BUSINESS/WORK ASSOCIATES
+p58q3b_11      nn=2665   min=1 max=9 nuniq=5 | For information, how trustworthy are - INTERNET
+p59q8          nn=2659   min=0 max=1.15e+05 nuniq=80 | How much money did you spend during the Tet holidays?
+p59q9a         nn=2668   min=1 max=2 nuniq=2 | Have any members passed away in the last 12 months?
+p59q9b         nn=65     min=3000 max=1.2e+05 nuniq=25 | if yes, how much did you spend on their funeral on average?
+p59q9c         nn=2669   min=1 max=2 nuniq=2 | Did your HH join any funerals of other HHs?
+p59q9d         nn=2589   min=0 max=2000 nuniq=24 | On average, how much do you spend per funeral?
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[TINH_2014] n=13: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=Kh¸nh Hßa; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An; 0=Khong co
+[P39Q21] n=1: 98=Kh«ng vay
+[P57Q2B] n=1: 0=Kh«ng cã
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[yesno] n=2: 1=Yes; 2=No
+[p37q2] n=4: 1=Yes; 2=No, but I used to smoke before; 3=No, I have never smoked; 98=Not Applicable
+[p37q3a] n=6: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=1 or 2 glasses(<1/2liter a day); 4=I don't drink this on a daily basis; 9=No husband; 98=Not Applicable
+[p37q3b] n=6: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=1 or 2 glasses(<1/2liter a day); 4=I don't drink this on a daily basis; 9=No husband; 98=Not Applicable
+[p41q22] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=NA
+[p42q6] n=2: 98=not interested; 99=don't know
+[p43q8b] n=4: 1=Better than normal; 2=Normal; 3=Worse than normal; 98=Not applicable
+[yesnona] n=3: 1=Yes; 2=No; 98=Not applicable
+[p57q3] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=Not Applicable
+[p57q5] n=5: 1=Father/mother (also in-laws); 2=Sister/brother (also in-laws); 3=Son/daughter (also in-laws); 4=Cousin or other; 98=Not Applicable
+[p58q2] n=5: 1=Don't have access; 2=Access from home; 3=From workplace; 4=From Internet Cafe; 5=I don't know what internet is
+[p58q3b] n=6: 1=Highly trustworthy; 2=Mostly trustworthy; 3=Mostly not trustworthy; 4=Not trustworthy; 9=Don't know information source; 98=Not applicable

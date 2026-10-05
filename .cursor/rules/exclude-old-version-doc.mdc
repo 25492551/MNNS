@@ -1,0 +1,10 @@
+---
+description: docs/old-version.md는 사용자가 명시적으로 요청할 때만 참고
+alwaysApply: true
+---
+
+# docs/old-version.md 사용 제한
+
+- `docs/old-version.md`는 이전 버전 문서이므로, 사용자가 명시적으로 요청하지 않는 한 답변의 근거·참고 자료로 사용하지 않는다.
+- 검색 결과에 이 파일이 나오더라도 읽거나 인용하지 말고, 다른 문서와 코드를 기준으로 답변한다.
+- 사용자가 이 파일을 직접 언급하거나(@docs/old-version.md 등) 이전 버전 내용을 요청한 경우에만 참고한다.

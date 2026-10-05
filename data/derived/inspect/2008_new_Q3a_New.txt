@@ -1,0 +1,37 @@
+Q3a_New.dta  rows=11622  cols=21
+
+tinh_2008      nn=11622  min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=11622  min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=11622  min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=11622  min=1 max=98 nuniq=33 | HHcode 2008
+ntlp17         nn=11613  min=1 max=6 nuniq=6 | Respondent P17
+p17q0          nn=11622  min=1 max=1 nuniq=1 | SX n«ng nghiÖp
+p17ma1_        nn=11622  nuniq=60 ex=['c2', 'a5', 'a4', 'a1'] | Plot Code
+p17q1_         nn=10666  min=0 max=23 nuniq=23 | 1. What did you use this plot for?
+p17q2_         nn=9783   min=0 max=100 nuniq=72 | 2. Area used for this purpose?
+p17q3_         nn=9782   min=0 max=3e+05 nuniq=641 | 3. Total quantity produced
+p17q4_         nn=8742   min=1 max=9 nuniq=3 | 4. Total quantity produced
+p17q5_         nn=9781   min=1 max=4 nuniq=4 | 5. Reason for growing this crop?
+p17q6_         nn=6633   min=1 max=23 nuniq=19 | 6. What did you use this plot for?
+p17q7_         nn=6308   min=0 max=100 nuniq=38 | 7. Area used for this purpose?
+p17q8_         nn=6308   min=0 max=1.2e+05 nuniq=480 | 8. Total quantity produced
+p17q9_         nn=6134   min=1 max=2 nuniq=2 | 9. Total quantity produced
+p17q10_        nn=1434   min=1 max=23 nuniq=14 | 10. What did you use this plot for?
+p17q11_        nn=1189   min=0 max=100 nuniq=20 | 11. Area used for this purpose?
+p17q12_        nn=1189   min=0 max=2.4e+04 nuniq=241 | 12. Total quantity produced
+p17q13_        nn=1125   min=1 max=2 nuniq=2 | 13. Total quantity produced
+panel0816      nn=11128  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p17q13_] n=3: 9=Don't know; 1=Kg; 2=Other
+[p17q12_] n=2: 99=Don't know; 98=Have not reaped yet
+[p17q10_] n=23: 1=Rice; 2=Maize; 3=Potato (non-sweet); 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Vegetables; 8=Other annual crop.; 9=Fruit; 10=Coffee; 11=Tea; 12=Cocoa; 13=Cashew nuts; 14=Sugar cane; 15=Pepper; 16=Rubber; 17=Medicinal trees/plants; 18=Other perennial crop.; 19=Forestry; 20=Grazing of animals; 21=Aquaculture; 22=left fallow; 23=Not used
+[p17q9_] n=3: 9=Don't know; 1=Kg; 2=Other
+[p17q8_] n=2: 99=Don't know; 98=Have not reaped yet
+[p17q6_] n=23: 1=Rice; 2=Maize; 3=Potato (non-sweet); 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Vegetables; 8=Other annual crop.; 9=Fruit; 10=Coffee; 11=Tea; 12=Cocoa; 13=Cashew nuts; 14=Sugar cane; 15=Pepper; 16=Rubber; 17=Medicinal trees/plants; 18=Other perennial crop.; 19=Forestry; 20=Grazing of animals; 21=Aquaculture; 22=left fallow; 23=Not used
+[p17q5_] n=4: 1=Obliged by commune authorities; 2=High productivity/high efficiency; 3=Plots does not suit for other crops; 4=Other
+[p17q4_] n=3: 9=Don't know; 1=Kg; 2=Other
+[p17q3_] n=2: 99=Don't know; 98=Have not reaped yet
+[p17q1_] n=23: 1=Rice; 2=Maize; 3=Potato (non-sweet); 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Vegetables; 8=Other annual crop.; 9=Fruit; 10=Coffee; 11=Tea; 12=Cocoa; 13=Cashew nuts; 14=Sugar cane; 15=Pepper; 16=Rubber; 17=Medicinal trees/plants; 18=Other perennial crop.; 19=Forestry; 20=Grazing of animals; 21=Aquaculture; 22=left fallow; 23=Not used
+[P17Q0] n=2: 1=Cã; 2=Kh«ng
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An

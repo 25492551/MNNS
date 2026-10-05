@@ -1,0 +1,218 @@
+Phieu_1_New_10.dta  rows=2245  cols=167
+
+tinh_2010      nn=2245   min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=2245   min=1 max=50 nuniq=28 | District 2010
+xa_2010        nn=2245   min=1 max=99 nuniq=45 | Commune 2010
+ma_h0_2010     nn=2245   min=1 max=98 nuniq=37 | HHcode 2010
+tinh_2008      nn=2245   min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=2245   min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=2245   min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=2245   min=1 max=98 nuniq=37 | HHcode 2008
+thay_cho_o     nn=2245   min=1 max=2 nuniq=2 | Changed location since 1 July 2008
+thay_doi_chu_ho nn=2245   min=1 max=2 nuniq=2 | HH head changed since 2008 (yes=1)
+ma_dan_toc     nn=2245   min=2 max=53 nuniq=30 | Ethnicity of the HH
+tieng_viet     nn=2245   min=1 max=2 nuniq=2 | HH speaks vietnamese (yes=1)
+tieng_chinh    nn=2245   min=1 max=2 nuniq=2 | Vietnamese is main language of the HH (yes=1)
+phien_dich     nn=2245   min=1 max=2 nuniq=2 | Interpreter used for interview (yes=1)
+khu_vuc        nn=2244   min=1 max=2 nuniq=2 | Household classified as rural(1)/urban(2)
+ntlp1          nn=2245   min=1 max=11 nuniq=9 | Respondent P1
+p3q1           nn=2245   min=1 max=4 nuniq=4 | Head of the household or the spouse born in this commune
+p3q2           nn=2245   min=0 max=99 nuniq=54 | How long has the household lived in this commune? (years)
+p3q3           nn=2245   min=8 max=400 nuniq=124 | Square meters occupied by the household, including bedrooms, dining rooms, livin
+p3q4           nn=2245   min=1 max=7 nuniq=7 | Main construction material of the outside walls
+p3q5           nn=2245   min=1 max=7 nuniq=7 | Flooring material
+p3q6           nn=2245   min=1 max=8 nuniq=8 | Roof material
+p3q7           nn=2245   min=1 max=3 nuniq=3 | Does the household own this dwelling
+p3q8           nn=2245   min=98 max=1500 nuniq=6 | How much is paid in rent for this house per month? (000VND)
+p3q9           nn=2245   min=1 max=3 nuniq=3 | Household qualified as poor by the authorities (MOLISA)?
+p3q10          nn=2245   min=1 max=2 nuniq=2 | Does the household have electricity?
+p3q11          nn=2245   min=1 max=4 nuniq=4 | Main source of energy for lighting in the household?
+p3q12          nn=2245   min=1 max=6 nuniq=6 | Main source of energy for cooking in the household
+p3q13          nn=2245   min=0 max=2e+04 nuniq=54 | Average distance to the place where fuel wood is collected(meters)
+p3q14          nn=2245   min=0 max=2400 nuniq=56 | Average time to collect fuel wood(minutes)
+p3q15          nn=2245   min=1 max=6 nuniq=6 | Type of toilet
+p3q16          nn=2245   min=1 max=5 nuniq=5 | How has the household mainly disposed of garbage in the last 12 months?
+p3q17          nn=2245   min=1 max=12 nuniq=12 | Main source of cooking/drinking water of your household?
+p3q18          nn=2245   min=0 max=3000 nuniq=40 | Distance to the place where water is collected (meters)
+p3q19          nn=2245   min=0 max=825 nuniq=25 | Average time per trip to collect water (minutes)
+p3q20a         nn=2245   min=0 max=20 nuniq=56 | Distance to the nearest People's Committee (km)
+p3q20b         nn=2245   min=0 max=98 nuniq=77 | Distance to the nearest All weather road (km)
+p3q20c         nn=2245   min=0 max=99 nuniq=64 | Distance to the nearest Public health care station (km)
+p3q20d         nn=2245   min=0 max=99 nuniq=82 | Distance to the nearest Private health care station (km)
+p3q20e         nn=2245   min=0 max=99 nuniq=98 | Distance to the nearest Hospital (km)
+p3q20f         nn=2245   min=0 max=98 nuniq=47 | Distance to the nearest Primary school (km)
+p3q20g         nn=2245   min=0 max=98 nuniq=64 | Distance to the nearest Lower secondary school (km)
+p3q20h         nn=2245   min=0 max=99 nuniq=94 | Distance to the nearest Upper secondary school (km)
+ntlp4          nn=2245   min=1 max=11 nuniq=9 | Respondent P4
+p4q2_1         nn=2245   min=1 max=999 nuniq=19 | Nr. of plots that your household has/had use rights to and operates
+p4q2_2         nn=2244   min=1 max=999 nuniq=9 | Nr. of plots that your household is/was renting in or borrowing
+p4q2_3         nn=2244   min=1 max=999 nuniq=12 | Nr. of plots that your household has/had use rights to but is renting or lending
+ntlp5          nn=2243   min=1 max=11 nuniq=9 | Respondent P5
+ntlp8          nn=2244   min=1 max=11 nuniq=9 | Respondent P8
+dat_a          nn=2245   min=1 max=2 nuniq=2 | HH has plots which it has/had use rights and operates
+ntlp9          nn=2245   min=1 max=11 nuniq=9 | Respondent P9
+dat_b          nn=2245   min=1 max=2 nuniq=2 | HH has plots which it is/was renting in/borrowing
+ntlp10         nn=2245   min=1 max=11 nuniq=9 | Respondent P10
+dat_c          nn=2245   min=1 max=2 nuniq=2 | HH has plots which it has/had use rights to but is/was renting/lending out
+ntlp11         nn=2245   min=1 max=11 nuniq=9 | Respondent P11
+dat_d          nn=2245   min=1 max=2 nuniq=2 | HH has plots which were departed with since july 1, 2008
+ntlp12         nn=2245   min=1 max=11 nuniq=9 | Respondent P12
+dau_tu         nn=2245   min=1 max=2 nuniq=2 | HH has invested in plots since 1 July 2008
+p12q3          nn=822    min=0 max=4.5e+04 nuniq=77 | Total cash spending on all irrigation or soil and water conservation improvement
+p12q4          nn=821    min=0 max=450 nuniq=58 | Total days of labour on all irrigation or soil and water conservation improvemen
+p12q6          nn=135    min=0 max=1e+05 nuniq=44 | Total cash spending in investment in aquaculture since 1 July 2008
+p12q7          nn=137    min=0 max=480 nuniq=23 | Total days of labour on investment in aquaculture since 1 July 2008
+p13q10         nn=99     min=0 max=300 nuniq=25 | Total days of labour spent on all permanent and semipermanent structures since 1
+p13q11         nn=1083   min=1 max=2 nuniq=2 | Household made investment in planting trees and bushes since 1 July 2008
+p13q13         nn=230    min=0 max=4.2e+04 nuniq=102 | Total cash spending on investment in trees and bushes since 1 July 2008
+p13q14         nn=230    min=0 max=300 nuniq=41 | Total days of labour spent on investment in trees and bushes since 1 July 2008
+ntlp14         nn=2245   min=1 max=11 nuniq=9 | Respondent P14
+thien_tai      nn=2245   min=1 max=2 nuniq=2 | HH has plots which were hit by natural disaster(s) since 1 July 2008
+ntlp15         nn=2245   min=1 max=11 nuniq=9 | Respondent P15
+p15q1          nn=2245   min=1 max=2 nuniq=2 | Heard about the new Land Law from 2003
+p15q2          nn=2244   min=1 max=98 nuniq=5 | How much do you know about the new land law?
+p15q3          nn=2193   min=0 max=800 nuniq=19 | What is the maximum amount of annual crop land that can be allocated to one hous
+p15q4          nn=2193   min=1 max=98 nuniq=6 | When the government confiscates a plot of land, and there si no other land avail
+p15q5          nn=2193   min=1 max=99 nuniq=4 | Can the names of both the husband and the wife be written into a household's Red
+p15q6a         nn=2193   min=1 max=98 nuniq=9 | From which sources have you mainly heard about these issues (mentioned in Q.3-5)
+p15q6b         nn=2154   min=0 max=98 nuniq=10 | From which sources have you mainly heard about these issues (mentioned in Q.3-5)
+ntlp16         nn=2245   min=1 max=11 nuniq=9 | Respondent P16
+p16q0          nn=2245   min=1 max=2 nuniq=2 | HH engages in agricultural production on plots
+ntlp17         nn=2241   min=1 max=11 nuniq=9 | Respondent P17
+ntlp18         nn=2241   min=1 max=11 nuniq=9 | Respondent P18
+manh_1         nn=2245   nuniq=60 ex=['', 'a4', 'a1', 'a3'] | Plot id 1:largest plot (p18)
+manh_2         nn=2245   nuniq=61 ex=['', 'a6', 'a4', 'a7'] | Plot id 2:2nd largest plot (p18)
+manh_3         nn=2245   nuniq=59 ex=['', 'b1', 'a4', 'a9'] | Plot id 3:3rd largest plot (p18)
+manh_4         nn=2245   nuniq=61 ex=['', 'a2', 'a7', 'a10'] | Plot id 4:4th largest plot (p18)
+manh_5         nn=2245   nuniq=59 ex=['', 'a3', 'b4', 'a7'] | Plot id 5:5th largest plot (p18)
+ntlp19         nn=2245   min=1 max=11 nuniq=9 | Respondent P19
+p19tl          nn=2245   min=1 max=2 nuniq=2 | Irrigation questions relevant for this HH (yes=1)
+p19q1a         nn=1936   min=1 max=99 nuniq=5 | Household's assessment of the state of public and/or cooperative irrigation faci
+p19q1b         nn=1936   min=1 max=99 nuniq=5 | Household's assessment of the state of public and/or cooperative irrigation faci
+p19q1c         nn=1936   min=1 max=99 nuniq=5 | Household's assessment of the state of public and/or cooperative irrigation faci
+p19q1d         nn=1936   min=1 max=99 nuniq=5 | Household's assessment of the state of public and/or cooperative irrigation faci
+p19q1e         nn=1936   min=1 max=99 nuniq=5 | Household's assessment of the state of public and/or cooperative irrigation faci
+p19q2          nn=1936   min=1 max=99 nuniq=6 | For irrigation, is HH dependent on any public or cooperative infrastructure (e.g
+p19q3          nn=1936   min=1 max=99 nuniq=5 | Amount of irrigation water HH has access to sometimes not sufficient
+p19q4          nn=1936   min=1 max=99 nuniq=5 | Does it happen that HH's fields are flooded by excessive amounts of water from t
+p19q5          nn=1936   min=1 max=98 nuniq=3 | Does HH currently pay an irrigation fee
+p19q6          nn=1936   min=1 max=98 nuniq=5 | Why does HH not pay irrigation fee
+ntlp20         nn=2245   min=1 max=11 nuniq=9 | Respondent P20
+p20q1          nn=2245   min=1 max=2 nuniq=2 | Has HH had any livestock or aquaculture production in the last 12 months
+ntlp24         nn=2245   min=1 max=10 nuniq=8 | Respondent P24
+p24q1          nn=2245   min=1 max=2 nuniq=2 | In the last 12 months, did household catch aquatic products from the sea, rivers
+p24ls          nn=2245   min=1 max=2 nuniq=2 | In the last 12 months, did household collect forestry products or go hunting in 
+ntlp25         nn=2245   min=1 max=10 nuniq=8 | Respondent P25
+p25q1          nn=2245   min=1 max=98 nuniq=5 | Type of rice seed normally used by HH
+p25q2          nn=2245   min=1 max=98 nuniq=7 | Where rice seed normally bought
+p25q3          nn=2245   min=0 max=1e+04 nuniq=51 | Distance to place where rice seed normally bought(km)
+p25q4          nn=2245   min=1 max=98 nuniq=9 | HH experienced any of the following difficulties in getting access to current in
+p25q5a         nn=1918   min=1 max=8 nuniq=8 | Main difficulties faced after production? most important
+p25q5b         nn=1676   min=0 max=98 nuniq=10 | Main difficulties faced after production? 2nd most important
+p25q6a         nn=2245   min=1 max=99 nuniq=5 | Comparing your situation today with two years ago: Quantity of goods available
+p25q6b         nn=2245   min=1 max=99 nuniq=5 | Comparing your situation today with two years ago: Quality of available goods
+p25q6c         nn=2245   min=1 max=99 nuniq=5 | Comparing your situation today with two years ago: Price of inputs
+p25q6d         nn=2245   min=1 max=99 nuniq=5 | Comparing your situation today with two years ago: Price of outputs
+p25q6e         nn=2245   min=1 max=99 nuniq=5 | Comparing your situation today with two years ago: Demand for outputs
+p25q7a         nn=2245   min=0 max=99 nuniq=41 | Travel distance to place where output is sold to main buyer(km) for most importa
+p25q7b         nn=2245   min=0 max=99 nuniq=39 | Travel distance to place where output is sold to main buyer(km) for 2nd most imp
+ntlp26         nn=2245   min=1 max=11 nuniq=9 | Respondent P26
+ntlp27         nn=1907   min=1 max=11 nuniq=9 | Respondent P27
+ntlp28         nn=2124   min=1 max=11 nuniq=9 | Respondent P28
+ntlp29         nn=1613   min=1 max=11 nuniq=9 | Respondent P29
+p29a           nn=2245   min=1 max=2 nuniq=2 | During the last 12 months, has HH pursued non-farm, non-wage, non-forestry, non-
+ntlp33         nn=2244   min=1 max=11 nuniq=9 | Respondent P33
+p33q5_01       nn=1042   min=0 max=6.17e+04 nuniq=18 | Amount received from [source1] by HH in last 12 months (000VND)
+p33q5_02       nn=1041   min=0 max=1.498e+05 nuniq=83 | Amount received from [source2] by HH in last 12 months (000VND)
+p33q5_03       nn=1041   min=0 max=3.061e+04 nuniq=10 | Amount received from [source3] by HH in last 12 months (000VND)
+p33q5_04       nn=1041   min=0 max=2160 nuniq=7 | Amount received from [source4] by HH in last 12 months (000VND)
+p33q5_05       nn=1041   min=0 max=1e+05 nuniq=37 | Amount received from [source5] by HH in last 12 months (000VND)
+p33q5_06       nn=1041   min=0 max=1.8e+04 nuniq=10 | Amount received from [source6] by HH in last 12 months (000VND)
+p33q5_07       nn=1041   min=0 max=4.02e+04 nuniq=7 | Amount received from [source7] by HH in last 12 months (000VND)
+p33q5_08       nn=1041   min=0 max=5.4e+04 nuniq=29 | Amount received from [source8] by HH in last 12 months (000VND)
+p33q5_09       nn=1041   min=0 max=5.5e+04 nuniq=13 | Amount received from [source9] by HH in last 12 months (000VND)
+p33q5_10       nn=1041   min=0 max=200 nuniq=4 | Amount received from [source10] by HH in last 12 months (000VND)
+p33q5_11       nn=1041   min=0 max=1e+05 nuniq=104 | Amount received from [source11] by HH in last 12 months (000VND)
+p33q5_12       nn=1043   min=0 max=4.2e+04 nuniq=83 | Amount received from [source12] by HH in last 12 months (000VND)
+p33q5_13       nn=1041   min=0 max=5e+04 nuniq=76 | Amount received from [source13] by HH in last 12 months (000VND)
+p33q5_14       nn=1042   min=0 max=3.5e+04 nuniq=6 | Amount received from [source14] by HH in last 12 months (000VND)
+p33q5_15       nn=1042   min=0 max=2.784e+04 nuniq=91 | Amount received from [source15] by HH in last 12 months (000VND)
+p33q5_16       nn=1042   min=0 max=1.57e+05 nuniq=99 | Amount received from [source16] by HH in last 12 months (000VND)
+ntlp34         nn=2245   min=1 max=11 nuniq=9 | Respondent P34
+p34q1          nn=2244   min=0 max=3.6e+05 nuniq=502 | Net income from wage/salary (000VND)
+p34q2          nn=2245   min=-1.128e+05 max=9.359e+05 nuniq=1849 | Net income from agricultural activities (000VND)
+p34q3          nn=2244   min=0 max=6e+05 nuniq=195 | Net income from common property resources (000VND)
+p34q4          nn=2245   min=-2.024e+05 max=2.7e+06 nuniq=403 | Net income from non-farm non wage economic activities (000VND)
+p34q5          nn=2243   min=0 max=5e+05 nuniq=120 | Net rental income (000VND)
+p34q5a         nn=2244   min=0 max=5e+05 nuniq=90 | Net rental income from LAND/REAL ESTATE (000VND)
+p34q5b         nn=2244   min=0 max=5.3e+04 nuniq=47 | Net rental income from OTHER ASSETS (000VND)
+p34q6          nn=2244   min=0 max=2e+06 nuniq=51 | Net income from sales of assets (000VND)
+p34q7          nn=2244   min=0 max=2e+05 nuniq=142 | Net income from private transfers (000VND)
+p34q8          nn=2245   min=0 max=1.84e+05 nuniq=413 | Net income from public transfers (000VND)
+p34q9          nn=2244   min=0 max=1.2e+05 nuniq=106 | Net income from other sources (000VND)
+p34q10         nn=2245   min=-3.81e+05 max=2.711e+06 nuniq=2136 | Net income TOTAL (000VND)
+ntlp35         nn=2244   min=1 max=11 nuniq=9 | Respondent P35
+p35q1          nn=2245   min=1 max=98 nuniq=3 | Over the last 12 months, has anyone in HH visited agricultural extension agent o
+p35q2          nn=2245   min=0 max=99 nuniq=16 | In the last 12 months, how many times did members of HH go to agricultural exten
+p35q3          nn=2245   min=0 max=99 nuniq=11 | In the last 12 months, how many times did extension staff visit household
+p35q4a         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on new seeds, varieties or breeds
+p35q4b         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on use of fertiliser
+p35q4c         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on irrigation
+p35q4d         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on pest infestation, blight problems
+p35q4e         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on animal livestock disease
+p35q4f         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on market information
+p35q4g         nn=2245   min=1 max=98 nuniq=7 | Did HH obtain assistance or information on accessing credit
+p35q5          nn=2245   min=1 max=98 nuniq=4 | How much has this information affected crop production decisions
+p35q6          nn=2245   min=1 max=98 nuniq=4 | How much has this information affected decisions on raising livestock
+p35q7          nn=2245   min=1 max=98 nuniq=4 | How much has this information affected decisions on aquaculture
+p35q8          nn=2245   min=1 max=98 nuniq=4 | How much has this information affected decisions on how much to sell
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[P13Q11] n=2: 1=Cã; 2=Kh«ng
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[yesno] n=2: 1=Yes; 2=No
+[ma_dan_toc] n=1: 23=Kinh
+[khu_vuc] n=2: 1=Rural; 2=Urban
+[p3q1] n=4: 1=Head only; 2=Spouse only; 3=Both; 4=None
+[p3q4] n=8: 1=Leaves/Branches/Bamboo; 2=Wood; 3=Galvanized iron; 4=Earth; 5=Unfired brick; 6=Fired brick, stone; 7=Concrete; 8=Other
+[p3q5] n=7: 1=Bamboo; 2=Wood; 3=Earth, lime and ash; 4=Cement; 5=Brick; 6=Marble, tile; 7=Other
+[p3q6] n=8: 1=Straw, leaves; 2=Wood; 3=Canvas, tar paper; 4=Panels; 5=Galvanized Iron; 6=Tile; 7=Concrete, cement; 8=Other
+[p3q7] n=3: 1=Yes; 2=No, we are renting it; 3=No, we are borrowing it
+[yesnodk] n=3: 1=Yes; 2=No; 3=Don't know
+[p3q11] n=4: 1=Electricity; 2=Kerosene; 3=Candle; 4=Other
+[p3q12] n=6: 1=Firewood; 2=Electricity; 3=Kerosene; 4=Coal; 5=Natural Gas; 6=Other
+[p3q15] n=6: 1=Flush toilet with septic tank/sewage pipes; 2=Suilabh (squat toilet); 3=Double vault compose latrine; 4=Toilet directly over the water; 5=Other; 6=No toilet
+[p3q16] n=5: 1=Somebody collected; 2=Took to waste site; 3=Burned; 4=Dumped haphazardly; 5=Other
+[p3q17] n=12: 1=Private tap water; 2=Public tap water; 3=Bought water (in tank, bottle); 4=Water pumped from deep drill wells; 5=Water from hand-dug and reinforced wells; 6=Water from hand-dug, non-reinforced and covered wells; 7=Water from hand-dug, non-reinforced and uncovered wells; 8=Water tank; 9=Spring water; 10=River, lake, pond; 11=Rain water; 12=Other
+[NA] n=1: 98=Not Applicable
+[dk] n=1: 99=Don't know
+[zero] n=1: 999=Zero plots of this type
+[p15q2] n=5: 1=No knowledge at all; 2=Little knowledge; 3=Some knowledge; 4=Substantial knowledge; 98=Not Applicable
+[p15q3] n=2: 99=Don't know; 98=Not Applicable
+[p15q4] n=6: 1=No compensation; 2=Half of the market value of the land; 3=The market value of the land; 4=One and a half times the market value of the land; 5=Compensation is arbitrarily decided by local authorities; 98=Not Applicable
+[p15q5] n=4: 1=Yes; 2=No; 99=Don't know; 98=Not Applicable
+[p15q6] n=9: 1=Have not heard about these issues; 2=TV, radio, newspaper; 3=Public loudspeakers; 4=Friends and family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=Not Applicable
+[p15q6b] n=10: 0=There is no second source; 1=Have not heard about these issues; 2=TV, radio, newspaper; 3=Public loudspeakers; 4=Friends and family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=Not Applicable
+[p19q1] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p19q2] n=6: 1=No; 2=Yes, public; 3=Yes, cooperative; 4=Yes, both public and cooperative; 98=Not Applicable; 99=Don't know
+[p19q3] n=5: 1=Always too small; 2=Sometimes too small; 3=Never too small; 98=Not Applicable; 99=Don't know
+[p19q4] n=5: 1=Yes, happens often; 2=Yes, happens sometimes; 3=No, almost never happens; 98=Not Applicable; 99=Don't know
+[p19q5] n=3: 1=Yes; 2=No; 98=Not Applicable
+[p19q6] n=5: 1=Been granted exemption by local authorities; 2=Too expensive; 3=Irrigation facilities too poor; 4=Other; 98=Not Applicable
+[p25q1] n=5: 1=Hybrid seed; 2=Ordinary improved variety; 3=Old local veriety; 4=Other; 98=Not Applicable
+[p25q2] n=7: 1=Never buy; 2=Cooperative/commune; 3=Seed company; 4=Local market; 5=Seed stockist; 6=Other; 98=Not Applicable
+[p25q3] n=2: 98=Not Appicable; 99=Don't know
+[p25q4] n=9: 1=Lack of suppliers in this region; 2=Prices too high; 3=Not enough information; 4=Not able to buy on credit; 5=Not enough access to credit; 6=Poor transport infrastructure; 7=Other; 8=No difficulties; 98=Not Applicable
+[p25q5] n=9: 1=Lack of storage for output; 2=Lack of primary processing capacity; 3=Difficult to access market or intermediaries; 4=Lack of information about market prices; 5=Lack of demand for output; 6=High transportation cost; 7=Other; 8=No difficulties; 98=Not Applicable
+[p25q6a] n=5: 1=More goods available; 2=Less goods available; 3=No change; 98=Not Applicable; 99=Dont'know
+[p25q6b] n=5: 1=Improvement in quality; 2=Deterioration in quality; 3=No change; 98=Not Applicable; 99=Dont'know
+[p25q6c] n=5: 1=More expensive today; 2=Less expensive today; 3=No change; 98=Not Applicable; 99=Dont'know
+[p25q6d] n=5: 1=More expensive today; 2=Less expensive today; 3=No change; 98=Not Applicable; 99=Dont'know
+[p25q6e] n=5: 1=Higher demand than before/easier to sell outputs; 2=Lower demand than before/more difficult to sell output; 3=No change; 98=Not Applicable; 99=Dont'know
+[p25q7] n=2: 98=Not applicable; 99=Don't know
+[p35q1] n=3: 1=yes; 2=no; 98=Not applicable
+[p35q2] n=2: 98=Not applicable; 99=Don't know
+[p35q3] n=2: 98=Not applicable; 99=Don't know
+[p35q4] n=7: 1=No; 2=Yes, from extension agent/meeting; 3=Yes, from suppliers/buyers; 4=Yes, from neighbours; 5=Yes, from commune broadcasting (loudspeakers); 6=Yes, from mass media (radio, TV, newspaper); 98=Not applicable
+[p35q5_8] n=4: 1=Very much; 2=Moderately; 3=No effect; 98=Not applicable

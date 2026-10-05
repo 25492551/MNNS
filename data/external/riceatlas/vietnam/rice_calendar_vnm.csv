@@ -1,0 +1,61 @@
+ISO,COUNTRY,REGION,SUB_REGION,HASC,NAME1,NAME2,NAME3,PLANT_ST1,PLANT_ST2,PLANT_ST3,PLANT_PK1,PLANT_PK2,PLANT_PK3,PLANT_END1,PLANT_END2,PLANT_END3,HARV_ST1,HARV_ST2,HARV_ST3,HARV_PK1,HARV_PK2,HARV_PK3,HARV_END1,HARV_END2,HARV_END3,SEED_AGE1,SEED_AGE2,SEED_AGE3,METHOD,MATURITYS1,MATURITYS2,MATURITYS3,MATURITYE1,MATURITYE2,MATURITYE3,MATURITY1,MATURITY2,MATURITY3,CONTINENT,NUM_CROP
+VNM,Vietnam,North East,Bac Giang,VN.BG,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Phu Tho,VN.PT,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Quang Ninh,VN.QN,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Ha Noi City|Hanoi,VN.HN,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Ha Tay,VN.HA,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Vinh Phuc,VN.VC,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North West,Dien Bien,VN.DB,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,110,110,0,0,110,110,0,Asia,2
+VNM,Vietnam,North West,Son La,VN.SL,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,110,110,0,0,110,110,0,Asia,2
+VNM,Vietnam,Mekong River Delta,An Giang,VN.AG,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Bac Lieu,VN.BL,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Ben Tre,VN.BR,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Ca Mau,VN.CM,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Can Tho,VN.CN,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Dong Thap,VN.DT,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Hau Giang,VN.HU,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Kien Giang,VN.KG,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Long An,VN.LA,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Soc Trang,VN.ST,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Tien Giang,VN.TG,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Tra Vinh,VN.TV,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,Mekong River Delta,Vinh Long,VN.VL,Winter-spring,Spring-summer,Summer-autumn,298,79,140,322.0,91.0,161.0,329,100,181,53,199,260,53,212,273,84,220,281,0,0,0.0,planting,95,95,95,120,121,105,96,121,112,Asia,3
+VNM,Vietnam,South East,Ba Ria - VTau,VN.BV,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South East,Binh Duong,VN.BI,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South East,Binh Phuoc,VN.BP,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South East,Binh Thuan,VN.BU,Winter-spring,,,344,0,0,359.0,0.0,0.0,365,0,0,77,0,0,92,0,0,114,0,0,0,0,0.0,planting,90,0,0,100,0,0,98,0,0,Asia,1
+VNM,Vietnam,South East,Dong Nai,VN.DN,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South East,Ho Chi Minh City,VN.HC,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South East,Ninh Thuan,VN.NT,Winter-spring,,,344,0,0,359.0,0.0,0.0,365,0,0,77,0,0,92,0,0,114,0,0,0,0,0.0,planting,90,0,0,100,0,0,98,0,0,Asia,1
+VNM,Vietnam,South East,Tay Ninh,VN.TN,Winter-spring,,,335,0,0,362.0,0.0,0.0,365,0,0,90,0,0,92,0,0,120,0,0,0,0,0.0,planting,90,0,0,100,0,0,95,0,0,Asia,1
+VNM,Vietnam,South Central Coast,Khanh Hoa,VN.KH,Winter-spring,,,344,0,0,359.0,0.0,0.0,365,0,0,77,0,0,92,0,0,114,0,0,0,0,0.0,planting,90,0,0,100,0,0,98,0,0,Asia,1
+VNM,Vietnam,North Central Coast,Ha Tinh,VN.HT,Winter-spring,Summer-autumn,Summer,31,161,196,50.0,171.0,211.0,59,181,227,151,281,316,160,291,320,179,301,331,0,0,0.0,planting,110,110,110,110,110,110,110,120,109,Asia,3
+VNM,Vietnam,North Central Coast,Nghe An,VN.NA,Winter-spring,Summer-autumn,Summer,31,161,196,50.0,171.0,211.0,59,181,227,151,281,316,160,291,320,179,301,331,0,0,0.0,planting,110,110,110,110,110,110,110,120,109,Asia,3
+VNM,Vietnam,North Central Coast,Quang Binh,VN.QB,Winter-spring,Summer-autumn,Summer,8,145,196,30.0,155.0,211.0,44,156,227,128,253,316,140,265,320,164,276,331,0,0,0.0,planting,110,110,110,110,110,110,110,110,109,Asia,3
+VNM,Vietnam,North Central Coast,Quang Tri,VN.QT,Winter-spring,Summer-autumn,Summer,8,145,196,30.0,155.0,211.0,44,156,227,128,253,316,140,265,320,164,276,331,0,0,0.0,planting,110,110,110,110,110,110,110,110,109,Asia,3
+VNM,Vietnam,North Central Coast,Thanh Hoa,VN.TH,Winter-spring,Summer-autumn,Summer,31,161,196,50.0,171.0,211.0,59,181,227,151,281,316,160,291,321,179,301,331,0,0,0.0,planting,110,110,110,110,110,110,110,120,110,Asia,3
+VNM,Vietnam,North Central Coast,Thua Thien - Hue,VN.TT,Winter-spring,Summer-autumn,Summer,8,145,196,30.0,155.0,211.0,44,156,227,128,253,316,140,265,320,164,276,331,0,0,0.0,planting,110,110,110,110,110,110,110,110,109,Asia,3
+VNM,Vietnam,Red River Delta,Bac Ninh,VN.BN,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Ha Nam,VN.HM,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Hai Duong,VN.HD,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Hai Phong City|Haiphong,VN.HP,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Hung Yen,VN.HY,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Nam Dinh,VN.ND,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Ninh Binh,VN.NB,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,Red River Delta,Thai Binh,VN.TB,Winter-spring,Summer,,36,186,0,60.0,200.0,0.0,64,206,0,156,306,0,170,310,0,184,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,South Central Coast,Binh Dinh,VN.BD,Winter-spring,,,344,0,0,359.0,0.0,0.0,365,0,0,75,0,0,90,0,0,114,0,0,0,0,0.0,planting,90,0,0,100,0,0,96,0,0,Asia,1
+VNM,Vietnam,South Central Coast,Da Nang City|Da Nang,VN.DA,Winter-spring,,,329,0,0,349.0,0.0,0.0,365,0,0,69,0,0,84,0,0,104,0,0,0,0,0.0,planting,90,0,0,100,0,0,100,0,0,Asia,1
+VNM,Vietnam,South Central Coast,Quang Nam,VN.QM,Winter-spring,,,329,0,0,349.0,0.0,0.0,365,0,0,69,0,0,84,0,0,104,0,0,0,0,0.0,planting,90,0,0,100,0,0,100,0,0,Asia,1
+VNM,Vietnam,South Central Coast,Quang Ngai,VN.QG,Winter-spring,,,329,0,0,349.0,0.0,0.0,365,0,0,69,0,0,84,0,0,104,0,0,0,0,0.0,planting,90,0,0,100,0,0,100,0,0,Asia,1
+VNM,Vietnam,North West,Hoa Binh,VN.HO,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,110,110,0,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Bac Kan|Bac Can,VN.BK,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Cao Bang,VN.CB,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Ha Giang,VN.HG,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Lang Son,VN.LS,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Lao Cai,VN.LO,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Thai Nguyen,VN.TY,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Tuyen Quang,VN.TQ,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North East,Yen Bai,VN.YB,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,0,110,110,0,110,110,0,Asia,2
+VNM,Vietnam,North West,Lai Chau,VN.LI,Winter-spring,Summer,,41,186,0,65.0,200.0,0.0,69,206,0,161,306,0,175,310,0,189,326,0,0,0,0.0,planting,110,110,110,110,0,0,110,110,0,Asia,2
+VNM,Vietnam,South Central Coast,Phu Yen,VN.PY,Winter-spring,,,344,0,0,359.0,0.0,0.0,365,0,0,75,0,0,90,0,0,114,0,0,0,0,0.0,planting,90,0,0,100,0,0,96,0,0,Asia,1
+VNM,Vietnam,Central Highlands,,no hasc,Summer,,,182,0,0,200.0,0.0,0.0,212,0,0,305,0,0,310,0,0,334,0,0,0,0,0.0,planting,110,0,0,110,0,0,110,0,0,Asia,1

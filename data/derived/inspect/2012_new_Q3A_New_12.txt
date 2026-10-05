@@ -1,0 +1,28 @@
+Q3A_New_12.dta  rows=10014  cols=19
+
+tinh_2012      nn=10014  min=105 max=801 nuniq=12 | Province 2012
+quan_2012      nn=10014  min=1 max=50 nuniq=29 | District 2012
+xa_2012        nn=10014  min=1 max=99 nuniq=46 | Commune 2012
+ma_h0_2012     nn=10014  min=1 max=99 nuniq=76 | HHcode 2012
+p14ma1_        nn=10014  nuniq=40 ex=['a2', 'a5', 'a10', 'a12'] | Plot Code
+p14q1_         nn=10014  min=1 max=24 nuniq=24 | Plot use-main crop-most recent season
+p14q2_         nn=9556   min=0 max=100 nuniq=95 | Area used for this purpose-main crop
+p14q3a_        nn=10014  min=0 max=4.8e+05 nuniq=697 | Total quantity produced-number
+p14q3b_        nn=10014  min=1 max=98 nuniq=5 | Total quantity produced-unit
+p14q4_         nn=10014  min=1 max=98 nuniq=8 | Reason for growing this crop?
+p14q5_         nn=6533   min=0 max=98 nuniq=24 | Plot use-main crop-2nd most recent season
+p14q6_         nn=6406   min=0.3 max=100 nuniq=51 | Area used for this purpose-main crop
+p14q7a_        nn=6407   min=0 max=2.5e+04 nuniq=542 | Total quantity produced-number
+p14q7b_        nn=6391   min=0 max=9 nuniq=4 | Total quantity produced-unit
+p14q8_         nn=934    min=0 max=24 nuniq=19 | Plot use-main crop-3rd recent season
+p14q9_         nn=730    min=1 max=100 nuniq=32 | Area used for this purpose-main crop
+p14q10a_       nn=724    min=0 max=2e+04 nuniq=179 | Total quantity produced-number
+p14q10b_       nn=784    min=1 max=9 nuniq=3 | Total quantity produced-unit
+panel0816      nn=8577   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[reason] n=6: 1=Obliged by commune authorities; 2=High productivity/high efficiency; 3=Plot does not suit for other crops; 4=Safe/not risky; 5=traditional crop; 6=Other
+[unit] n=3: 9=Don't know; 1=Kg; 2=Other
+[number] n=2: 99=Don't know; 98=Have not reaped yet
+[plotuse] n=24: 1=Rice; 2=Maize; 3=Potato (non-sweet); 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Soy beans; 8=Vegetables; 9=Other annual crop; 10=Fruit; 11=Coffee; 12=Tea; 13=Cocoa; 14=Cashew nuts; 15=Sugar cane; 16=Pepper; 17=Rubber; 18=Medicinal plants/trees; 19=Other perennial crop; 20=Forestry; 21=Grazing of animals; 22=Aquaculture; 23=Left fallow; 24=Not used
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

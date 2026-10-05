@@ -1,0 +1,176 @@
+Phieu_2_New_10.dta  rows=2245  cols=131
+
+tinh_2010      nn=2245   min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=2245   min=1 max=50 nuniq=28 | District 2010
+xa_2010        nn=2245   min=1 max=99 nuniq=45 | Commune 2010
+ma_h0_2010     nn=2245   min=1 max=98 nuniq=37 | HHcode 2010
+ntlp36         nn=2245   min=1 max=11 nuniq=9 | Respondent P36
+ntlp37         nn=2245   min=1 max=8 nuniq=7 | Respondent P37
+p37q1_01       nn=2245   min=1 max=2 nuniq=2 | HH consumed CEREALS in last 24 hours
+p37q1_02       nn=2245   min=1 max=2 nuniq=2 | HH consumed ROOTS AND TUBERS in last 24 hours
+p37q1_03       nn=2245   min=1 max=2 nuniq=2 | HH consumed VEGETABLES in last 24 hours
+p37q1_04       nn=2245   min=1 max=2 nuniq=2 | HH consumed FRUITS in last 24 hours
+p37q1_05       nn=2245   min=1 max=2 nuniq=2 | HH consumed MEAT, POULTRY, OFFAL in last 24 hours
+p37q1_06       nn=2245   min=1 max=2 nuniq=2 | HH consumed EGGS in last 24 hours
+p37q1_07       nn=2245   min=1 max=2 nuniq=2 | HH consumed FISH AND SEAFOOD in last 24 hours
+p37q1_08       nn=2245   min=1 max=2 nuniq=2 | HH consumed PULSES/LEGUMES/NUTS in last 24 hours
+p37q1_09       nn=2245   min=1 max=2 nuniq=2 | HH consumed MILK AND MILK PRODUCTS in last 24 hours
+p37q1_10       nn=2245   min=1 max=2 nuniq=2 | HH consumed OIL/FATS in last 24 hours
+p37q1_11       nn=2245   min=1 max=2 nuniq=2 | HH consumed SUGAR/HONEY in last 24 hours
+p37q2          nn=2245   min=1 max=98 nuniq=4 | At present, do you smoke?
+p37q3a         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-WATER
+p37q3b         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-SOFT DRINKS
+p37q3c         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-BEER
+p37q3d         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-RICE WINE (home ma
+p37q3e         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-RICE WINE (from co
+p37q3f         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-CASSAVA WINE
+p37q3g         nn=2245   min=1 max=98 nuniq=5 | In which amount are the following beverages normally consumed-MAIZE WINE
+p37q4          nn=2245   min=1 max=98 nuniq=5 | Frequency of meeting friends to drink beer or wine
+ntlp38         nn=2245   min=1 max=11 nuniq=9 | Respondent P38
+p38q6          nn=2244   min=1 max=99 nuniq=4 | In the coming two years, does HH expect to increase the value of total savings
+ntlp39         nn=2245   min=1 max=11 nuniq=9 | Respondent P39
+ntlp40         nn=2245   min=1 max=11 nuniq=9 | Respondent P40
+p40q1          nn=2245   min=1 max=2 nuniq=2 | Household borrowed money or goods (including seeds or fertilizer) from any sourc
+ntlp41         nn=1102   min=1 max=10 nuniq=7 | Respondent P41
+p41q22         nn=2194   min=0 max=98 nuniq=8 | Number of times, since 1 July 2008, loan has been rejected
+p41q23a        nn=2194   min=1 max=98 nuniq=9 | Three main reasons for loan rejection? FIRST REASON
+p41q23b        nn=2191   min=1 max=98 nuniq=9 | Three main reasons for loan rejection? SECOND REASON
+p41q23c        nn=2181   min=1 max=98 nuniq=8 | Tree main reasons for loan rejection? THIRD REASON
+ntlp42         nn=2244   min=1 max=11 nuniq=9 | Respondent P42
+p42q1          nn=2245   min=1 max=2 nuniq=2 | Household has any type of insurance
+p42q6          nn=1992   min=0 max=4e+04 nuniq=36 | If insurance against loss or damage of crop were available, how much would respo
+ntlp43         nn=2245   min=1 max=11 nuniq=9 | Respondent P43
+p43q1          nn=2245   min=1 max=2 nuniq=2 | Since 1 July 2008, did HH suffer from an unexpected loss from any of shocks ment
+ntlp44         nn=2245   min=1 max=11 nuniq=9 | Respondent P44
+p44q7b         nn=1958   min=1 max=2 nuniq=2 | HH head ever been member of the Youth Union
+p44q7c         nn=1958   min=1 max=2 nuniq=2 | Spouse of HH head ever been member of the Youth Union
+p44q7d         nn=1958   min=1 max=4 nuniq=4 | Was father or mother of HH head member of the Communist Party
+p44q7e         nn=1958   min=1 max=4 nuniq=4 | Was father or mother of spouse of HH head member of the Communist Party
+ntlp46         nn=2245   min=1 max=11 nuniq=9 | Respondent P46
+p46q1          nn=2245   min=1 max=3 nuniq=3 | To your knowledge is there a farmer interest group or farmer field class in the 
+p46q2          nn=2245   min=1 max=98 nuniq=6 | How did you hear about thus group?
+p46q3          nn=2245   min=1 max=98 nuniq=4 | Member of farmer interest group/field class
+p46q4          nn=2245   min=1 max=98 nuniq=5 | Why not member of farmer interest group/field class
+p46q5          nn=2244   min=98 max=2010 nuniq=16 | When did you become a member of farmer interest group/field class?
+p46q6          nn=2244   min=1 max=98 nuniq=4 | Number of current members known before joining farmer interest group/field class
+p46q7a         nn=2244   min=1 max=98 nuniq=6 | Main benefits expected from being member of farmer interest group/field class-1s
+p46q7b         nn=2244   min=0 max=98 nuniq=7 | Main benefits expected from being member of farmer interest group/field class-2n
+p46q7c         nn=2215   min=0 max=98 nuniq=7 | Main benefits expected from being member of farmer interest group/field class-3r
+p46q8a         nn=2244   min=1 max=98 nuniq=9 | Benefits already received from being member of farmer ionterest group/field clas
+p46q8b         nn=2244   min=0 max=98 nuniq=8 | Benefits already received from being member of farmer ionterest group/field clas
+p46q8c         nn=2217   min=0 max=98 nuniq=9 | Benefits already received from being member of farmer ionterest group/field clas
+p46q9          nn=2244   min=1 max=98 nuniq=6 | How are leaders in this farmer interest group/field class selected?
+p46q10         nn=2244   min=1 max=98 nuniq=4 | How much influence do you feel you have on decision-making in this group?
+p46q11         nn=2244   min=1 max=98 nuniq=3 | How often do you participate in group activities?
+p46q12         nn=2244   min=1 max=98 nuniq=3 | Why do you not participate more often?
+ntlp47         nn=2245   min=1 max=11 nuniq=9 | Respondent P47
+p47q13         nn=2245   min=0 max=99 nuniq=30 | Number of people known whom could be asked for help with [this]
+ntlp48         nn=2245   min=1 max=11 nuniq=9 | Respondent P48
+p48q1          nn=2245   min=1 max=99 nuniq=3 | Farming alternative preferred by HH-choice 1
+p48q2          nn=2245   min=1 max=99 nuniq=4 | Farming alternatives preferred by HH-choice 2
+p48q3a         nn=2245   min=1 max=99 nuniq=4 | Most people are basically honest and can be trusted.
+p48q3b         nn=2245   min=1 max=99 nuniq=4 | In this commune one has to be careful, there are people you cannot trust.
+p48q3c         nn=2245   min=1 max=99 nuniq=4 | This commune has prospered in the last five years.
+p48q3d         nn=2245   min=1 max=99 nuniq=4 | This commune will prosper in the coming five years.
+p48q4a         nn=2245   min=0 max=9000 nuniq=33 | How much willing to pay for a 1 in 10 chance of winning a prize of 2,000,000 VND
+p48q4b         nn=2245   min=0 max=9999 nuniq=37 | How much willing to pay for a 1 in 10 chance of winning a prize of 20,000,000 VN
+p48q5a         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 2,000VND and 50% chance of winning 6,000VND
+p48q5b         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 3,000VND and 50% chance of winning 6,000VND
+p48q5c         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 4,000VND and 50% chance of winning 6,000VND
+p48q5d         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 5,000VND and 50% chance of winning 6,000VND
+p48q5e         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 6,000VND and 50% chance of winning 6,000VND
+p48q5f         nn=2245   min=1 max=2 nuniq=2 | 50% chance of loosing 7,000VND and 50% chance of winning 6,000VND
+ntlp49         nn=2245   min=1 max=11 nuniq=9 | Respondent P49
+p49q1          nn=2245   min=1 max=2 nuniq=2 | Any HH member holding office or other positions of public responsibility in the 
+p49q2a         nn=2245   min=1 max=98 nuniq=6 | HH member ID holding these public responsibility positions? 1st person
+p49q2b         nn=2129   min=1 max=98 nuniq=6 | HH member ID holding these public responsibility positions? 2nd person
+p49q3a         nn=2245   min=1 max=98 nuniq=7 | Positions held by HH members? 1st person
+p49q3b         nn=2129   min=1 max=98 nuniq=5 | Positions held by HH members? 2nd person
+p49q4          nn=2245   min=1 max=2 nuniq=2 | Any relatives outside HH holding office or other trusted positions in the Commun
+p49q5a         nn=2245   min=1 max=98 nuniq=5 | Relationship to these relatives with trusted position? 1st person
+p49q5b         nn=1834   min=1 max=98 nuniq=5 | Relationship to these relatives with trusted position? 2nd person
+p49q6a         nn=2245   min=1 max=98 nuniq=7 | Positions held by relatives? 1st person
+p49q6b         nn=1834   min=1 max=98 nuniq=7 | Positions held by relatives? 2nd person
+p49q7          nn=2245   min=1 max=2 nuniq=2 | Any personal friends holding office or other trusted positions in the Commune, o
+p49q8a         nn=2244   min=1 max=98 nuniq=6 | Positions held by friends? 1st person
+p49q8b         nn=2024   min=1 max=98 nuniq=7 | Positions held by friends? 2nd person
+ntlp50         nn=2245   min=1 max=11 nuniq=9 | Respondent P50
+p50q2          nn=2245   min=0 max=10 nuniq=13 | Number of hours a day watching TV, on average?
+p50q3          nn=2245   min=1 max=4 nuniq=4 | How often does someone in HH listen to the radio?
+p50q4          nn=2245   min=1 max=4 nuniq=4 | How often does someone in HH read a daily newspaper?
+p50q5          nn=2245   min=1 max=5 nuniq=5 | Anyone in HH having access to internet services? If so, where mainly?
+ntlp51         nn=2245   min=1 max=11 nuniq=9 | Respondent P51
+p51q8          nn=2245   min=0 max=4.1e+04 nuniq=65 | Amount spent during the Tet holidays
+p51q9a         nn=2245   min=1 max=2 nuniq=2 | Any HH members passed away during last 12 months
+p51q9b         nn=2245   min=98 max=6e+04 nuniq=31 | Average amount spent on funerals for persons past away during last 12 months
+p51q9c         nn=2245   min=1 max=2 nuniq=2 | HH joined funerals of other HHs
+p51q9d         nn=2245   min=0 max=400 nuniq=23 | Average amount spent per funeral of other HHs
+ntlp52         nn=2245   min=1 max=98 nuniq=10 | Respondent P52
+p52q1a         nn=1979   min=1 max=5 nuniq=5 | Who in the HH has the final say on: Visits to family/friends/relatives?
+p52q1b         nn=1979   min=1 max=5 nuniq=5 | Who in the HH has the final say on: Making household purchases for daily needs?
+p52q1c         nn=1979   min=1 max=5 nuniq=5 | Who in the HH has the final say on: Making large household purchases?
+p52q1d         nn=1738   min=1 max=98 nuniq=6 | Who in the HH has the final say on: Whether to use contraception?
+p52q1e         nn=1979   min=1 max=5 nuniq=5 | Who in the HH has the final say on: Respondent's own health care?
+p52q1          nn=1979   min=1 max=2 nuniq=2 | Respondent has children?
+p52q1f         nn=1979   min=1 max=98 nuniq=6 | Who in the HH has the final say on: Schooling of children?
+p52q1g         nn=1979   min=1 max=98 nuniq=6 | Who in the HH has the final say on: Health care for children?
+p52q1h         nn=1979   min=1 max=98 nuniq=6 | Who in the HH has the final say on: Whether to have (a)nother child?
+p52q2a1        nn=1964   min=0 max=1e+05 nuniq=76 | Distance to closest birth family member? in Kilometer
+p52q2a2        nn=811    min=0 max=3000 nuniq=46 | Distance to closest birth family member? in Meter
+p52q2b         nn=1979   min=1 max=2 nuniq=2 | Can you get shelter for a couple of nights at someone from your birth family if 
+p52q2c         nn=1979   min=1 max=2 nuniq=2 | Can you get financial support from someone from your birth family if necessary?
+p52q3a_1       nn=1979   min=1 max=9 nuniq=3 | Sell/dispose of LAND without permission from husband?
+p52q3a_2       nn=1978   min=1 max=9 nuniq=3 | Sell/dispose of JEWELLERY without permission from husband?
+p52q3a_3       nn=1978   min=1 max=9 nuniq=3 | Sell/dispose of LIVESTOCK without permission from husband?
+p52q3a_4       nn=1978   min=1 max=9 nuniq=3 | Sell/dispose of BIKE/MOTORBIKE without permission from husband?
+p52q3a_5       nn=1978   min=1 max=9 nuniq=3 | Sell/dispose of OTHER ASSETS without permission from husband?
+p52q4          nn=1979   min=1 max=99 nuniq=4 | More decision-making power over daily activities now than five years ago?
+p52q4a         nn=2245   nuniq=278 ex=['XH ngµy cµng ph¸t triÓn', '98', 'XH ph¸t triÓn nªn d©n trÝ ph¸t triÓn', 'cã nhiÒu viÖc chÞ q® k ph¶i hái chång'] | If yes, why do you feel you have more decision-making power?
+p53q5          nn=1738   min=1 max=98 nuniq=3 | Ever used any kind of birth control?
+p53q6          nn=1711   min=1 max=98 nuniq=13 | Which method of birth control (ever) used?
+p53q7          nn=1711   min=1 max=98 nuniq=3 | Currently using any kind of birthcontrol?-only if married woman<45tyrs
+p53q8          nn=1702   min=1 max=98 nuniq=12 | Which method of birthcontrol using currently?
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p53q8] n=14: 1=Pill; 2=IUD; 3=Injections; 4=Implants; 5=Diaphragms/foam/jelly; 6=Condom; 7=Female sterilisation; 8=Male sterilisation; 9=Periodic abstinence; 10=Withdrawal; 11=Abortion; 12=None; 13=Any other way; 98=Not Applicable
+[p53q6] n=13: 1=Pill; 2=IUD; 3=Injections; 4=Implants; 5=Diaphragms/foam/jelly; 6=Condom; 7=Female sterilisation; 8=Male sterilisation; 9=Periodic abstinence; 10=Withdrawal; 11=Abortion; 12=Any other way; 98=Not Applicable
+[p53q57] n=3: 1=Yes; 2=No; 98=Not Applicable
+[p52q4] n=4: 1=Yes; 2=No; 98=Not Applicable; 99=Don't know
+[p52q2a1] n=2: 98=Has no relative; 99=Don't remember
+[p52q1dfgh] n=6: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only; 98=Not applicable
+[p52q1] n=5: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only
+[p51q9bd] n=1: 98=Not applicable
+[p51q8] n=2: 98=Not applicable; 99=Do not remember
+[p50q5] n=5: 1=Don't have accesse; 2=Access from home; 3=Access from workplace; 4=Access from internet cafe; 5=Don't know what internet is
+[p50q34] n=4: 1=Every day; 2=Every week; 3=Every month; 4=Never
+[p49q5] n=5: 1=Father/mother (also in-laws); 2=Sister/brother (also in-laws); 3=Son/daughter (also in-laws); 4=Cousin or other; 98=Not Applicable
+[p49q368] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=Not Applicable
+[p49q2] n=1: 98=Not Applicable
+[p48q5] n=2: 1=Accept; 2=Reject
+[p48q3] n=4: 1=Agree; 2=Disagree; 3=No opinion/do not want to answer; 99=Don't know
+[p48q2] n=4: 1=Get and farm 0,5 hectare of land entirely by yourself; 2=Get and farm 3,5 hectares of land jointly with one other family from your commune (to which you are not related); 98=Not applicable; 99=Don't know
+[p48q1] n=3: 1=Get and farm 0,5 hectare of land entirely by yourself; 2=Get and farm 1,5 hectares of land jointly with one other family from your commune (to which you are not related); 99=Don't know
+[p46q12] n=6: 1=Lack of time; 2=No influence; 3=Waste of time; 4=Illness; 5=Other; 98=Not Applicable
+[p46q11] n=4: 1=Almost always; 2=Sometimes; 3=Rarely/never; 98=Not Applicable
+[p46q10] n=4: 1=None; 2=Some; 3=A lot; 98=Not Applicable
+[p46q9] n=6: 1=By an outside person or entity; 2=Each leader chooses his/her successor; 3=By a small group of members; 4=By decision/vote of all members; 5=Other; 98=Not Applicable
+[p46q8] n=11: 0=No benefit; 1=Training on agriculture; 2=Training on livestock; 3=Better market access; 4=Better access to inputs; 5=Better relations with other farmers; 6=Increased knowledge; 7=Increased income; 8=Other; 9=No benefit; 98=Not Applicable
+[p46q7] n=10: 0=No benefit; 1=Training on agriculture; 2=Training on livestock; 3=Better market access; 4=Better access to inputs; 5=Better relations with other farmers; 6=Increased knowledge; 7=Increased income; 8=Other; 98=Not Applicable
+[p46q6] n=4: 1=Many; 2=Less than half; 3=None; 98=Not applicable
+[p46q5] n=1: 98=Not Applicable
+[p46q4] n=5: 1=Not interested; 2=No time; 3=Unable to pay fee; 4=Interested but not invited/accepted; 98=Not Applicable
+[p46q3] n=3: 1=Yes; 2=No; 98=Not Applicable
+[p46q2] n=7: 1=From friend/relative; 2=From government official; 3=At market; 4=TV/radio/Newspaper; 5=From organisation; 6=Other; 98=Not Applicable
+[p46q1] n=3: 1=Yes; 2=No; 3=Don't know
+[p44q7] n=4: 1=Father; 2=Mother; 3=Both; 4=Neither
+[p42q6] n=2: 98=Not Interested; 99=Don't know
+[p41q23] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=Not Applicable
+[p41q22] n=1: 98=Never applied for a loan
+[p38q6] n=4: 1=Increase; 2=The same; 3=Decrease; 99=Don't know
+[p37q4] n=5: 1=Every day; 2=A few times a week; 3=Very rarely; 4=Never; 98=Not Applicable
+[p37q3] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=1 or 2 glasses(<1/2liter a day); 4=I don't drink this on a daily basis; 98=Not Applicable
+[p37q2] n=4: 1=Yes; 2=No, but I used to smoke before; 3=No, I have never smoked; 98=Not Applicable
+[yesno] n=2: 1=Yes; 2=No
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[NTLP52] n=1: 98=Kh«ng ¸p dông

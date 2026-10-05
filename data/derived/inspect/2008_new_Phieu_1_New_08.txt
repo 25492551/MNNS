@@ -1,0 +1,341 @@
+Phieu_1_New_08.dta  rows=2278  cols=202
+
+tinh_2008      nn=2278   min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=2278   min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=2278   min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=2278   min=1 max=98 nuniq=33 | HHcode 2008
+thay_cho_o     nn=2278   min=1 max=2 nuniq=2 | Changing location
+ma_dan_toc     nn=2278   min=1 max=53 nuniq=30 | WHAT IS THE ETHNICITY OF THIS HH?
+tieng_viet     nn=2278   min=1 max=2 nuniq=2 | DOES THE HH SPEAK VIETNAMESE?
+tieng_chinh    nn=2278   min=1 max=2 nuniq=2 | IS VIETNAMESE THE MAIN LANGUAGE OF IN THE HH?
+phien_dich     nn=2278   min=1 max=2 nuniq=2 | WAS INTERPRETER USED FOR THIS INTERVIEW?
+khu_vuc        nn=2278   min=1 max=2 nuniq=2 | IS THE HOUSEHOLD CLASSIFIED AS
+ntlp2          nn=2278   min=1 max=7 nuniq=7 | Respondent P2
+p4q1_1         nn=2278   min=1 max=4 nuniq=4 | 1.1 Was the head of the household or the spouse born in this commune? NOW
+p4q1_2         nn=0      nuniq=0 ex=[] | 1.2 Was the head of the household or the spouse born in this commune? On Jan 1, 
+p4q2_1         nn=2278   min=1 max=99 nuniq=55 | 2.1 How long has the household lived in this commune? NOW
+p4q2_2         nn=0      nuniq=0 ex=[] | 2.2 How long has the household lived in this commune? On Jan 1, 2006
+p4q3_1         nn=2278   min=2 max=300 nuniq=114 | 3.1 How many square meters does your household occupy, including bedrooms, dinin
+p4q3_2         nn=2274   min=2 max=300 nuniq=112 | 3.2 How many square meters does your household occupy, including bedrooms, dinin
+p4q4_1         nn=2278   min=1 max=7 nuniq=7 | 4.1 What is the main construction material of the outside walls? NOW
+p4q4_2         nn=2274   min=1 max=7 nuniq=7 | 4.2 What is the main construction material of the outside walls? On Jan 1, 2006
+p4q5_1         nn=2278   min=1 max=7 nuniq=7 | 5.1 Flooring material? NOW
+p4q5_2         nn=2274   min=1 max=7 nuniq=7 | 5.2 Flooring material? On Jan 1, 2006
+p4q6_1         nn=2278   min=1 max=8 nuniq=8 | 6.1 Roof material? NOW
+p4q6_2         nn=2274   min=1 max=8 nuniq=8 | 6.2 Roof material? On Jan 1, 2006
+p4q7_1         nn=2278   min=1 max=3 nuniq=3 | 7.1 Does your household own this dwelling? NOW
+p4q7_2         nn=2274   min=1 max=3 nuniq=3 | 7.2 Does your household own this dwelling? On Jan 1, 2006
+p4q8_1         nn=2278   min=98 max=250 nuniq=3 | 8.1 How much do you pay in rent for this house per month? NOW
+p4q8_2         nn=2274   min=98 max=250 nuniq=2 | 8.2 How much do you pay in rent for this house per month? On Jan 1, 2006
+p4q9_1         nn=2278   min=1 max=3 nuniq=3 | 9.1 Is your household qualified as poor by the authorities (MOLISA)? NOW
+p4q9_2         nn=2274   min=1 max=3 nuniq=3 | 9.2 Is your household qualified as poor by the authorities (MOLISA)? On Jan 1, 2
+p4q10_1        nn=2278   min=1 max=2 nuniq=2 | 10.1 Does your household have electricity? NOW
+p4q10_2        nn=2274   min=1 max=2 nuniq=2 | 10.2 Does your household have electricity? On Jan 1, 2006
+p4q11_1        nn=2278   min=1 max=4 nuniq=3 | 11.1 What is the main source of energy for lighting in your household? NOW
+p4q11_2        nn=2274   min=1 max=4 nuniq=3 | 11.2 What is the main source of energy for lighting in your household? On Jan 1,
+p4q12_1        nn=2278   min=1 max=6 nuniq=6 | 12.1 What is the main source of energy for cooking in your household? NOW
+p4q12_2        nn=2274   min=1 max=6 nuniq=6 | 12.2 What is the main source of energy for cooking in your household? On Jan 1, 
+p4q13_1        nn=2278   min=0 max=2e+04 nuniq=48 | 13.1 On average, how far is the place where you collect fuel wood? NOW
+p4q13_2        nn=2274   min=0 max=2e+04 nuniq=53 | 13.2 On average, how far is the place where you collect fuel wood? On Jan 1, 200
+p4q14_1        nn=2278   min=0 max=4800 nuniq=47 | 14.1 How much time on average does it take to collect fuel wood, each time you d
+p4q14_2        nn=797    min=98 max=98 nuniq=1 | 14.2 How much time on average does it take to collect fuel wood, each time you d
+p4q15_1        nn=2278   min=1 max=6 nuniq=6 | 15.1 What type of toilet does your household have? NOW
+p4q15_2        nn=2274   min=1 max=6 nuniq=6 | 15.2 What type of toilet does your household have? On Jan 1, 2006
+p4q16_1        nn=2278   min=1 max=6 nuniq=6 | 16.1 How has your household mainly disposed of garbage in the last 12 months? NO
+p4q16_2        nn=2274   min=1 max=6 nuniq=6 | 16.2 How has your household mainly disposed of garbage in the last 12 months? On
+p4q17_1        nn=2278   min=1 max=12 nuniq=12 | 17.1 What was the main source of cooking/drinking water of your household? NOW
+p4q17_2        nn=2274   min=1 max=12 nuniq=12 | 17.2 What was the main source of cooking/drinking water of your household? On Ja
+p4q18_1        nn=2278   min=0 max=1e+04 nuniq=37 | 18.1 How far from home is the place where you collect water? NOW
+p4q18_2        nn=2274   min=0 max=1e+04 nuniq=40 | 18.2 How far from home is the place where you collect water? On Jan 1, 2006
+p4q19_1        nn=2278   min=0 max=120 nuniq=23 | 19.1 How much time on average does it take per trip to collect water? (getting t
+p4q19_2        nn=2274   min=0 max=200 nuniq=25 | 19.2 How much time on average does it take per trip to collect water? (getting t
+p4q20a         nn=2278   min=0.1 max=1000 nuniq=54 | 20.a How far is the nearest a) People's Committee
+p4q20b         nn=2278   min=0 max=7000 nuniq=81 | 20.b How far is the nearest b) All weather road
+p4q20c         nn=2278   min=0 max=1000 nuniq=66 | 20.c How far is the nearest c) Public health care station
+p4q20d         nn=2278   min=0 max=1130 nuniq=78 | 20.d How far is the nearest d) Private health care station
+p4q20e         nn=2278   min=0 max=1200 nuniq=105 | 20.e How far is the nearest e) Hospital
+p4q20f         nn=2278   min=0 max=1000 nuniq=49 | 20.f How far is the nearest f) Primary school
+p4q20g         nn=2278   min=0 max=1000 nuniq=66 | 20.g How far is the nearest g) Lower secondary school
+p4q20h         nn=2278   min=0 max=1800 nuniq=96 | 20.h How far is the nearest h) Upper secondary school
+ntlp5          nn=2278   min=1 max=7 nuniq=7 | Respondent P5
+p5q1_1         nn=2278   min=1 max=3 nuniq=2 | STT
+p5q1_2         nn=2278   min=2 max=2 nuniq=1 | STT
+p5q1_3         nn=2278   min=3 max=3 nuniq=1 | STT
+p5q2_1         nn=2278   min=1 max=999 nuniq=20 | Plots that your household has/had use rights to and operates
+p5q2_2         nn=2278   min=1 max=999 nuniq=11 | Plots that your household is/was renting in or borrowing
+p5q2_3         nn=2278   min=1 max=999 nuniq=13 | Plots that your household has/had use rights to but is renting or lending out
+ntlp9          nn=2278   min=1 max=7 nuniq=7 | Respondent P9
+ntlp10         nn=2278   min=1 max=7 nuniq=7 | Respondent P10
+ntlp11         nn=2278   min=1 max=7 nuniq=7 | Respondent P11
+ntlp12         nn=2278   min=1 max=7 nuniq=7 | Respondent P12
+dat_d          nn=2278   min=1 max=2 nuniq=2 | Cã ®Êt lo¹i D
+ntlp13         nn=2278   min=1 max=7 nuniq=7 | Respondent P13
+p13q3          nn=777    min=0 max=1e+05 nuniq=73 | 3. What was the total cash spending on all irrigation or soil and water conserva
+p13q4          nn=777    min=0 max=200 nuniq=56 | 4. How many days of labour did your household spend on all irrigation or soil an
+p13q6          nn=158    min=0 max=5e+04 nuniq=46 | 6. What was the total cash spending by your household in investment in aquacultu
+p13q7          nn=158    min=0 max=220 nuniq=30 | 7. How many days of labour did your household spend on investment in aquaculture
+p14q9          nn=178    min=0 max=4.2e+05 nuniq=57 | 9. What was the total cash spending on all other permanent and semipermanent str
+p14q10         nn=179    min=0 max=400 nuniq=33 | 10. How many days of labour did your household spend on all permanent and semipe
+p14q12         nn=277    min=0 max=6000 nuniq=71 | 12. How many trees and bushes did you household plant since 1 July 2006?
+p14q13         nn=277    min=0 max=5e+04 nuniq=86 | 13. What was the total cash spending by your household on investment in trees an
+p14q14         nn=277    min=0 max=99 nuniq=32 | 14. How many days of labour did your household spend on investment in trees and 
+ntlp15         nn=2278   min=1 max=7 nuniq=7 | Respondent P15
+ntlp16         nn=2278   min=1 max=7 nuniq=7 | Respondent P16
+p16q1          nn=2278   min=1 max=2 nuniq=2 | Have you heard about the new Land Law from 2003?
+p16q2          nn=2278   min=1 max=98 nuniq=5 | How much do you know about the new land law?
+p16q3          nn=2250   min=0.1 max=200 nuniq=19 | What is the maximum amount of annual crop land that can be allocated to one hous
+p16q4          nn=2250   min=1 max=98 nuniq=6 | When the government confiscates a plot of land, and there si no other land avail
+p16q5          nn=2250   min=1 max=99 nuniq=4 | Can the nmaes of both the husband and the wife be written into a household's Red
+p16q6a         nn=2250   min=1 max=98 nuniq=8 | From which sources have you mainly heard about these issues (mentioned in Q.3-5)
+p16q6b         nn=2250   min=0 max=98 nuniq=10 | From which sources have you mainly heard about these issues (mentioned in Q.3-5)
+ntlp17         nn=2277   min=1 max=7 nuniq=7 | Respondent P17
+ntlp18         nn=2189   min=1 max=6 nuniq=6 | Respondent P18
+ntlp19         nn=2190   min=1 max=6 nuniq=6 | Respondent P19
+manh_1         nn=2278   nuniq=49 ex=['a3', 'a2', 'a1', ''] | Plot Code 1
+manh_2         nn=2278   nuniq=54 ex=['a4', 'a3', 'a5', ''] | Plot Code 2
+manh_3         nn=2278   nuniq=52 ex=['a5', 'a6', 'a4', 'a1'] | Plot Code 3
+manh_4         nn=2278   nuniq=52 ex=['', 'b1', 'b2', 'a7'] | Plot Code 4
+manh_5         nn=2278   nuniq=62 ex=['', 'b2', 'b3', 'a7'] | Plot Code 5
+ntlp20         nn=2278   min=1 max=7 nuniq=7 | Respondent P20
+p20tl          nn=2278   min=1 max=2 nuniq=2 | Cã thñy lîi
+p20q1a         nn=1893   min=1 max=99 nuniq=5 | 1a. How would you assess the state of public and/or cooperative irrigation facil
+p20q1b         nn=1893   min=1 max=99 nuniq=5 | 1b. How would you assess the state of public and/or cooperative irrigation facil
+p20q1c         nn=1893   min=1 max=99 nuniq=5 | 1c. How would you assess the state of public and/or cooperative irrigation facil
+p20q1d         nn=1893   min=1 max=99 nuniq=5 | 1d. How would you assess the state of public and/or cooperative irrigation facil
+p20q1e         nn=1893   min=1 max=99 nuniq=5 | 1e. How would you assess the state of public and/or cooperative irrigation facil
+p20q2          nn=1893   min=1 max=99 nuniq=6 | 2. For irrigation, are you dependent on any public or cooperative infrastructure
+p20q3          nn=1893   min=1 max=99 nuniq=5 | 3. Is the amount of irrigation water you have access to sometimes not sufficient
+p20q4          nn=1893   min=1 max=99 nuniq=5 | 4. Does it happen that you fields are flooded by excessive amounts of water from
+p20q5          nn=1893   min=1 max=98 nuniq=3 | 5. Do you currently pay an irrigation fee?
+p20q6          nn=1893   min=1 max=98 nuniq=5 | 6. Why do you not pay any such fee?
+ntlp21         nn=2277   min=1 max=7 nuniq=7 | Respondent P21
+p21q1          nn=2278   min=1 max=2 nuniq=2 | 1. Has your household had any livestock or aquaculture production in the last 12
+ntlp25         nn=2278   min=1 max=7 nuniq=7 | Respondent P25
+p25q1          nn=2278   min=1 max=2 nuniq=2 | 1. In the last 12 months: Did your household catch fish, shrimp, oysters, crabs 
+ntlp26         nn=2278   min=1 max=7 nuniq=7 | Respondent P26
+p26q1          nn=2278   min=1 max=98 nuniq=5 | 1. What type of rice seed do you normally use?
+p26q2          nn=2278   min=1 max=98 nuniq=7 | 2. Where do you normally buy your rice seed?
+p26q3          nn=2278   min=0 max=500 nuniq=62 | 3. How far is this place?
+p26q4          nn=2278   min=1 max=98 nuniq=9 | 4. Has you household experienced any of the following difficulties in getting ac
+p26q5a         nn=2278   min=1 max=98 nuniq=9 | 5a. What are the main difficulties your household faces after production? CODE 1
+p26q5b         nn=2092   min=1 max=98 nuniq=9 | 5b. What are the main difficulties your household faces after production? CODE 2
+p26q6a         nn=2278   min=1 max=99 nuniq=5 | 6a. Comparing your situation today with the situation two years ago have you not
+p26q6b         nn=2278   min=1 max=99 nuniq=5 | 6b. Comparing your situation today with the situation two years ago have you not
+p26q6c         nn=2278   min=1 max=99 nuniq=5 | 6c. Comparing your situation today with the situation two years ago have you not
+p26q6d         nn=2278   min=1 max=99 nuniq=5 | 6d. Comparing your situation today with the situation two years ago have you not
+p26q6e         nn=2278   min=1 max=99 nuniq=5 | 6e. Comparing your situation today with the situation two years ago have you not
+ntlp27         nn=2278   min=1 max=7 nuniq=7 | Respondent P27
+ntlp28         nn=2099   min=1 max=6 nuniq=6 | Respondent P28
+ntlp29         nn=2200   min=1 max=8 nuniq=7 | Respondent P29
+ntlp30         nn=1985   min=1 max=7 nuniq=7 | Respondent P30
+p30            nn=1281   min=1 max=2 nuniq=2 | During the last 12 months, has your household pursued any non-farm, non-wage, no
+ntlp34         nn=2278   min=1 max=6 nuniq=6 | Respondent P34
+p34q1          nn=2278   min=0 max=2.94e+05 nuniq=454 | 1. Net income from wage/salary
+p34q2          nn=2278   min=-4.11e+04 max=4.489e+05 nuniq=1881 | 2. Net income from agricultural activities
+p34q3          nn=2278   min=0 max=2e+05 nuniq=177 | 3. Net income from common property resources
+p34q4          nn=2278   min=-1.874e+05 max=1.45e+06 nuniq=384 | 4. Net income from non-farm non wage economic activities
+p34q5a         nn=2278   min=0 max=1.206e+05 nuniq=101 | 5a. Net income from rental income. LAND/REAL ESTATE
+p34q5b         nn=2278   min=0 max=2.3e+04 nuniq=8 | 5b. Net income from rental income. OTHER ASSETS
+p34q6          nn=2278   min=0 max=1.4e+06 nuniq=88 | 6. Net income from sales of assets
+p34q7          nn=2278   min=0 max=2.4e+05 nuniq=127 | 7. Net income from private transfers
+p34q8          nn=2278   min=0 max=1.14e+05 nuniq=313 | 8. Net income from public transfers
+p34q9          nn=2278   min=0 max=2.57e+05 nuniq=59 | 9. Net income from other sources
+p34q10         nn=2278   min=-1.864e+05 max=1.463e+06 nuniq=2169 | 10. Net income TOTAL
+ntlp35         nn=2278   min=1 max=7 nuniq=7 | Respondent P35
+ntlp36         nn=2278   min=1 max=7 nuniq=7 | Respondent P36
+p36a           nn=2278   min=1 max=2 nuniq=2 | Since 1 July 2006 did anyone in your household receive any training on [TOPIC]?
+p37q10         nn=2277   min=1 max=98 nuniq=4 | 10. From what other sources did your household receive any information on this t
+ntlp38         nn=2277   min=1 max=7 nuniq=7 | Respondent P38
+p38q1          nn=2278   min=1 max=2 nuniq=2 | 1. In the last 12 months, have any extension workers visited your house to provi
+p38q2a         nn=2278   min=0 max=99 nuniq=8 | 2a. If YES, how many visits did they take? DEMAND-BASED VISITS
+p38q2b         nn=2278   min=0 max=99 nuniq=9 | 2b. If YES, how many visits did they take? NON-DEMANDED VISITS
+ntlp38b        nn=2278   min=1 max=7 nuniq=7 | Respondent P38b
+p38bq1a        nn=2278   min=1 max=2 nuniq=2 | 1a. Did your household receive any information on agricultural production and ex
+p38bq9         nn=2278   min=0 max=400 nuniq=31 | 9. In total, how many friends/relatives/neighbours did you receive such informat
+ntlp39         nn=2278   min=1 max=7 nuniq=7 | Respondent P39
+ntlp40         nn=2278   min=1 max=8 nuniq=7 | Respondent P40
+p40q1_01       nn=2278   min=1 max=2 nuniq=2 | 1.1 CEREALS (any bread, rice, noodles, biscuits, or any other foods made from mi
+p40q1_02       nn=2278   min=1 max=2 nuniq=2 | 1.2 ROOTS AND TUBERS (any potatoes, yams, cassava or any other food made from ro
+p40q1_03       nn=2278   min=1 max=2 nuniq=2 | 1.3 VEGETABLES (any vegetables)?
+p40q1_04       nn=2278   min=1 max=2 nuniq=2 | 1.4 FRUITS (any fruits)?
+p40q1_05       nn=2278   min=1 max=2 nuniq=2 | 1.5 MEAT, POULTRY, OFFAL (any beef, pork, lamb, goat, rabbit, wild game, chicken
+p40q1_06       nn=2278   min=1 max=2 nuniq=2 | 1.6 EGGS (any eggs)?
+p40q1_07       nn=2278   min=1 max=2 nuniq=2 | 1.7 FISH AND SEAFOOD (any fresh or dried fish or shellfish)?
+p40q1_08       nn=2278   min=1 max=2 nuniq=2 | 1.8 PULSES/LEGUMES/NUTS (any foods made from beans, peas, lentils, or nuts)?
+p40q1_09       nn=2278   min=1 max=2 nuniq=2 | 1.9 MILK AND MILK PRODUCTS (any cheese, yoghurt, milk, or other milk products)?
+p40q1_10       nn=2278   min=1 max=2 nuniq=2 | 1.10 OIL/FATS (any foods made from oil, fat, or butter)?
+p40q1_11       nn=2278   min=1 max=2 nuniq=2 | 1.11 SUGAR/HONEY (any sugar or honey)?
+p40q2          nn=2278   min=1 max=98 nuniq=4 | 2. At present, do you smoke?
+p40q3a         nn=2278   min=1 max=98 nuniq=5 | 3a. In which amount do you normally consume the following beverages? WATER
+p40q3b         nn=2278   min=1 max=98 nuniq=5 | 3b. In which amount do you normally consume the following beverages? SOFT DRINKS
+p40q3c         nn=2278   min=1 max=98 nuniq=5 | 3c. In which amount do you normally consume the following beverages? BEER
+p40q3d         nn=2278   min=1 max=98 nuniq=5 | 3d. In which amount do you normally consume the following beverages? RICE WINE (
+p40q3e         nn=2278   min=1 max=98 nuniq=5 | 3e. In which amount do you normally consume the following beverages? RICE WINE (
+p40q3f         nn=2278   min=1 max=98 nuniq=5 | 3f. In which amount do you normally consume the following beverages? CASSAVA WIN
+p40q3g         nn=2278   min=1 max=98 nuniq=5 | 3g. In which amount do you normally consume the following beverages? MAIZE WINE
+p40q4          nn=2278   min=1 max=98 nuniq=5 | 4. Do you meet your friends to drink beer or wine?
+ntlp41         nn=2278   min=1 max=7 nuniq=7 | Respondent P41
+p41q6          nn=2271   min=1 max=99 nuniq=4 | 6. In the coming two years, does your household expect to increase the value of 
+ntlp42         nn=2278   min=1 max=7 nuniq=7 | Respondent P42
+ntlp43         nn=2278   min=1 max=7 nuniq=7 | Respondent P43
+p43q1          nn=2278   min=1 max=2 nuniq=2 | 1. Has your household borrowed money or goods (including seeds or fertilizer) fr
+ntlp44         nn=1027   min=1 max=6 nuniq=6 | Respondent P44
+p44q22         nn=2180   min=0 max=98 nuniq=10 | 22. How many times, since 1 July 2006 have you had loan rejected?
+p44q23a        nn=2180   min=1 max=98 nuniq=9 | 23a.What were the three main reasons for this? FIRST REASON
+p44q23b        nn=1670   min=1 max=98 nuniq=8 | 23b.What were the three main reasons for this? SECOND REASON
+p44q23c        nn=1666   min=1 max=98 nuniq=9 | 23c.What were the three main reasons for this? THIRD REASON
+ntlp45         nn=2278   min=1 max=7 nuniq=7 | Respondent P45
+p45q1          nn=2278   min=1 max=2 nuniq=2 | 1. Does your household have any type of insurance?
+p45q6          nn=1840   min=0 max=9.8e+05 nuniq=35 | 6. If insurance against loss or damage of crop were available, how much would yo
+ntlp46         nn=2278   min=1 max=7 nuniq=7 | Respondent P46
+p46q1          nn=2278   min=1 max=2 nuniq=2 | 1. Since 1 July 2006, did the household suffer from an unexpected loss from any 
+p46q1b_01      nn=1320   min=1 max=2 nuniq=2 | 1.1 Natural and biological shocks: Floods, land slides, typhoons, storms, drough
+p46q1b_02      nn=1320   min=1 max=2 nuniq=2 | 1.2 Natural and biological shocks: Pest infestation and crop diseases
+p46q1b_03      nn=1320   min=1 max=2 nuniq=2 | 1.3 Natural and biological shocks: Avian flu
+p46q1b_04      nn=1320   min=1 max=2 nuniq=2 | 1.4 Economic shocks: Change in crop price, prices or shortage of key inputs/serv
+p46q1b_05      nn=1320   min=1 max=2 nuniq=2 | 1.5 Economic shocks: Change in prices of food or other essential commodities con
+p46q1b_06      nn=1320   min=1 max=2 nuniq=2 | 1.6 Economic shocks: Unemployment
+p46q1b_07      nn=1320   min=1 max=2 nuniq=2 | 1.7 Economic shocks: Unsuccessful investment
+p46q1b_08      nn=1320   min=1 max=2 nuniq=2 | 1.8 Economic shocks: Loss of land
+p46q1b_09      nn=1320   min=1 max=2 nuniq=2 | 1.9 Economic shocks: Crime (robbery, theft)
+p46q1b_10      nn=1320   min=1 max=2 nuniq=2 | 1.10 Shocks to household members: Divorce, abandonment, or internal or extended 
+p46q1b_11      nn=1320   min=1 max=2 nuniq=2 | 1.11 Shocks to household members: Serious illness, injury or death of a househol
+p46q1b_12      nn=1320   min=1 max=2 nuniq=2 | 1.12 Shocks to household members: Any other shock not included in 1-11 above
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An
+[THAY_CHO_O] n=2: 1=Cã; 2=Kh«ng
+[DAT_D] n=2: 1=Cã; 2=Kh«ng
+[P20TL] n=2: 1=Cã; 2=Kh«ng
+[ma_dan_toc] n=1: 23=Kinh
+[tieng_viet] n=2: 1=Yes; 2=No
+[tieng_chinh] n=2: 1=Yes; 2=No
+[phien_dich] n=2: 1=Yes; 2=No
+[khu_vuc] n=2: 1=Rural; 2=Urban
+[p4q1_1] n=4: 1=Head only; 2=Spouse only; 3=Both; 4=None
+[p4q1_2] n=4: 1=Head only; 2=Spouse only; 3=Both; 4=None
+[p4q4_1] n=7: 1=Leaves/Branches/Bamboo; 2=Wood; 3=Galvanized iron; 4=Earth; 5=Brick, stone; 6=Concrete; 7=Other
+[p4q4_2] n=7: 1=Leaves/Branches/Bamboo; 2=Wood; 3=Galvanized iron; 4=Earth; 5=Brick, stone; 6=Concrete; 7=Other
+[p4q5_1] n=7: 1=Bamboo; 2=Wood; 3=Earth, lime and ash; 4=Cement; 5=Brick; 6=Marble, tile; 7=Other
+[p4q5_2] n=7: 1=Bamboo; 2=Wood; 3=Earth, lime and ash; 4=Cement; 5=Brick; 6=Marble, tile; 7=Other
+[p4q6_1] n=8: 1=Straw, leaves; 2=Wood; 3=Canvas, tar paper; 4=Panels; 5=Galvanized Iron; 6=Tile; 7=Concrete, cement; 8=Other
+[p4q6_2] n=8: 1=Straw, leaves; 2=Wood; 3=Canvas, tar paper; 4=Panels; 5=Galvanized Iron; 6=Tile; 7=Concrete, cement; 8=Other
+[p4q7_1] n=3: 1=Yes; 2=No, we are renting it; 3=No, we are borrowing it
+[p4q7_2] n=3: 1=Yes; 2=No, we are renting it; 3=No, we are borrowing it
+[p4q9_1] n=3: 1=Yes; 2=No; 3=Don't know
+[p4q9_2] n=3: 1=Yes; 2=No; 3=Don't know
+[p4q10_1] n=2: 1=Yes; 2=No
+[p4q10_2] n=2: 1=Yes; 2=No
+[p4q11_1] n=4: 1=Electricity; 2=Kerosene; 3=Candle; 4=Other (Specify)
+[p4q11_2] n=4: 1=Electricity; 2=Kerosene; 3=Candle; 4=Other (Specify)
+[p4q12_1] n=6: 1=Firewood; 2=Electricity; 3=Kerosene; 4=Coal; 5=Natural Gas; 6=Other
+[p4q12_2] n=6: 1=Firewood; 2=Electricity; 3=Kerosene; 4=Coal; 5=Natural Gas; 6=Other
+[p4q15_1] n=6: 1=Flush toilet with septic tank/sewage pipes; 2=Suilabh (squat toilet); 3=Double vault compose latrine; 4=Toilet directly over the water; 5=Other; 6=No toilet
+[p4q15_2] n=6: 1=Flush toilet with septic tank/sewage pipes; 2=Suilabh (squat toilet); 3=Double vault compose latrine; 4=Toilet directly over the water; 5=Other; 6=No toilet
+[p4q16_1] n=5: 1=Somebody collected; 2=Took to waste site; 3=Burned; 4=Dumped haphazardly; 5=Other
+[p4q16_2] n=5: 1=Somebody collected; 2=Took to waste site; 3=Burned; 4=Dumped haphazardly; 5=Other
+[p4q17_1] n=12: 1=Private tap water; 2=Public tap water; 3=Bought water (in tank, bottle); 4=Water pumped from deep drill wells; 5=Water from hand-dug and reinforced wells; 6=Water from hand-dug, non-reinforced and covered wells; 7=Water from hund-dug, non-reinforced and uncovered wells; 8=Water tank; 9=Spring water; 10=River, lake, pond; 11=Rain water; 12=Other
+[p4q17_2] n=12: 1=Private tap water; 2=Public tap water; 3=Bought water (in tank, bottle); 4=Water pumped from deep drill wells; 5=Water from hand-dug and reinforced wells; 6=Water from hand-dug, non-reinforced and covered wells; 7=Water from hund-dug, non-reinforced and uncovered wells; 8=Water tank; 9=Spring water; 10=River, lake, pond; 11=Rain water; 12=Other
+[p4q20a] n=1: 99=Don't know
+[p4q20b] n=1: 99=Don't know
+[p4q20c] n=1: 99=Don't know
+[p4q20d] n=1: 99=Don't know
+[p4q20e] n=1: 99=Don't know
+[p4q20f] n=1: 99=Don't know
+[p4q20g] n=1: 99=Don't know
+[p4q20h] n=1: 99=Don't know
+[p4q2_1] n=1: 98=No Applicable
+[p4q2_2] n=1: 98=No Applicable
+[p4q8_1] n=1: 98=No Applicable
+[p4q8_2] n=1: 98=No Applicable
+[p4q13_1] n=1: 98=No Applicable
+[p4q13_2] n=1: 98=No Applicable
+[p4q14_1] n=1: 98=No Applicable
+[p4q14_2] n=1: 98=No Applicable
+[p4q18_1] n=1: 98=No Applicable
+[p4q18_2] n=1: 98=No Applicable
+[p4q19_1] n=1: 98=No Applicable
+[p4q19_2] n=1: 98=No Applicable
+[p5q2_1] n=1: 999=Unavailable
+[p5q2_2] n=1: 999=Unavailable
+[p5q2_3] n=1: 999=Unavailable
+[p16q1] n=2: 1=Yes; 2=No
+[p16q2] n=5: 1=No knowledge at all; 2=Little knowledge; 3=Some knowledge; 4=Substantial knowledge; 98=No Applicable
+[p16q3] n=2: 99=Don't know; 98=No Applicable
+[p16q4] n=6: 1=No compensation; 2=Half of the market value of the land; 3=The market value of the land; 4=One and a half times the market value of the land; 5=Compensation is arbitrarily decided by local authorities; 98=No Applicable
+[p16q5] n=4: 1=Yes; 2=No; 99=Don't know; 98=No Applicable
+[p16q6a] n=9: 1=Have not hear about these issues; 2=TV, radion, newspaper; 3=Public loudspeakers; 4=Friends abd family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=No Applicable
+[p16q6b] n=9: 1=Have not hear about these issues; 2=TV, radion, newspaper; 3=Public loudspeakers; 4=Friends abd family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=No Applicable
+[p20q1a] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p20q1b] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p20q1c] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p20q1d] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p20q1e] n=5: 1=Good; 2=Neither good or bad; 3=Bad; 98=Not available; 99=Don't know
+[p20q2] n=6: 1=No; 2=Yes, public; 3=Yes, cooperative; 4=Yes, both public and cooperative; 98=No Applicable; 99=Don't know
+[p20q3] n=5: 1=Always too small; 2=Sometimes too small; 3=Never too small; 98=No Applicable; 99=Don't know
+[p20q4] n=5: 1=Yes, happens often; 2=Yes, happens sometimes; 3=No, almost never happens; 98=No Applicable; 99=Don't know
+[p20q5] n=3: 1=Yes; 2=No; 98=No Applicable
+[p20q6] n=5: 1=Have been granted exemption by local authorities; 2=Too expensive; 3=Irrigation facilities too poor; 4=Other; 98=No Applicable
+[p21q1] n=2: 1=Yes; 2=No
+[p25q1] n=2: 1=Yes; 2=No
+[p26q1] n=5: 1=Hybrid seed; 2=Ordinary improved variety; 3=Old local veriety; 4=Other (specify); 98=No Appicable
+[p26q2] n=7: 1=Never buy; 2=Cooperative/commune; 3=Seed company; 4=Local market; 5=Seed stockist; 6=Other; 98=No Appicable
+[p26q3] n=2: 98=No Appicable; 99=Don't know
+[p26q4] n=9: 1=Lack of suppliers in this region; 2=Prices too high; 3=Not enough information; 4=Not able to buy on credit; 5=Not enough access to credit; 6=Poor transport infrastructure; 7=Other; 8=No difficulties; 98=No Appicable
+[p26q5a] n=9: 1=Lack of storage for output; 2=Lack of primary processing capacity (incl. drying); 3=Difficult to access market or intermediaries; 4=Lack of information about market prices; 5=Lack of demand for output; 6=High transportation cost; 7=Other (specify); 8=No difficulties; 98=No Appicable
+[p26q5b] n=9: 1=Lack of storage for output; 2=Lack of primary processing capacity (incl. drying); 3=Difficult to access market or intermediaries; 4=Lack of information about market prices; 5=Lack of demand for output; 6=High transportation cost; 7=Other (specify); 8=No difficulties; 98=No Appicable
+[p26q6a] n=5: 1=More goods available; 2=Less goods available; 3=No change; 98=No Appicable; 99=Dont'know
+[p26q6b] n=5: 1=Improvement in quality; 2=Deterioration in quality; 3=No change; 98=No Appicable; 99=Dont'know
+[p26q6c] n=5: 1=More expensive today; 2=Less expensive today; 3=No change; 98=No Appicable; 99=Dont'know
+[p26q6d] n=5: 1=More expensive today; 2=Less expensive today; 3=No change; 98=No Appicable; 99=Dont'know
+[p26q6e] n=5: 1=Higher demand than before/easier to sell outputs; 2=Lower demand than before/more difficult to sell output; 3=No change; 98=No Appicable; 99=Dont'know
+[p30] n=2: 1=Yes; 2=No
+[p36a] n=2: 1=Yes; 2=No
+[p37q10] n=4: 1=Friends/relatives; 2=Radio/newspaper; 3=Other; 98=Don't mind
+[p38q1] n=2: 1=Yes; 2=No
+[p38q2a] n=1: 98=No Applicable
+[p38q2b] n=1: 98=No Applicable
+[p38bq1a] n=2: 1=Yes; 2=No
+[p38bq9] n=1: 98=No Applicable
+[p40q1_01] n=2: 1=Yes; 2=No
+[p40q1_02] n=2: 1=Yes; 2=No
+[p40q1_03] n=2: 1=Yes; 2=No
+[p40q1_04] n=2: 1=Yes; 2=No
+[p40q1_05] n=2: 1=Yes; 2=No
+[p40q1_06] n=2: 1=Yes; 2=No
+[p40q1_07] n=2: 1=Yes; 2=No
+[p40q1_08] n=2: 1=Yes; 2=No
+[p40q1_09] n=2: 1=Yes; 2=No
+[p40q1_10] n=2: 1=Yes; 2=No
+[p40q1_11] n=2: 1=Yes; 2=No
+[p40q2] n=4: 1=Yes; 2=No, but I used o smoke before; 3=No, I have never smoked; 98=No Applicable
+[p40q3a] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3b] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3c] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3d] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3e] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3f] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q3g] n=5: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=Sometimes; 4=I don't drink this on a daily basis; 98=No Applicable
+[p40q4] n=5: 1=Every day; 2=A few times a week; 3=Very rarely; 4=Never; 98=No Applicable
+[p41q6] n=4: 1=Increase; 2=The same; 3=Decrease; 99=Don't know
+[p43q1] n=2: 1=Yes; 2=No
+[p44q22] n=1: 98=Have never applied for a loan
+[p44q23a] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=No Applicable
+[p44q23b] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=No Applicable
+[p44q23c] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=No Applicable
+[p45q1] n=2: 1=Yes; 2=No
+[p45q6] n=1: 98=Not Interested
+[p46q1] n=2: 1=Yes; 2=No
+[p46q1b_01] n=2: 1=Yes; 2=No
+[p46q1b_02] n=2: 1=Yes; 2=No
+[p46q1b_03] n=2: 1=Yes; 2=No
+[p46q1b_04] n=2: 1=Yes; 2=No
+[p46q1b_05] n=2: 1=Yes; 2=No
+[p46q1b_06] n=2: 1=Yes; 2=No
+[p46q1b_07] n=2: 1=Yes; 2=No
+[p46q1b_08] n=2: 1=Yes; 2=No
+[p46q1b_09] n=2: 1=Yes; 2=No
+[p46q1b_10] n=2: 1=Yes; 2=No
+[p46q1b_11] n=2: 1=Yes; 2=No
+[p46q1b_12] n=2: 1=Yes; 2=No

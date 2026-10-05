@@ -1,0 +1,23 @@
+Q7A_New_16.dta  rows=37380  cols=14
+
+tinh_2016      nn=37380  min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=37380  min=1 max=50 nuniq=31 | District 2016
+xa_2016        nn=37380  min=1 max=99 nuniq=47 | Commune 2016
+ma_h0_2016     nn=37380  min=1 max=99 nuniq=81 | HHcode 2016
+tinh_2014      nn=37352  min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=37352  min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=37352  min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=37352  min=1 max=99 nuniq=81 | HHcode 2014
+p36ma_         nn=37380  min=1 max=14 nuniq=14 | Food item
+p36q1_         nn=37380  min=1 max=2 nuniq=2 | Household consumed food item in the last 4 weeks
+p36q2_         nn=12457  min=0.1 max=99 nuniq=71 | Quantity consumed of this item in the last 4 weeks
+p36q3_         nn=12456  min=1.5 max=400 nuniq=83 | Market price per unit (000VND)
+p36q4_         nn=19597  min=2 max=1.4e+04 nuniq=323 | Total monetary value consumed in the past 4 weeks (000VND)
+panel0816      nn=29848  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[p36ma] n=14: 1=Pork; 2=Beef; 3=Chicken; 4=Any kind of fish; 5=Any kind of shrimp; 6=Any kind of fruit; 7=Any kind of candy/cookie; 8=Powdered or canned  milk; 9=Liquid milk; 10=Any kind of beer; 11=Rice wine or other local alcoholic drink; 12=Coffee; 13=Industrial beverages (in can, bottle); 14=Eating and drinking outside the home/processed foods
+[yesno] n=2: 1=yes; 2=No
+[p36q2] n=1: 99=Cannot estimate
+[dk] n=1: 99=Don't know

@@ -1,0 +1,48 @@
+Q1_New_16.dta  rows=10926  cols=30
+
+tinh_2016      nn=10926  min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=10926  min=1 max=50 nuniq=31 | District 2016
+xa_2016        nn=10926  min=1 max=99 nuniq=47 | Commune 2016
+ma_h0_2016     nn=10926  min=1 max=99 nuniq=81 | HHcode 2016
+tinh_2014      nn=10918  min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=10918  min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=10918  min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=10918  min=1 max=99 nuniq=81 | HHcode 2014
+p1stt_         nn=10926  min=1 max=18 nuniq=18 | HH member code - individual id
+p1q2_          nn=10926  min=1 max=10 nuniq=10 | Relationship with the household head
+p1q3_          nn=10926  min=1 max=2 nuniq=2 | Gender of HH member
+p1q4a_         nn=10926  min=1 max=99 nuniq=13 | Month born
+p1q4b_         nn=10926  min=1915 max=2016 nuniq=101 | Year born
+p1q5_          nn=10926  min=1 max=2 nuniq=2 | Suffered from any illness during the last two weeks?
+p1q6a_         nn=1103   min=1 max=10 nuniq=10 | Illnesses suffered from during last 2 weeks? Most important ones_1
+p1q6b_         nn=204    min=1 max=10 nuniq=10 | Illnesses suffered from during last 2 weeks? Most important ones_2
+p1q7_          nn=9904   min=0 max=365 nuniq=70 | During the past 12 months, how many days not able to perform normal activities d
+p2q8_          nn=9904   min=1 max=5 nuniq=5 | Material status
+p2q9_          nn=9904   min=1 max=2 nuniq=2 | Currently attending school?
+p2q10_         nn=9904   min=1 max=13 nuniq=13 | What grade did HH member finish
+p2q11_         nn=1823   min=1 max=3 nuniq=3 | Can HH member read and write?
+p2q12_         nn=9904   min=1 max=8 nuniq=8 | What is the highest diploma HH member has obtained?
+p2q13_         nn=7876   min=1 max=2 nuniq=2 | Has HH member ever served time in the Vietnamese army?
+p2q14_         nn=7876   min=0 max=12 nuniq=19 | For how many months during the last 12 months has [NAME] been away from this hou
+p2q15_         nn=681    min=1 max=8 nuniq=8 | What was the main reason for [NAME] being away?
+p2q16_         nn=681    min=1 max=5 nuniq=5 | Where was [NAME] during that period?
+p2q16b_        nn=388    min=0 max=815 nuniq=46 | What province
+p2q16c_        nn=49     min=1 max=236 nuniq=12 | What country
+p2q17_         nn=622    min=1 max=99 nuniq=3 | Was [NAME] in an urban or a rural area during that period?
+panel0816      nn=8658   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[dk] n=1: 99=Don't know
+[p2q17] n=4: 1=Rural; 2=Urban; 98=Not applicable; 99=Don't know
+[p2q16a] n=7: 1=in the same commune; 2=in  a different commune in the same district; 3=in a different district in the same province; 4=in a different province; 5=in another country; 98=Not applicable; 99=Don't know
+[p2q15] n=9: 1=work; 2=looking for work; 3=education; 4=escaping natural disaster; 5=marriage; 6=army service; 7=visit relatives/outing/tour; 8=other; 98=Not applicable
+[diploma] n=9: 1=No Diploma; 2=Short-term vocational training; 3=Long-term vocational training; 4=Professional high shool; 5=Junior college diploma; 6=Bachelor degree; 7=Masters degree; 8=PhD; 98=Not Applicable
+[p2q11] n=4: 1=Can read and write; 2=Can either read or write; 3=No; 98=Not Applicable
+[grade] n=14: 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10; 11=11; 12=12; 13=Never went to school/did not finish 1st grade; 98=Not Applicable
+[yesnoNA] n=3: 1=Yes; 2=No; 98=Not Applicable
+[maritalstatus] n=6: 1=Single; 2=Married; 3=Widowed; 4=Divorced; 5=Separated; 98=Not Applicable
+[p1q6] n=11: 1=Mental diseases; 2=Heart diseases; 3=Respiratory diseases; 4=Cold/flu; 5=Diarrhoea; 6=Other digestive diseases; 7=Skin-diseases; 8=Injuries; 9=Cancer; 10=Other; 98=Not Applicable
+[yesno] n=2: 1=Yes; 2=No
+[sex] n=2: 1=Male; 2=Female
+[relationship] n=10: 1=Head; 2=Spouse; 3=Child; 4=Parent; 5=Parent in Law; 6=Grandparent/Grandparent in Law; 7=Grandchild; 8=Sister/Brother; 9=Other Relative; 10=Not Related
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

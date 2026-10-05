@@ -1,0 +1,44 @@
+Q1a_New.dta  rows=10317  cols=24
+
+tinh_2008      nn=10317  min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=10317  min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=10317  min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=10317  min=1 max=98 nuniq=33 | HHcode 2008
+thay_doi_chu_ho nn=10317  min=1 max=2 nuniq=2 | Thay ®æi chñ hé
+ntlp2          nn=10317  min=1 max=7 nuniq=7 | Respondent P2
+p2stt_         nn=10317  min=1 max=14 nuniq=14 | STT
+p2q2_          nn=10317  min=1 max=10 nuniq=10 | 2. What is the relationship of [NAME] with the household head?
+p2q3_          nn=10317  min=1 max=2 nuniq=2 | 3. What is the gender of [NAME]?
+p2q4_          nn=10317  min=99 max=2008 nuniq=101 | 4. What year was [NAME] born?
+p2q5_          nn=10317  min=1 max=2 nuniq=2 | 5. Did [NAME] suffer from any illness during the last two weeks?
+p2q6a_         nn=10317  min=1 max=98 nuniq=10 | 6a. From which illnesses did [NAME] suffer? List two most important ones_1
+p2q6b_         nn=10316  min=0 max=98 nuniq=10 | 6b. From which illnesses did [NAME] suffer? List two most important ones_2
+p2q7_          nn=10317  min=0 max=365 nuniq=68 | 7. During the past 12 months, how many days was [NAME] not able to perform norma
+p3q8_          nn=10316  min=1 max=98 nuniq=6 | 8. What is the material status of [NAME]?
+p3q9_          nn=10317  min=1 max=98 nuniq=3 | 9. Did [NAME] ever leave the house for more than 1 month in the last 12 months?
+p3q10_         nn=10317  min=5 max=120 nuniq=18 | 10. How many months in total has [NAME] been away from home, during the last 12 
+p3q11_         nn=10317  min=1 max=98 nuniq=6 | 11. During the time away, where has [Name] been living?
+p3q12_         nn=10317  min=1 max=98 nuniq=6 | 12. What is the main reason for [NAME] being away?
+p3q13_         nn=10245  min=1 max=98 nuniq=3 | 13. Is [NAME] currently attending school?
+p3q14_         nn=10161  min=0 max=98 nuniq=15 | 14. What grade did [NAME] finish?
+p3q15_         nn=10156  min=1 max=98 nuniq=4 | 15. Can [NAME] read and write?
+p3q16_         nn=10161  min=1 max=98 nuniq=7 | 16. What is the highest diploma [NAME] has obtained?
+panel0816      nn=9775   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p3q16_] n=9: 1=No Diploma; 2=Short-term vocational training; 3=Long-term vocational training; 4=Professional high shool; 5=Junior college diploma; 6=Bachelor degree; 7=Masters degree; 8=PhD; 98=No Applicable
+[p3q15_] n=4: 1=Can read and write; 2=Can either read or write; 3=No; 98=No Applicable
+[p3q14_] n=14: 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10; 11=11; 12=12; 13=13; 98=No Applicable
+[p3q13_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p3q12_] n=6: 1=Working elsewhere; 2=Looking for work; 3=Escaping natural disaster; 4=Education; 5=Other; 98=No Applicable
+[p3q11_] n=6: 1=Elsewhere in the district; 2=Elsewhere in the province; 3=In another province; 4=Elsewhere in Asia; 5=Outside Asia; 98=No Applicable
+[p3q9_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p3q8_] n=6: 1=Single; 2=Married; 3=Widowed; 4=Divorced; 5=Separated; 98=No Applicable
+[p2q6b_] n=10: 1=Mental diseases; 2=Heart diseases; 3=Respiratory diseases; 4=Cold/flu; 5=Diarrhoea; 6=Other digestive diseases; 7=Skin-diseases; 8=Injuries; 9=Other; 98=No Applicable
+[p2q6a_] n=10: 1=Mental diseases; 2=Heart diseases; 3=Respiratory diseases; 4=Cold/flu; 5=Diarrhoea; 6=Other digestive diseases; 7=Skin-diseases; 8=Injuries; 9=Other; 98=No Applicable
+[p2q5_] n=2: 1=Yes; 2=No
+[p2q3_] n=2: 1=Male; 2=Female
+[p2q2_] n=10: 1=Head; 2=Spouse; 3=Child; 4=Parent; 5=Parent in Law; 6=Grandparent/Grandparent in Law; 7=Grandchild; 8=Sister/Brother; 9=Other Relative; 10=Not Related
+[P2Q4_] n=1: 99=Kh«ng nhí
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An
+[THAY_DOI_CHU_HO] n=2: 1=Cã; 2=Kh«ng

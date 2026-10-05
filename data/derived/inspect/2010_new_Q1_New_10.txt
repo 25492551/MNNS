@@ -1,0 +1,44 @@
+Q1_New_10.dta  rows=9695  cols=27
+
+tinh_2010      nn=9695   min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=9695   min=1 max=50 nuniq=28 | District 2010
+xa_2010        nn=9695   min=1 max=99 nuniq=45 | Commune 2010
+ma_h0_2010     nn=9695   min=1 max=98 nuniq=37 | HHcode 2010
+tinh_2008      nn=9695   min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=9695   min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=9695   min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=9695   min=1 max=98 nuniq=37 | HHcode 2008
+p1stt_         nn=9695   min=0 max=14 nuniq=15 | HH member code - individual id
+p1q2_          nn=9691   min=1 max=10 nuniq=10 | Relationship with the household head
+p1q3_          nn=9692   min=1 max=2 nuniq=2 | Gender of HH member
+p1q4_          nn=9691   min=1901 max=2010 nuniq=101 | Year born
+p1q5_          nn=9691   min=1 max=2 nuniq=2 | Suffered from any illness during the last two weeks?
+p1q6a_         nn=9691   min=0 max=98 nuniq=11 | Illnesses suffered from during last 2 weeks? Most important ones_1
+p1q6b_         nn=9691   min=0 max=98 nuniq=11 | Illnesses suffered from during last 2 weeks? Most important ones_2
+p1q7_          nn=9691   min=0 max=365 nuniq=75 | During the past 12 months, how many days not able to perform normal activities d
+p2q8_          nn=9690   min=1 max=98 nuniq=6 | Material status
+p2q9_          nn=9690   min=1 max=98 nuniq=3 | Ever left the house for more than 1 month in the last 12 months
+p2q10_         nn=9690   min=30 max=330 nuniq=51 | Number of days in total away from home, during the last 12 months
+p2q11_         nn=9690   min=1 max=98 nuniq=6 | During the time away, where has HH member been living
+p2q12_         nn=9690   min=1 max=98 nuniq=5 | Main reason for eing away?
+p2q13_         nn=9690   min=1 max=98 nuniq=3 | Currently attending school
+p2q14_         nn=9690   min=0 max=98 nuniq=15 | What grade did HH member finish
+p2q15_         nn=9690   min=1 max=98 nuniq=4 | Can HH member read and write
+p2q16_         nn=9690   min=1 max=98 nuniq=7 | Highest diploma obtained
+p2q17_         nn=9684   min=1 max=98 nuniq=3 | Ever served time in the Vietnamese army
+panel0816      nn=9285   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p1q4_] n=1: 99=Kh«ng nhí
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[relationship] n=10: 1=Head; 2=Spouse; 3=Child; 4=Parent; 5=Parent in Law; 6=Grandparent/Grandparent in Law; 7=Grandchild; 8=Sister/Brother; 9=Other Relative; 10=Not Related
+[sex] n=2: 1=Male; 2=Female
+[yesno] n=2: 1=Yes; 2=No
+[maritalstatus] n=6: 1=Single; 2=Married; 3=Widowed; 4=Divorced; 5=Separated; 98=Not Applicable
+[yesnoNA] n=3: 1=Yes; 2=No; 98=Not Applicable
+[NA] n=1: 98=Not Applicable
+[p2q11] n=6: 1=Elsewhere in the district; 2=Elsewhere in the province; 3=In another province; 4=Elsewhere in Asia; 5=Outside Asia; 98=Not Applicable
+[p2q12] n=6: 1=Working elsewhere; 2=Looking for work; 3=Escaping natural disaster; 4=Education; 5=Other; 98=Not Applicable
+[grade] n=14: 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10; 11=11; 12=12; 13=13; 98=Not Applicable
+[p2q15] n=4: 1=Can read and write; 2=Can either read or write; 3=No; 98=Not Applicable
+[diploma] n=9: 1=No Diploma; 2=Short-term vocational training; 3=Long-term vocational training; 4=Professional high shool; 5=Junior college diploma; 6=Bachelor degree; 7=Masters degree; 8=PhD; 98=Not Applicable

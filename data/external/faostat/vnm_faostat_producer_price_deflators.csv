@@ -1,0 +1,439 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Year Code,Year,Unit,Value,Flag
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0009178239,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0009634802,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0010114912,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0010620143,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0011149905,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0011702842,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0012286731,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0012898260,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0015292958,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0015665066,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0017958424,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0023829419,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0047659011,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.0071248994,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.0117470700,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.0225099971,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.1321736669,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.5507035499,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,2.2431425883,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,3.9036790763,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,5.5469367894,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,9.5710385125,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,12.6939912229,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,14.9046473358,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,17.4313301036,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,20.4016629088,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,22.1759471927,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,23.6390706772,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,25.7282712239,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,27.2039186335,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,28.1309442232,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,28.6789981082,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,29.8137702603,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,31.8018791012,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,37.5706651136,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,40.9704185762,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,44.4811544771,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,48.7647922544,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,59.8213905391,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,63.5396656628,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,71.2116196694,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,86.4606476198,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,94.3092516317,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,98.1179532353,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,101.7464903024,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,101.8195360126,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,106.2618410322,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,110.1155832873,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,112.7839336561,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,114.4390131469,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,117.7357357288,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,122.5054955256,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,124.8407336730,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22024,GDP Deflator,62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,130.0335916173,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,19.9145460362,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,20.9051771596,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,21.9468982572,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,23.0431279351,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,24.1925812311,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,25.3923211315,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,26.6592179644,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,27.9860858611,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,33.1819980368,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,33.9893826712,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,11.8166531181,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,8.7869777241,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,9.4426318174,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,13.2388371717,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,18.8232158463,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,16.7287888000,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,17.0656886297,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,17.4884720311,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,18.1053778578,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,18.8152461768,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,18.4096532589,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,20.5167402420,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,24.5870397150,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,30.3914912079,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,34.4910595074,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,40.1029563631,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,43.6130049104,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,43.9010269605,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,42.0742313491,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,42.3331998338,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,43.0818627602,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,42.2585707430,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,42.3368757259,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,44.4901325584,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,51.7713731946,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,56.0541707385,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,60.3424888160,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,65.6981781615,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,79.6196021509,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,80.7881308117,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,83.0132618241,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,91.4679963346,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,98.2466560954,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,101.6996387730,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,104.3905495188,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,100.7174001149,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,103.0672568607,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,105.7090087482,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,106.1653517047,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,106.9893487007,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,110.3023771024,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,114.2214338117,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2023,2023,USD,113.8732879750,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22024,GDP Deflator,6179,"Value US$, 2015 prices",2024,2024,USD,112.6707862577,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0014845967,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0015584584,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0016361250,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0017177936,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0018035717,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0018930045,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0019871726,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0020866922,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0024736935,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0025324930,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0029079032,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0038525606,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0076921188,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.0115927008,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.0189039031,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.0361464183,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.2204017071,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.8583890194,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,3.5782000732,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,7.3327087601,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,7.2858810984,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,15.4867347444,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,17.9571836114,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,21.9885190529,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,24.5768518010,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,28.7650261640,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,31.0460647587,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,32.9593854496,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,34.1586970527,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,35.4374251450,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,38.2021868539,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,39.6467470511,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,41.7696080076,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,45.7800724060,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,48.1901756149,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,52.7641800797,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,55.7970840269,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,59.2130737264,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,66.9590499692,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,73.3956497778,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,76.1126231493,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,89.7852065469,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,94.6336077004,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,96.9805211714,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,98.2897582072,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,97.8300000000,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,100.9605600000,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,103.1816923200,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,105.4413713818,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,105.4247629159,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,110.9068505875,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,117.1841783307,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,118.4732042924,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,122.8199483984,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1970,1970,USD,32.2121374021,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1971,1971,USD,33.8147566595,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1972,1972,USD,35.4999332685,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1973,1973,USD,37.2719424266,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1974,1974,USD,39.1331196946,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1975,1975,USD,41.0735935730,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1976,1976,USD,43.1168107983,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1977,1977,USD,45.2761447005,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1978,1978,USD,53.6731325628,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1979,1979,USD,54.9489380479,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1980,1980,USD,19.1340191890,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1981,1981,USD,14.2061227396,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1982,1982,USD,15.2403176573,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1983,1983,USD,21.5404978034,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1984,1984,USD,30.2911489382,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1985,1985,USD,26.8629887314,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1986,1986,USD,28.4573091987,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1987,1987,USD,27.2595162328,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1988,1988,USD,28.8812065340,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1989,1989,USD,35.3427414931,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1990,1990,USD,24.1810119348,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1991,1991,USD,33.1977886759,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1992,1992,USD,34.7813370019,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1993,1993,USD,44.8359406578,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1994,1994,USD,48.6297748326,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1995,1995,USD,56.5425766614,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1996,1996,USD,61.0576929590,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1997,1997,USD,61.2101418446,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1998,1998,USD,55.8607653763,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",1999,1999,USD,55.1457170736,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2000,2000,USD,58.5057280028,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2001,2001,USD,58.4195744449,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2002,2002,USD,59.3146954543,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2003,2003,USD,64.0453189384,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2004,2004,USD,66.4047750693,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2005,2005,USD,72.1899473290,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2006,2006,USD,75.6935146679,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2007,2007,USD,79.7745850505,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2008,2008,USD,89.1195084386,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2009,2009,USD,93.3196184369,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2010,2010,USD,88.7264907462,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2011,2011,USD,94.9850963348,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2012,2012,USD,98.5845540065,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2013,2013,USD,100.5206860308,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2014,2014,USD,100.8439882381,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2016,2016,USD,96.7710484560,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2017,2017,USD,97.9253499586,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2018,2018,USD,99.0525962856,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2019,2019,USD,99.2536783750,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2020,2020,USD,98.5619013230,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2021,2021,USD,103.9046401759,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2022,2022,USD,109.2599545152,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2023,2023,USD,108.0651556009,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22025,Gross Fixed Capital Formation Deflator,6179,"Value US$, 2015 prices",2024,2024,USD,106.4203486350,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0010263874,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0010774490,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0011311287,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0011876335,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0012468978,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0013086677,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0013740255,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0014424933,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0017098754,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0017520716,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0020087396,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0026623008,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0053358603,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.0079715251,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.0130777789,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.0253614389,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.1475771417,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.6038972813,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,2.6177895399,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,4.2418844118,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,5.7434895826,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,10.7423716619,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,12.1174086155,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,13.0346008091,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,14.6599333669,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,17.7736587649,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,20.6624149966,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,21.1987436142,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,23.5791193158,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,24.4897180609,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,24.9303315556,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,24.9905441846,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,26.4627694139,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,28.6223211963,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,30.9377863867,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,33.5541789830,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,36.4303971815,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,41.0006960020,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,55.5465208248,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,57.2978738217,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,65.2075466908,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,85.4667423853,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,95.2605724422,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,95.8321879338,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,100.2176429697,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,102.0173929391,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,103.2656825251,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,105.1296955907,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,107.8211083389,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,117.2898471016,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,118.8292444137,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,122.5587594857,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,126.4064126925,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",62250,"Value Standard Local Currency, 2015 prices",2024,2024,SLC,136.5528304286,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1970,1970,USD,22.2701105632,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1971,1971,USD,23.3780213932,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1972,1972,USD,24.5427419793,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1973,1973,USD,25.7687579828,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1974,1974,USD,27.0546499656,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1975,1975,USD,28.3949056122,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1976,1976,USD,29.8130104931,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1977,1977,USD,31.2985947969,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1978,1978,USD,37.1001361744,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1979,1979,USD,38.0156922388,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1980,1980,USD,13.2175176288,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1981,1981,USD,9.8170998694,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1982,1982,USD,10.5718863563,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1983,1983,USD,14.8119598415,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1984,1984,USD,20.9555108975,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1985,1985,USD,18.8478991476,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1986,1986,USD,19.0545182539,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1987,1987,USD,19.1777240501,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1988,1988,USD,21.1293160853,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1989,1989,USD,20.4453537040,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1990,1990,USD,19.0619896577,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1991,1991,USD,23.0276420558,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1992,1992,USD,23.4702546773,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1993,1993,USD,26.5783515011,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1994,1994,USD,29.0073466068,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1995,1995,USD,34.9371649287,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1996,1996,USD,40.6363705177,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1997,1997,USD,39.3690017533,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1998,1998,USD,38.5596572916,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",1999,1999,USD,38.1095143870,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2000,2000,USD,38.1802016358,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2001,2001,USD,36.8236252657,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2002,2002,USD,37.5783059389,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2003,2003,USD,40.0420006660,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2004,2004,USD,42.6314434413,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2005,2005,USD,45.9075533780,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2006,2006,USD,49.4209482719,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2007,2007,USD,55.2380294503,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2008,2008,USD,73.9299412649,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2009,2009,USD,72.8519433845,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2010,2010,USD,76.0141557162,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2011,2011,USD,90.4165293049,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2012,2012,USD,99.2376944812,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2013,2013,USD,99.3304341798,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2014,2014,USD,102.8219724336,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2016,2016,USD,100.9131153579,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2017,2017,USD,100.1611728380,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2018,2018,USD,100.9226449076,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2019,2019,USD,101.4937634901,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2020,2020,USD,109.6546012197,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2021,2021,USD,111.3268460674,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2022,2022,USD,114.2710959584,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2023,2023,USD,115.3014197443,X
+VNM,2024-01-01,2024-12-31,237,'704,Viet Nam,22026,"Value Added Deflator (Agriculture, forestry and fishery)",6179,"Value US$, 2015 prices",2024,2024,USD,118.3195401953,E
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1970,1970,SLC,0.0012130745,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1971,1971,SLC,0.0012734214,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1972,1972,SLC,0.0013368742,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1973,1973,SLC,0.0014036440,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1974,1974,SLC,0.0014736831,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1975,1975,SLC,0.0015467393,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1976,1976,SLC,0.0016238931,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1977,1977,SLC,0.0017048379,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1978,1978,SLC,0.0020211368,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1979,1979,SLC,0.0020703286,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1980,1980,SLC,0.0023741756,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1981,1981,SLC,0.0031482846,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1982,1982,SLC,0.0062988399,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1983,1983,SLC,0.0094283455,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1984,1984,SLC,0.0154891292,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1985,1985,SLC,0.0297814753,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1986,1986,SLC,0.1755632250,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1987,1987,SLC,0.7179092108,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1988,1988,SLC,2.9947198562,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1989,1989,SLC,5.2527001619,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1990,1990,SLC,6.7388492107,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1991,1991,SLC,11.9437228549,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1992,1992,SLC,18.0866730752,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1993,1993,SLC,20.4838611311,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1994,1994,SLC,23.2691958518,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1995,1995,SLC,26.4150131733,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1996,1996,SLC,27.9800916135,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1997,1997,SLC,31.0512202343,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1998,1998,SLC,33.7401704783,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",1999,1999,SLC,35.7161085098,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2000,2000,SLC,37.0461430116,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2001,2001,SLC,38.6411851865,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2002,2002,SLC,40.1082047499,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2003,2003,SLC,40.9137422356,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2004,2004,SLC,42.7863676948,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2005,2005,SLC,45.0917831634,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2006,2006,SLC,47.5696428870,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2007,2007,SLC,49.7157836025,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2008,2008,SLC,56.2728593496,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2009,2009,SLC,60.3843060336,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2010,2010,SLC,65.1848777866,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2011,2011,SLC,81.6279107111,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2012,2012,SLC,93.9994024079,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2013,2013,SLC,98.9025132699,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2014,2014,SLC,100.9201608098,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2015,2015,SLC,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2016,2016,SLC,100.2054978368,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2017,2017,SLC,105.0268872135,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2018,2018,SLC,108.3471070258,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2019,2019,SLC,110.6607627726,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2020,2020,SLC,110.7526531359,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2021,2021,SLC,113.2747087605,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2022,2022,SLC,118.3652875594,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),62250,"Value Standard Local Currency, 2015 prices",2023,2023,SLC,118.8133910431,X
+VNM,1970-01-01,1970-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1970,1970,USD,26.3207668711,X
+VNM,1971-01-01,1971-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1971,1971,USD,27.6301464389,X
+VNM,1972-01-01,1972-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1972,1972,USD,29.0069184690,X
+VNM,1973-01-01,1973-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1973,1973,USD,30.4556615015,X
+VNM,1974-01-01,1974-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1974,1974,USD,31.9753392227,X
+VNM,1975-01-01,1975-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1975,1975,USD,33.5604808292,X
+VNM,1976-01-01,1976-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1976,1976,USD,35.2345312302,X
+VNM,1977-01-01,1977-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1977,1977,USD,36.9908362930,X
+VNM,1978-01-01,1978-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1978,1978,USD,43.8537518697,X
+VNM,1979-01-01,1979-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1979,1979,USD,44.9210952243,X
+VNM,1980-01-01,1980-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1980,1980,USD,15.6220887363,X
+VNM,1981-01-01,1981-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1981,1981,USD,11.6091404698,X
+VNM,1982-01-01,1982-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1982,1982,USD,12.4798280147,X
+VNM,1983-01-01,1983-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1983,1983,USD,17.5188904313,X
+VNM,1984-01-01,1984-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1984,1984,USD,24.8193993058,X
+VNM,1985-01-01,1985-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1985,1985,USD,22.1327443455,X
+VNM,1986-01-01,1986-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1986,1986,USD,22.6679595399,X
+VNM,1987-01-01,1987-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1987,1987,USD,22.7983552248,X
+VNM,1988-01-01,1988-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1988,1988,USD,24.1716843409,X
+VNM,1989-01-01,1989-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1989,1989,USD,25.3173595236,X
+VNM,1990-01-01,1990-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1990,1990,USD,22.3654752238,X
+VNM,1991-01-01,1991-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1991,1991,USD,25.6028913702,X
+VNM,1992-01-01,1992-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1992,1992,USD,35.0321456352,X
+VNM,1993-01-01,1993-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1993,1993,USD,41.7678507545,X
+VNM,1994-01-01,1994-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1994,1994,USD,46.0423395141,X
+VNM,1995-01-01,1995-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1995,1995,USD,51.9232243644,X
+VNM,1996-01-01,1996-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1996,1996,USD,55.0279030847,X
+VNM,1997-01-01,1997-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1997,1997,USD,57.6664148637,X
+VNM,1998-01-01,1998-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1998,1998,USD,55.1763360276,X
+VNM,1999-01-01,1999-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",1999,1999,USD,55.5793883667,X
+VNM,2000-01-01,2000-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2000,2000,USD,56.7352747337,X
+VNM,2001-01-01,2001-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2001,2001,USD,56.9378766872,X
+VNM,2002-01-01,2002-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2002,2002,USD,56.9554291610,X
+VNM,2003-01-01,2003-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2003,2003,USD,57.2374295785,X
+VNM,2004-01-01,2004-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2004,2004,USD,58.9584720651,X
+VNM,2005-01-01,2005-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2005,2005,USD,61.6928652472,X
+VNM,2006-01-01,2006-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2006,2006,USD,64.5322873841,X
+VNM,2007-01-01,2007-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2007,2007,USD,66.9793975850,X
+VNM,2008-01-01,2008-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2008,2008,USD,74.8966654392,X
+VNM,2009-01-01,2009-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2009,2009,USD,76.7762178779,X
+VNM,2010-01-01,2010-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2010,2010,USD,75.9877299771,X
+VNM,2011-01-01,2011-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2011,2011,USD,86.3553725686,X
+VNM,2012-01-01,2012-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2012,2012,USD,97.9238706888,X
+VNM,2013-01-01,2013-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2013,2013,USD,102.5128382894,X
+VNM,2014-01-01,2014-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2014,2014,USD,103.5427464196,X
+VNM,2015-01-01,2015-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2015,2015,USD,100.0000000000,X
+VNM,2016-01-01,2016-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2016,2016,USD,99.1208329421,X
+VNM,2017-01-01,2017-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2017,2017,USD,101.8694298590,X
+VNM,2018-01-01,2018-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2018,2018,USD,104.0113028739,X
+VNM,2019-01-01,2019-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2019,2019,USD,104.1667764088,X
+VNM,2020-01-01,2020-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2020,2020,USD,103.5429605695,X
+VNM,2021-01-01,2021-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2021,2021,USD,106.1230013515,X
+VNM,2022-01-01,2022-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2022,2022,USD,110.3611948229,X
+VNM,2023-01-01,2023-12-31,237,'704,Viet Nam,22028,Value Added Deflator (Manufacturing),6179,"Value US$, 2015 prices",2023,2023,USD,108.3754564353,X

@@ -1,0 +1,934 @@
+Iso3,StartDate,EndDate,Area Code,Area Code (M49),Area,Item Code,Item,Element Code,Element,Months Code,Months,Year Code,Year,Unit,Value,Flag,Note
+VNM,2000-01-01,2000-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,25.523371,I,base year is 2015
+VNM,2001-01-01,2001-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,25.266842,I,base year is 2015
+VNM,2002-01-01,2002-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,25.690764,X,base year is 2015
+VNM,2003-01-01,2003-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,27.008784,X,base year is 2015
+VNM,2004-01-01,2004-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,27.858845,X,base year is 2015
+VNM,2005-01-01,2005-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,32.176765,X,base year is 2015
+VNM,2006-01-01,2006-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,35.734217,X,base year is 2015
+VNM,2007-01-01,2007-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,38.341057,X,base year is 2015
+VNM,2008-01-01,2008-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,46.780583,X,base year is 2015
+VNM,2009-01-01,2009-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,59.680795,X,base year is 2015
+VNM,2010-01-01,2010-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,64.211021,X,base year is 2015
+VNM,2011-01-01,2011-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,74.864946,X,base year is 2015
+VNM,2012-01-01,2012-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,92.097741,X,base year is 2015
+VNM,2013-01-01,2013-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,93.330786,X,base year is 2015
+VNM,2014-01-01,2014-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,97.523985,X,base year is 2015
+VNM,2015-01-01,2015-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.579824,X,base year is 2015
+VNM,2016-01-01,2016-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.514965,X,base year is 2015
+VNM,2017-01-01,2017-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,102.895920,X,base year is 2015
+VNM,2018-01-01,2018-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,101.732907,X,base year is 2015
+VNM,2019-01-01,2019-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,107.149567,X,base year is 2015
+VNM,2020-01-01,2020-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,118.857916,X,base year is 2015
+VNM,2021-01-01,2021-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,120.081736,X,base year is 2015
+VNM,2022-01-01,2022-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,119.917703,X,base year is 2015
+VNM,2023-01-01,2023-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,127.203033,X,base year is 2015
+VNM,2024-01-01,2024-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,130.137684,X,base year is 2015
+VNM,2025-01-01,2025-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,135.878282,X,base year is 2015
+VNM,2026-01-01,2026-01-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,138.391005,X,base year is 2015
+VNM,2000-02-01,2000-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,26.067135,I,base year is 2015
+VNM,2001-02-01,2001-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,25.409275,I,base year is 2015
+VNM,2002-02-01,2002-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,26.718394,X,base year is 2015
+VNM,2003-02-01,2003-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,27.927082,X,base year is 2015
+VNM,2004-02-01,2004-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,29.279646,X,base year is 2015
+VNM,2005-02-01,2005-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,33.496013,X,base year is 2015
+VNM,2006-02-01,2006-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,36.877712,X,base year is 2015
+VNM,2007-02-01,2007-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,39.663823,X,base year is 2015
+VNM,2008-02-01,2008-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,49.671623,X,base year is 2015
+VNM,2009-02-01,2009-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,60.677464,X,base year is 2015
+VNM,2010-02-01,2010-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,66.195142,X,base year is 2015
+VNM,2011-02-01,2011-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,77.597516,X,base year is 2015
+VNM,2012-02-01,2012-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,94.041004,X,base year is 2015
+VNM,2013-02-01,2013-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,95.458728,X,base year is 2015
+VNM,2014-02-01,2014-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,98.645510,X,base year is 2015
+VNM,2015-02-01,2015-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,100.107597,X,base year is 2015
+VNM,2016-02-01,2016-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,102.503453,X,base year is 2015
+VNM,2017-02-01,2017-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,103.013016,X,base year is 2015
+VNM,2018-02-01,2018-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,103.289319,X,base year is 2015
+VNM,2019-02-01,2019-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,109.002290,X,base year is 2015
+VNM,2020-02-01,2020-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,119.161836,X,base year is 2015
+VNM,2021-02-01,2021-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,122.009648,X,base year is 2015
+VNM,2022-02-01,2022-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,121.761557,X,base year is 2015
+VNM,2023-02-01,2023-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,126.990986,X,base year is 2015
+VNM,2024-02-01,2024-02-29,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,132.369024,X,base year is 2015
+VNM,2025-02-01,2025-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,136.457259,X,base year is 2015
+VNM,2026-02-01,2026-02-28,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,141.176431,X,base year is 2015
+VNM,2000-03-01,2000-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,25.666178,I,base year is 2015
+VNM,2001-03-01,2001-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,25.153045,I,base year is 2015
+VNM,2002-03-01,2002-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,26.424492,X,base year is 2015
+VNM,2003-03-01,2003-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,27.396468,X,base year is 2015
+VNM,2004-03-01,2004-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,29.748121,X,base year is 2015
+VNM,2005-03-01,2005-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,33.563005,X,base year is 2015
+VNM,2006-03-01,2006-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,36.545812,X,base year is 2015
+VNM,2007-03-01,2007-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,39.497235,X,base year is 2015
+VNM,2008-03-01,2008-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,51.598882,X,base year is 2015
+VNM,2009-03-01,2009-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,60.398348,X,base year is 2015
+VNM,2010-03-01,2010-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,66.876952,X,base year is 2015
+VNM,2011-03-01,2011-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,79.133947,X,base year is 2015
+VNM,2012-03-01,2012-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,93.260463,X,base year is 2015
+VNM,2013-03-01,2013-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,94.952797,X,base year is 2015
+VNM,2014-03-01,2014-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,97.698513,X,base year is 2015
+VNM,2015-03-01,2015-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,100.467985,X,base year is 2015
+VNM,2016-03-01,2016-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,102.006824,X,base year is 2015
+VNM,2017-03-01,2017-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,102.115875,X,base year is 2015
+VNM,2018-03-01,2018-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,102.645827,X,base year is 2015
+VNM,2019-03-01,2019-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,107.452823,X,base year is 2015
+VNM,2020-03-01,2020-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,118.654683,X,base year is 2015
+VNM,2021-03-01,2021-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,120.230748,X,base year is 2015
+VNM,2022-03-01,2022-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,121.438646,X,base year is 2015
+VNM,2023-03-01,2023-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,126.255835,X,base year is 2015
+VNM,2024-03-01,2024-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,131.368712,X,base year is 2015
+VNM,2025-03-01,2025-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,136.386052,X,base year is 2015
+VNM,2026-03-01,2026-03-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,140.348686,X,base year is 2015
+VNM,2000-04-01,2000-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,25.409275,I,base year is 2015
+VNM,2001-04-01,2001-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,24.982600,I,base year is 2015
+VNM,2002-04-01,2002-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,26.424492,X,base year is 2015
+VNM,2003-04-01,2003-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,27.314279,X,base year is 2015
+VNM,2004-04-01,2004-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,30.015854,X,base year is 2015
+VNM,2005-04-01,2005-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,33.730820,X,base year is 2015
+VNM,2006-04-01,2006-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,36.618904,X,base year is 2015
+VNM,2007-04-01,2007-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,39.671023,X,base year is 2015
+VNM,2008-04-01,2008-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,53.203607,X,base year is 2015
+VNM,2009-04-01,2009-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,60.658061,X,base year is 2015
+VNM,2010-04-01,2010-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,66.455627,X,base year is 2015
+VNM,2011-04-01,2011-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,82.694975,X,base year is 2015
+VNM,2012-04-01,2012-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,92.514380,X,base year is 2015
+VNM,2013-04-01,2013-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,94.088726,X,base year is 2015
+VNM,2014-04-01,2014-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,97.845061,X,base year is 2015
+VNM,2015-04-01,2015-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,100.046019,X,base year is 2015
+VNM,2016-04-01,2016-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,102.002233,X,base year is 2015
+VNM,2017-04-01,2017-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,101.446506,X,base year is 2015
+VNM,2018-04-01,2018-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,102.464144,X,base year is 2015
+VNM,2019-04-01,2019-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,106.845285,X,base year is 2015
+VNM,2020-04-01,2020-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,119.431871,X,base year is 2015
+VNM,2021-04-01,2021-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,120.079137,X,base year is 2015
+VNM,2022-04-01,2022-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,121.378534,X,base year is 2015
+VNM,2023-04-01,2023-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,125.769876,X,base year is 2015
+VNM,2024-04-01,2024-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,131.203056,X,base year is 2015
+VNM,2025-04-01,2025-04-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,136.551101,X,base year is 2015
+VNM,2000-05-01,2000-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,25.209927,I,base year is 2015
+VNM,2001-05-01,2001-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,24.925852,I,base year is 2015
+VNM,2002-05-01,2002-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,26.609463,X,base year is 2015
+VNM,2003-05-01,2003-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,27.232336,X,base year is 2015
+VNM,2004-05-01,2004-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,30.556139,X,base year is 2015
+VNM,2005-05-01,2005-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,33.933205,X,base year is 2015
+VNM,2006-05-01,2006-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,36.708877,X,base year is 2015
+VNM,2007-05-01,2007-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,40.083602,X,base year is 2015
+VNM,2008-05-01,2008-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,57.060868,X,base year is 2015
+VNM,2009-05-01,2009-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,60.767246,X,base year is 2015
+VNM,2010-05-01,2010-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,66.375880,X,base year is 2015
+VNM,2011-05-01,2011-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,85.184093,X,base year is 2015
+VNM,2012-05-01,2012-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,92.384860,X,base year is 2015
+VNM,2013-05-01,2013-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,93.759416,X,base year is 2015
+VNM,2014-05-01,2014-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,98.011398,X,base year is 2015
+VNM,2015-05-01,2015-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.825918,X,base year is 2015
+VNM,2016-05-01,2016-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,102.372196,X,base year is 2015
+VNM,2017-05-01,2017-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,99.999168,X,base year is 2015
+VNM,2018-05-01,2018-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,103.364906,X,base year is 2015
+VNM,2019-05-01,2019-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,106.897532,X,base year is 2015
+VNM,2020-05-01,2020-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,119.842120,X,base year is 2015
+VNM,2021-05-01,2021-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,120.127288,X,base year is 2015
+VNM,2022-05-01,2022-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,121.711111,X,base year is 2015
+VNM,2023-05-01,2023-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,126.070844,X,base year is 2015
+VNM,2024-05-01,2024-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,131.707531,X,base year is 2015
+VNM,2025-05-01,2025-05-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,136.595114,X,base year is 2015
+VNM,2000-06-01,2000-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,25.039382,I,base year is 2015
+VNM,2001-06-01,2001-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,24.925852,I,base year is 2015
+VNM,2002-06-01,2002-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,26.662682,X,base year is 2015
+VNM,2003-06-01,2003-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,27.096174,X,base year is 2015
+VNM,2004-06-01,2004-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,31.014481,X,base year is 2015
+VNM,2005-06-01,2005-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,34.102871,X,base year is 2015
+VNM,2006-06-01,2006-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,36.859383,X,base year is 2015
+VNM,2007-06-01,2007-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,40.492454,X,base year is 2015
+VNM,2008-06-01,2008-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,58.938171,X,base year is 2015
+VNM,2009-06-01,2009-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,60.937394,X,base year is 2015
+VNM,2010-06-01,2010-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,66.621471,X,base year is 2015
+VNM,2011-06-01,2011-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,86.708889,X,base year is 2015
+VNM,2012-06-01,2012-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,92.172374,X,base year is 2015
+VNM,2013-06-01,2013-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,93.684408,X,base year is 2015
+VNM,2014-06-01,2014-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,98.285830,X,base year is 2015
+VNM,2015-06-01,2015-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,99.795970,X,base year is 2015
+VNM,2016-06-01,2016-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,102.585232,X,base year is 2015
+VNM,2017-06-01,2017-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,99.405473,X,base year is 2015
+VNM,2018-06-01,2018-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,104.479076,X,base year is 2015
+VNM,2019-06-01,2019-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,107.030833,X,base year is 2015
+VNM,2020-06-01,2020-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,120.366429,X,base year is 2015
+VNM,2021-06-01,2021-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,119.968961,X,base year is 2015
+VNM,2022-06-01,2022-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,122.690277,X,base year is 2015
+VNM,2023-06-01,2023-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,126.790834,X,base year is 2015
+VNM,2024-06-01,2024-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,132.697050,X,base year is 2015
+VNM,2025-06-01,2025-06-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,136.672138,X,base year is 2015
+VNM,2000-07-01,2000-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,24.840793,I,base year is 2015
+VNM,2001-07-01,2001-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,24.869138,I,base year is 2015
+VNM,2002-07-01,2002-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,26.556032,X,base year is 2015
+VNM,2003-07-01,2003-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,26.960693,X,base year is 2015
+VNM,2004-07-01,2004-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,31.138539,X,base year is 2015
+VNM,2005-07-01,2005-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,34.102871,X,base year is 2015
+VNM,2006-07-01,2006-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,37.017878,X,base year is 2015
+VNM,2007-07-01,2007-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,41.136284,X,base year is 2015
+VNM,2008-07-01,2008-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,59.521659,X,base year is 2015
+VNM,2009-07-01,2009-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,60.906925,X,base year is 2015
+VNM,2010-07-01,2010-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,66.761376,X,base year is 2015
+VNM,2011-07-01,2011-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,88.547117,X,base year is 2015
+VNM,2012-07-01,2012-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,91.739164,X,base year is 2015
+VNM,2013-07-01,2013-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,93.778093,X,base year is 2015
+VNM,2014-07-01,2014-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,98.541373,X,base year is 2015
+VNM,2015-07-01,2015-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,99.895766,X,base year is 2015
+VNM,2016-07-01,2016-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,102.529221,X,base year is 2015
+VNM,2017-07-01,2017-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,99.942362,X,base year is 2015
+VNM,2018-07-01,2018-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,104.930321,X,base year is 2015
+VNM,2019-07-01,2019-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,107.383286,X,base year is 2015
+VNM,2020-07-01,2020-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,120.148686,X,base year is 2015
+VNM,2021-07-01,2021-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,120.772633,X,base year is 2015
+VNM,2022-07-01,2022-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,124.377023,X,base year is 2015
+VNM,2023-07-01,2023-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,127.593420,X,base year is 2015
+VNM,2024-07-01,2024-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,133.039409,X,base year is 2015
+VNM,2025-07-01,2025-07-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,136.914210,X,base year is 2015
+VNM,2000-08-01,2000-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,24.869138,I,base year is 2015
+VNM,2001-08-01,2001-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,24.869138,I,base year is 2015
+VNM,2002-08-01,2002-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,26.556032,X,base year is 2015
+VNM,2003-08-01,2003-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,26.906772,X,base year is 2015
+VNM,2004-08-01,2004-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,31.356509,X,base year is 2015
+VNM,2005-08-01,2005-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,34.205179,X,base year is 2015
+VNM,2006-08-01,2006-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,37.080809,X,base year is 2015
+VNM,2007-08-01,2007-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,41.498284,X,base year is 2015
+VNM,2008-08-01,2008-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,59.819267,X,base year is 2015
+VNM,2009-08-01,2009-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,60.858200,X,base year is 2015
+VNM,2010-08-01,2010-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,66.941632,X,base year is 2015
+VNM,2011-08-01,2011-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,89.742503,X,base year is 2015
+VNM,2012-08-01,2012-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,91.574034,X,base year is 2015
+VNM,2013-08-01,2013-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,94.284494,X,base year is 2015
+VNM,2014-08-01,2014-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,98.984809,X,base year is 2015
+VNM,2015-08-01,2015-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,99.995662,X,base year is 2015
+VNM,2016-08-01,2016-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,102.389883,X,base year is 2015
+VNM,2017-08-01,2017-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,101.000652,X,base year is 2015
+VNM,2018-08-01,2018-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,105.843425,X,base year is 2015
+VNM,2019-08-01,2019-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,107.639932,X,base year is 2015
+VNM,2020-08-01,2020-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,120.282412,X,base year is 2015
+VNM,2021-08-01,2021-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,121.668524,X,base year is 2015
+VNM,2022-08-01,2022-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,125.683354,X,base year is 2015
+VNM,2023-08-01,2023-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,128.587246,X,base year is 2015
+VNM,2024-08-01,2024-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,133.394624,X,base year is 2015
+VNM,2025-08-01,2025-08-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,136.826184,X,base year is 2015
+VNM,2000-09-01,2000-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,24.812457,I,base year is 2015
+VNM,2001-09-01,2001-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,25.039382,I,base year is 2015
+VNM,2002-09-01,2002-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,26.635700,X,base year is 2015
+VNM,2003-09-01,2003-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,26.879865,X,base year is 2015
+VNM,2004-09-01,2004-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,31.481935,X,base year is 2015
+VNM,2005-09-01,2005-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,34.342000,X,base year is 2015
+VNM,2006-09-01,2006-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,36.995523,X,base year is 2015
+VNM,2007-09-01,2007-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,41.921566,X,base year is 2015
+VNM,2008-09-01,2008-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,59.819267,X,base year is 2015
+VNM,2009-09-01,2009-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,60.888629,X,base year is 2015
+VNM,2010-09-01,2010-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,67.470471,X,base year is 2015
+VNM,2011-09-01,2011-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,89.993782,X,base year is 2015
+VNM,2012-09-01,2012-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,91.647293,X,base year is 2015
+VNM,2013-09-01,2013-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,94.897344,X,base year is 2015
+VNM,2014-09-01,2014-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,99.202576,X,base year is 2015
+VNM,2015-09-01,2015-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,99.865667,X,base year is 2015
+VNM,2016-09-01,2016-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,102.486335,X,base year is 2015
+VNM,2017-09-01,2017-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,101.082260,X,base year is 2015
+VNM,2018-09-01,2018-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,106.311888,X,base year is 2015
+VNM,2019-09-01,2019-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,108.237441,X,base year is 2015
+VNM,2020-09-01,2020-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,119.913506,X,base year is 2015
+VNM,2021-09-01,2021-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,121.468744,X,base year is 2015
+VNM,2022-09-01,2022-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,125.903426,X,base year is 2015
+VNM,2023-09-01,2023-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,129.521175,X,base year is 2015
+VNM,2024-09-01,2024-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,134.627190,X,base year is 2015
+VNM,2025-09-01,2025-09-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,137.376350,X,base year is 2015
+VNM,2000-10-01,2000-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,24.840793,I,base year is 2015
+VNM,2001-10-01,2001-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,24.982600,I,base year is 2015
+VNM,2002-10-01,2002-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,26.582428,X,base year is 2015
+VNM,2003-10-01,2003-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,26.879865,X,base year is 2015
+VNM,2004-10-01,2004-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,31.418971,X,base year is 2015
+VNM,2005-10-01,2005-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,34.479368,X,base year is 2015
+VNM,2006-10-01,2006-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,37.195299,X,base year is 2015
+VNM,2007-10-01,2007-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,42.378511,X,base year is 2015
+VNM,2008-10-01,2008-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,59.568026,X,base year is 2015
+VNM,2009-10-01,2009-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,61.083472,X,base year is 2015
+VNM,2010-10-01,2010-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,68.361081,X,base year is 2015
+VNM,2011-10-01,2011-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,90.047779,X,base year is 2015
+VNM,2012-10-01,2012-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,91.913070,X,base year is 2015
+VNM,2013-10-01,2013-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,95.713461,X,base year is 2015
+VNM,2014-10-01,2014-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,99.252177,X,base year is 2015
+VNM,2015-10-01,2015-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.055412,X,base year is 2015
+VNM,2016-10-01,2016-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,102.663329,X,base year is 2015
+VNM,2017-10-01,2017-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,101.399558,X,base year is 2015
+VNM,2018-10-01,2018-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,106.543223,X,base year is 2015
+VNM,2019-10-01,2019-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,109.366358,X,base year is 2015
+VNM,2020-10-01,2020-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,119.752822,X,base year is 2015
+VNM,2021-10-01,2021-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,119.916495,X,base year is 2015
+VNM,2022-10-01,2022-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,126.067226,X,base year is 2015
+VNM,2023-10-01,2023-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,129.604845,X,base year is 2015
+VNM,2024-10-01,2024-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,135.368582,X,base year is 2015
+VNM,2025-10-01,2025-10-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,137.090263,X,base year is 2015
+VNM,2000-11-01,2000-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,25.153045,I,base year is 2015
+VNM,2001-11-01,2001-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,25.067785,I,base year is 2015
+VNM,2002-11-01,2002-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,26.582428,X,base year is 2015
+VNM,2003-11-01,2003-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,27.121784,X,base year is 2015
+VNM,2004-11-01,2004-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,31.418971,X,base year is 2015
+VNM,2005-11-01,2005-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,34.651765,X,base year is 2015
+VNM,2006-11-01,2006-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,37.645362,X,base year is 2015
+VNM,2007-11-01,2007-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,43.251509,X,base year is 2015
+VNM,2008-11-01,2008-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,59.526329,X,base year is 2015
+VNM,2009-11-01,2009-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,61.614899,X,base year is 2015
+VNM,2010-11-01,2010-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,70.719538,X,base year is 2015
+VNM,2011-11-01,2011-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,90.552046,X,base year is 2015
+VNM,2012-11-01,2012-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,91.839540,X,base year is 2015
+VNM,2013-11-01,2013-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,96.306884,X,base year is 2015
+VNM,2014-11-01,2014-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.222401,X,base year is 2015
+VNM,2015-11-01,2015-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.104539,X,base year is 2015
+VNM,2016-11-01,2016-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,103.170177,X,base year is 2015
+VNM,2017-11-01,2017-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,101.515559,X,base year is 2015
+VNM,2018-11-01,2018-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,106.391505,X,base year is 2015
+VNM,2019-11-01,2019-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,112.361137,X,base year is 2015
+VNM,2020-11-01,2020-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,119.811261,X,base year is 2015
+VNM,2021-11-01,2021-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,119.712757,X,base year is 2015
+VNM,2022-11-01,2022-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,125.979610,X,base year is 2015
+VNM,2023-11-01,2023-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,129.732247,X,base year is 2015
+VNM,2024-11-01,2024-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,135.074697,X,base year is 2015
+VNM,2025-11-01,2025-11-30,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,137.090263,X,base year is 2015
+VNM,2000-12-01,2000-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,25.181482,I,base year is 2015
+VNM,2001-12-01,2001-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,25.352277,I,base year is 2015
+VNM,2002-12-01,2002-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,26.662176,X,base year is 2015
+VNM,2003-12-01,2003-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,27.420123,X,base year is 2015
+VNM,2004-12-01,2004-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,31.638904,X,base year is 2015
+VNM,2005-12-01,2005-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,35.136890,X,base year is 2015
+VNM,2006-12-01,2006-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,37.912644,X,base year is 2015
+VNM,2007-12-01,2007-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,45.085373,X,base year is 2015
+VNM,2008-12-01,2008-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,59.448944,X,base year is 2015
+VNM,2009-12-01,2009-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,62.884165,X,base year is 2015
+VNM,2010-12-01,2010-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,73.060355,X,base year is 2015
+VNM,2011-12-01,2011-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,91.176855,X,base year is 2015
+VNM,2012-12-01,2012-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,92.096690,X,base year is 2015
+VNM,2013-12-01,2013-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,96.778788,X,base year is 2015
+VNM,2014-12-01,2014-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.301779,X,base year is 2015
+VNM,2015-12-01,2015-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.262604,X,base year is 2015
+VNM,2016-12-01,2016-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,103.139639,X,base year is 2015
+VNM,2017-12-01,2017-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,101.286235,X,base year is 2015
+VNM,2018-12-01,2018-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,106.442999,X,base year is 2015
+VNM,2019-12-01,2019-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,116.199618,X,base year is 2015
+VNM,2020-12-01,2020-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,119.316440,X,base year is 2015
+VNM,2021-12-01,2021-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,119.919262,X,base year is 2015
+VNM,2022-12-01,2022-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,126.168327,X,base year is 2015
+VNM,2023-12-01,2023-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,129.868985,X,base year is 2015
+VNM,2024-12-01,2024-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,134.900180,X,base year is 2015
+VNM,2025-12-01,2025-12-31,237,'704,Viet Nam,23013,"Consumer Prices, Food Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,138.115090,X,base year is 2015
+VNM,2000-01-01,2000-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2000,2000,,33.599458,X,base year is 2015
+VNM,2001-01-01,2001-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2001,2001,,33.349131,X,base year is 2015
+VNM,2002-01-01,2002-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2002,2002,,33.781664,X,base year is 2015
+VNM,2003-01-01,2003-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2003,2003,,35.078407,X,base year is 2015
+VNM,2004-01-01,2004-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2004,2004,,36.205348,X,base year is 2015
+VNM,2005-01-01,2005-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2005,2005,,39.707274,X,base year is 2015
+VNM,2006-01-01,2006-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2006,2006,,43.207805,X,base year is 2015
+VNM,2007-01-01,2007-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2007,2007,,46.005851,X,base year is 2015
+VNM,2008-01-01,2008-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2008,2008,,52.498695,X,base year is 2015
+VNM,2009-01-01,2009-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2009,2009,,61.674903,X,base year is 2015
+VNM,2010-01-01,2010-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2010,2010,,66.375864,X,base year is 2015
+VNM,2011-01-01,2011-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2011,2011,,74.451825,X,base year is 2015
+VNM,2012-01-01,2012-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2012,2012,,87.308154,X,base year is 2015
+VNM,2013-01-01,2013-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2013,2013,,93.480599,X,base year is 2015
+VNM,2014-01-01,2014-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2014,2014,,98.574968,X,base year is 2015
+VNM,2015-01-01,2015-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2015,2015,,99.500592,X,base year is 2015
+VNM,2016-01-01,2016-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2016,2016,,100.293492,X,base year is 2015
+VNM,2017-01-01,2017-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2017,2017,,105.525967,X,base year is 2015
+VNM,2018-01-01,2018-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2018,2018,,108.321435,X,base year is 2015
+VNM,2019-01-01,2019-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2019,2019,,111.097683,X,base year is 2015
+VNM,2020-01-01,2020-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2020,2020,,118.238341,X,base year is 2015
+VNM,2021-01-01,2021-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2021,2021,,117.089921,X,base year is 2015
+VNM,2022-01-01,2022-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2022,2022,,119.363610,X,base year is 2015
+VNM,2023-01-01,2023-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2023,2023,,125.196475,X,base year is 2015
+VNM,2024-01-01,2024-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2024,2024,,129.416714,X,base year is 2015
+VNM,2025-01-01,2025-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2025,2025,,134.108170,X,base year is 2015
+VNM,2026-01-01,2026-01-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7001,January,2026,2026,,137.494205,X,base year is 2015
+VNM,2000-02-01,2000-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2000,2000,,34.127926,X,base year is 2015
+VNM,2001-02-01,2001-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2001,2001,,33.488201,X,base year is 2015
+VNM,2002-02-01,2002-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2002,2002,,34.524860,X,base year is 2015
+VNM,2003-02-01,2003-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2003,2003,,35.850132,X,base year is 2015
+VNM,2004-02-01,2004-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2004,2004,,37.291508,X,base year is 2015
+VNM,2005-02-01,2005-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2005,2005,,40.699956,X,base year is 2015
+VNM,2006-02-01,2006-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2006,2006,,44.115169,X,base year is 2015
+VNM,2007-02-01,2007-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2007,2007,,47.004178,X,base year is 2015
+VNM,2008-02-01,2008-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2008,2008,,54.367648,X,base year is 2015
+VNM,2009-02-01,2009-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2009,2009,,62.396499,X,base year is 2015
+VNM,2010-02-01,2010-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2010,2010,,67.676831,X,base year is 2015
+VNM,2011-02-01,2011-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2011,2011,,76.007868,X,base year is 2015
+VNM,2012-02-01,2012-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2012,2012,,88.504276,X,base year is 2015
+VNM,2013-02-01,2013-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2013,2013,,94.714543,X,base year is 2015
+VNM,2014-02-01,2014-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2014,2014,,99.117131,X,base year is 2015
+VNM,2015-02-01,2015-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2015,2015,,99.450842,X,base year is 2015
+VNM,2016-02-01,2016-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2016,2016,,100.713923,X,base year is 2015
+VNM,2017-02-01,2017-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2017,2017,,105.772686,X,base year is 2015
+VNM,2018-02-01,2018-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2018,2018,,109.109148,X,base year is 2015
+VNM,2019-02-01,2019-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2019,2019,,111.988242,X,base year is 2015
+VNM,2020-02-01,2020-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2020,2020,,118.040882,X,base year is 2015
+VNM,2021-02-01,2021-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2021,2021,,118.867463,X,base year is 2015
+VNM,2022-02-01,2022-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2022,2022,,120.560111,X,base year is 2015
+VNM,2023-02-01,2023-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2023,2023,,125.758482,X,base year is 2015
+VNM,2024-02-01,2024-02-29,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2024,2024,,130.759154,X,base year is 2015
+VNM,2025-02-01,2025-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2025,2025,,134.562528,X,base year is 2015
+VNM,2026-02-01,2026-02-28,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7002,February,2026,2026,,139.062480,X,base year is 2015
+VNM,2000-03-01,2000-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2000,2000,,33.738528,X,base year is 2015
+VNM,2001-03-01,2001-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2001,2001,,33.237874,X,base year is 2015
+VNM,2002-03-01,2002-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2002,2002,,34.248661,X,base year is 2015
+VNM,2003-03-01,2003-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2003,2003,,35.635031,X,base year is 2015
+VNM,2004-03-01,2004-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2004,2004,,37.589841,X,base year is 2015
+VNM,2005-03-01,2005-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2005,2005,,40.740656,X,base year is 2015
+VNM,2006-03-01,2006-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2006,2006,,43.894593,X,base year is 2015
+VNM,2007-03-01,2007-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2007,2007,,46.900769,X,base year is 2015
+VNM,2008-03-01,2008-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2008,2008,,55.993241,X,base year is 2015
+VNM,2009-03-01,2009-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2009,2009,,62.290425,X,base year is 2015
+VNM,2010-03-01,2010-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2010,2010,,68.184407,X,base year is 2015
+VNM,2011-03-01,2011-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2011,2011,,77.657239,X,base year is 2015
+VNM,2012-03-01,2012-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2012,2012,,88.645882,X,base year is 2015
+VNM,2013-03-01,2013-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2013,2013,,94.534586,X,base year is 2015
+VNM,2014-03-01,2014-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2014,2014,,98.681015,X,base year is 2015
+VNM,2015-03-01,2015-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2015,2015,,99.600018,X,base year is 2015
+VNM,2016-03-01,2016-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2016,2016,,101.287489,X,base year is 2015
+VNM,2017-03-01,2017-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2017,2017,,105.992694,X,base year is 2015
+VNM,2018-03-01,2018-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2018,2018,,108.815535,X,base year is 2015
+VNM,2019-03-01,2019-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2019,2019,,111.753514,X,base year is 2015
+VNM,2020-03-01,2020-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2020,2020,,117.194293,X,base year is 2015
+VNM,2021-03-01,2021-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2021,2021,,118.549255,X,base year is 2015
+VNM,2022-03-01,2022-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2022,2022,,121.406082,X,base year is 2015
+VNM,2023-03-01,2023-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2023,2023,,125.474394,X,base year is 2015
+VNM,2024-03-01,2024-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2024,2024,,130.455008,X,base year is 2015
+VNM,2025-03-01,2025-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2025,2025,,134.532164,X,base year is 2015
+VNM,2026-03-01,2026-03-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7003,March,2026,2026,,140.788900,X,base year is 2015
+VNM,2000-04-01,2000-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2000,2000,,33.488201,X,base year is 2015
+VNM,2001-04-01,2001-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2001,2001,,33.070989,X,base year is 2015
+VNM,2002-04-01,2002-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2002,2002,,34.248661,X,base year is 2015
+VNM,2003-04-01,2003-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2003,2003,,35.635031,X,base year is 2015
+VNM,2004-04-01,2004-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2004,2004,,37.777790,X,base year is 2015
+VNM,2005-04-01,2005-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2005,2005,,40.985100,X,base year is 2015
+VNM,2006-04-01,2006-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2006,2006,,43.982382,X,base year is 2015
+VNM,2007-04-01,2007-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2007,2007,,47.130583,X,base year is 2015
+VNM,2008-04-01,2008-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2008,2008,,57.225092,X,base year is 2015
+VNM,2009-04-01,2009-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2009,2009,,62.508442,X,base year is 2015
+VNM,2010-04-01,2010-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2010,2010,,68.279866,X,base year is 2015
+VNM,2011-04-01,2011-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2011,2011,,80.235459,X,base year is 2015
+VNM,2012-04-01,2012-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2012,2012,,88.690205,X,base year is 2015
+VNM,2013-04-01,2013-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2013,2013,,94.553493,X,base year is 2015
+VNM,2014-04-01,2014-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2014,2014,,98.759960,X,base year is 2015
+VNM,2015-04-01,2015-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2015,2015,,99.739458,X,base year is 2015
+VNM,2016-04-01,2016-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2016,2016,,101.626599,X,base year is 2015
+VNM,2017-04-01,2017-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2017,2017,,105.996085,X,base year is 2015
+VNM,2018-04-01,2018-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2018,2018,,108.906288,X,base year is 2015
+VNM,2019-04-01,2019-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2019,2019,,112.099615,X,base year is 2015
+VNM,2020-04-01,2020-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2020,2020,,115.386103,X,base year is 2015
+VNM,2021-04-01,2021-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2021,2021,,118.503851,X,base year is 2015
+VNM,2022-04-01,2022-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2022,2022,,121.629954,X,base year is 2015
+VNM,2023-04-01,2023-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2023,2023,,125.044644,X,base year is 2015
+VNM,2024-04-01,2024-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2024,2024,,130.550371,X,base year is 2015
+VNM,2025-04-01,2025-04-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7004,April,2025,2025,,134.622865,X,base year is 2015
+VNM,2000-05-01,2000-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2000,2000,,33.293502,X,base year is 2015
+VNM,2001-05-01,2001-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2001,2001,,33.015361,X,base year is 2015
+VNM,2002-05-01,2002-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2002,2002,,34.351407,X,base year is 2015
+VNM,2003-05-01,2003-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2003,2003,,35.599396,X,base year is 2015
+VNM,2004-05-01,2004-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2004,2004,,38.117790,X,base year is 2015
+VNM,2005-05-01,2005-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2005,2005,,41.190026,X,base year is 2015
+VNM,2006-05-01,2006-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2006,2006,,44.260166,X,base year is 2015
+VNM,2007-05-01,2007-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2007,2007,,47.493488,X,base year is 2015
+VNM,2008-05-01,2008-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2008,2008,,59.462594,X,base year is 2015
+VNM,2009-05-01,2009-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2009,2009,,62.783479,X,base year is 2015
+VNM,2010-05-01,2010-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2010,2010,,68.464221,X,base year is 2015
+VNM,2011-05-01,2011-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2011,2011,,82.008663,X,base year is 2015
+VNM,2012-05-01,2012-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2012,2012,,88.849848,X,base year is 2015
+VNM,2013-05-01,2013-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2013,2013,,94.496760,X,base year is 2015
+VNM,2014-05-01,2014-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2014,2014,,98.957480,X,base year is 2015
+VNM,2015-05-01,2015-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2015,2015,,99.899041,X,base year is 2015
+VNM,2016-05-01,2016-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2016,2016,,102.176196,X,base year is 2015
+VNM,2017-05-01,2017-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2017,2017,,105.437016,X,base year is 2015
+VNM,2018-05-01,2018-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2018,2018,,109.503639,X,base year is 2015
+VNM,2019-05-01,2019-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2019,2019,,112.652266,X,base year is 2015
+VNM,2020-05-01,2020-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2020,2020,,115.351256,X,base year is 2015
+VNM,2021-05-01,2021-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2021,2021,,118.691561,X,base year is 2015
+VNM,2022-05-01,2022-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2022,2022,,122.089594,X,base year is 2015
+VNM,2023-05-01,2023-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2023,2023,,125.054022,X,base year is 2015
+VNM,2024-05-01,2024-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2024,2024,,130.611599,X,base year is 2015
+VNM,2025-05-01,2025-05-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7005,May,2025,2025,,134.838279,X,base year is 2015
+VNM,2000-06-01,2000-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2000,2000,,33.126618,X,base year is 2015
+VNM,2001-06-01,2001-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2001,2001,,33.015361,X,base year is 2015
+VNM,2002-06-01,2002-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2002,2002,,34.385759,X,base year is 2015
+VNM,2003-06-01,2003-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2003,2003,,35.492598,X,base year is 2015
+VNM,2004-06-01,2004-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2004,2004,,38.422732,X,base year is 2015
+VNM,2005-06-01,2005-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2005,2005,,41.354786,X,base year is 2015
+VNM,2006-06-01,2006-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2006,2006,,44.432780,X,base year is 2015
+VNM,2007-06-01,2007-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2007,2007,,47.897183,X,base year is 2015
+VNM,2008-06-01,2008-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2008,2008,,60.735093,X,base year is 2015
+VNM,2009-06-01,2009-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2009,2009,,63.128788,X,base year is 2015
+VNM,2010-06-01,2010-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2010,2010,,68.614843,X,base year is 2015
+VNM,2011-06-01,2011-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2011,2011,,82.902557,X,base year is 2015
+VNM,2012-06-01,2012-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2012,2012,,88.618838,X,base year is 2015
+VNM,2013-06-01,2013-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2013,2013,,94.544009,X,base year is 2015
+VNM,2014-06-01,2014-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2014,2014,,99.254352,X,base year is 2015
+VNM,2015-06-01,2015-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2015,2015,,100.248688,X,base year is 2015
+VNM,2016-06-01,2016-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2016,2016,,102.650804,X,base year is 2015
+VNM,2017-06-01,2017-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2017,2017,,105.256614,X,base year is 2015
+VNM,2018-06-01,2018-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2018,2018,,110.169968,X,base year is 2015
+VNM,2019-06-01,2019-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2019,2019,,112.548401,X,base year is 2015
+VNM,2020-06-01,2020-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2020,2020,,116.110729,X,base year is 2015
+VNM,2021-06-01,2021-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2021,2021,,118.913989,X,base year is 2015
+VNM,2022-06-01,2022-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2022,2022,,122.926396,X,base year is 2015
+VNM,2023-06-01,2023-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2023,2023,,125.388417,X,base year is 2015
+VNM,2024-06-01,2024-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2024,2024,,130.827500,X,base year is 2015
+VNM,2025-06-01,2025-06-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7006,June,2025,2025,,135.484523,X,base year is 2015
+VNM,2000-07-01,2000-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2000,2000,,32.931919,X,base year is 2015
+VNM,2001-07-01,2001-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2001,2001,,32.959733,X,base year is 2015
+VNM,2002-07-01,2002-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2002,2002,,34.351373,X,base year is 2015
+VNM,2003-07-01,2003-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2003,2003,,35.386120,X,base year is 2015
+VNM,2004-07-01,2004-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2004,2004,,38.614846,X,base year is 2015
+VNM,2005-07-01,2005-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2005,2005,,41.520205,X,base year is 2015
+VNM,2006-07-01,2006-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2006,2006,,44.606068,X,base year is 2015
+VNM,2007-07-01,2007-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2007,2007,,48.347417,X,base year is 2015
+VNM,2008-07-01,2008-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2008,2008,,61.421400,X,base year is 2015
+VNM,2009-07-01,2009-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2009,2009,,63.457058,X,base year is 2015
+VNM,2010-07-01,2010-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2010,2010,,68.656011,X,base year is 2015
+VNM,2011-07-01,2011-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2011,2011,,83.872517,X,base year is 2015
+VNM,2012-07-01,2012-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2012,2012,,88.361844,X,base year is 2015
+VNM,2013-07-01,2013-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2013,2013,,94.799278,X,base year is 2015
+VNM,2014-07-01,2014-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2014,2014,,99.482637,X,base year is 2015
+VNM,2015-07-01,2015-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2015,2015,,100.379011,X,base year is 2015
+VNM,2016-07-01,2016-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2016,2016,,102.782197,X,base year is 2015
+VNM,2017-07-01,2017-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2017,2017,,105.372080,X,base year is 2015
+VNM,2018-07-01,2018-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2018,2018,,110.070154,X,base year is 2015
+VNM,2019-07-01,2019-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2019,2019,,112.752789,X,base year is 2015
+VNM,2020-07-01,2020-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2020,2020,,116.574359,X,base year is 2015
+VNM,2021-07-01,2021-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2021,2021,,119.654109,X,base year is 2015
+VNM,2022-07-01,2022-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2022,2022,,123.412324,X,base year is 2015
+VNM,2023-07-01,2023-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2023,2023,,125.958683,X,base year is 2015
+VNM,2024-07-01,2024-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2024,2024,,131.449323,X,base year is 2015
+VNM,2025-07-01,2025-07-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7007,July,2025,2025,,135.631913,X,base year is 2015
+VNM,2000-08-01,2000-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2000,2000,,32.959733,X,base year is 2015
+VNM,2001-08-01,2001-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2001,2001,,32.959733,X,base year is 2015
+VNM,2002-08-01,2002-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2002,2002,,34.385725,X,base year is 2015
+VNM,2003-08-01,2003-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2003,2003,,35.350734,X,base year is 2015
+VNM,2004-08-01,2004-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2004,2004,,38.846535,X,base year is 2015
+VNM,2005-08-01,2005-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2005,2005,,41.686286,X,base year is 2015
+VNM,2006-08-01,2006-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2006,2006,,44.775571,X,base year is 2015
+VNM,2007-08-01,2007-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2007,2007,,48.613327,X,base year is 2015
+VNM,2008-08-01,2008-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2008,2008,,62.379573,X,base year is 2015
+VNM,2009-08-01,2009-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2009,2009,,63.609355,X,base year is 2015
+VNM,2010-08-01,2010-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2010,2010,,68.813920,X,base year is 2015
+VNM,2011-08-01,2011-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2011,2011,,84.652531,X,base year is 2015
+VNM,2012-08-01,2012-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2012,2012,,88.918523,X,base year is 2015
+VNM,2013-08-01,2013-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2013,2013,,95.586112,X,base year is 2015
+VNM,2014-08-01,2014-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2014,2014,,99.701499,X,base year is 2015
+VNM,2015-08-01,2015-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2015,2015,,100.308746,X,base year is 2015
+VNM,2016-08-01,2016-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2016,2016,,102.887446,X,base year is 2015
+VNM,2017-08-01,2017-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2017,2017,,106.338553,X,base year is 2015
+VNM,2018-08-01,2018-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2018,2018,,110.567781,X,base year is 2015
+VNM,2019-08-01,2019-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2019,2019,,113.068609,X,base year is 2015
+VNM,2020-08-01,2020-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2020,2020,,116.660973,X,base year is 2015
+VNM,2021-08-01,2021-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2021,2021,,119.950732,X,base year is 2015
+VNM,2022-08-01,2022-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2022,2022,,123.418495,X,base year is 2015
+VNM,2023-08-01,2023-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2023,2023,,127.068505,X,base year is 2015
+VNM,2024-08-01,2024-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2024,2024,,131.448403,X,base year is 2015
+VNM,2025-08-01,2025-08-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7008,August,2025,2025,,135.699938,X,base year is 2015
+VNM,2000-09-01,2000-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2000,2000,,32.904105,X,base year is 2015
+VNM,2001-09-01,2001-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2001,2001,,33.126618,X,base year is 2015
+VNM,2002-09-01,2002-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2002,2002,,34.454496,X,base year is 2015
+VNM,2003-09-01,2003-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2003,2003,,35.386085,X,base year is 2015
+VNM,2004-09-01,2004-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2004,2004,,38.963075,X,base year is 2015
+VNM,2005-09-01,2005-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2005,2005,,42.019776,X,base year is 2015
+VNM,2006-09-01,2006-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2006,2006,,44.909898,X,base year is 2015
+VNM,2007-09-01,2007-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2007,2007,,48.861255,X,base year is 2015
+VNM,2008-09-01,2008-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2008,2008,,62.491857,X,base year is 2015
+VNM,2009-09-01,2009-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2009,2009,,64.003733,X,base year is 2015
+VNM,2010-09-01,2010-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2010,2010,,69.715383,X,base year is 2015
+VNM,2011-09-01,2011-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2011,2011,,85.346682,X,base year is 2015
+VNM,2012-09-01,2012-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2012,2012,,90.874731,X,base year is 2015
+VNM,2013-09-01,2013-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2013,2013,,96.599324,X,base year is 2015
+VNM,2014-09-01,2014-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2014,2014,,100.100305,X,base year is 2015
+VNM,2015-09-01,2015-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2015,2015,,100.098097,X,base year is 2015
+VNM,2016-09-01,2016-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2016,2016,,103.446228,X,base year is 2015
+VNM,2017-09-01,2017-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2017,2017,,106.968184,X,base year is 2015
+VNM,2018-09-01,2018-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2018,2018,,111.224001,X,base year is 2015
+VNM,2019-09-01,2019-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2019,2019,,113.425115,X,base year is 2015
+VNM,2020-09-01,2020-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2020,2020,,116.806216,X,base year is 2015
+VNM,2021-09-01,2021-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2021,2021,,119.212435,X,base year is 2015
+VNM,2022-09-01,2022-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2022,2022,,123.909824,X,base year is 2015
+VNM,2023-09-01,2023-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2023,2023,,128.440718,X,base year is 2015
+VNM,2024-09-01,2024-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2024,2024,,131.823031,X,base year is 2015
+VNM,2025-09-01,2025-09-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7009,September,2025,2025,,136.278157,X,base year is 2015
+VNM,2000-10-01,2000-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2000,2000,,32.931919,X,base year is 2015
+VNM,2001-10-01,2001-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2001,2001,,33.070989,X,base year is 2015
+VNM,2002-10-01,2002-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2002,2002,,34.557859,X,base year is 2015
+VNM,2003-10-01,2003-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2003,2003,,35.315313,X,base year is 2015
+VNM,2004-10-01,2004-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2004,2004,,38.963075,X,base year is 2015
+VNM,2005-10-01,2005-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2005,2005,,42.187855,X,base year is 2015
+VNM,2006-10-01,2006-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2006,2006,,45.017682,X,base year is 2015
+VNM,2007-10-01,2007-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2007,2007,,49.222829,X,base year is 2015
+VNM,2008-10-01,2008-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2008,2008,,62.373122,X,base year is 2015
+VNM,2009-10-01,2009-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2009,2009,,64.240546,X,base year is 2015
+VNM,2010-10-01,2010-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2010,2010,,70.447394,X,base year is 2015
+VNM,2011-10-01,2011-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2011,2011,,85.653930,X,base year is 2015
+VNM,2012-10-01,2012-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2012,2012,,91.647166,X,base year is 2015
+VNM,2013-10-01,2013-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2013,2013,,97.072661,X,base year is 2015
+VNM,2014-10-01,2014-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2014,2014,,100.210416,X,base year is 2015
+VNM,2015-10-01,2015-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2015,2015,,100.208205,X,base year is 2015
+VNM,2016-10-01,2016-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2016,2016,,104.306694,X,base year is 2015
+VNM,2017-10-01,2017-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2017,2017,,107.410604,X,base year is 2015
+VNM,2018-10-01,2018-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2018,2018,,111.592820,X,base year is 2015
+VNM,2019-10-01,2019-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2019,2019,,114.088765,X,base year is 2015
+VNM,2020-10-01,2020-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2020,2020,,116.906553,X,base year is 2015
+VNM,2021-10-01,2021-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2021,2021,,118.970315,X,base year is 2015
+VNM,2022-10-01,2022-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2022,2022,,124.089741,X,base year is 2015
+VNM,2023-10-01,2023-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2023,2023,,128.546296,X,base year is 2015
+VNM,2024-10-01,2024-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2024,2024,,132.262265,X,base year is 2015
+VNM,2025-10-01,2025-10-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7010,October,2025,2025,,136.550260,X,base year is 2015
+VNM,2000-11-01,2000-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2000,2000,,33.237874,X,base year is 2015
+VNM,2001-11-01,2001-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2001,2001,,33.154432,X,base year is 2015
+VNM,2002-11-01,2002-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2002,2002,,34.661533,X,base year is 2015
+VNM,2003-11-01,2003-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2003,2003,,35.527205,X,base year is 2015
+VNM,2004-11-01,2004-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2004,2004,,39.041001,X,base year is 2015
+VNM,2005-11-01,2005-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2005,2005,,42.356607,X,base year is 2015
+VNM,2006-11-01,2006-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2006,2006,,45.292289,X,base year is 2015
+VNM,2007-11-01,2007-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2007,2007,,49.828269,X,base year is 2015
+VNM,2008-11-01,2008-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2008,2008,,61.899086,X,base year is 2015
+VNM,2009-11-01,2009-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2009,2009,,64.593869,X,base year is 2015
+VNM,2010-11-01,2010-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2010,2010,,71.757716,X,base year is 2015
+VNM,2011-11-01,2011-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2011,2011,,85.987980,X,base year is 2015
+VNM,2012-11-01,2012-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2012,2012,,92.077908,X,base year is 2015
+VNM,2013-11-01,2013-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2013,2013,,97.402708,X,base year is 2015
+VNM,2014-11-01,2014-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2014,2014,,99.939847,X,base year is 2015
+VNM,2015-11-01,2015-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2015,2015,,100.278551,X,base year is 2015
+VNM,2016-11-01,2016-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2016,2016,,104.808096,X,base year is 2015
+VNM,2017-11-01,2017-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2017,2017,,107.551849,X,base year is 2015
+VNM,2018-11-01,2018-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2018,2018,,111.270986,X,base year is 2015
+VNM,2019-11-01,2019-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2019,2019,,115.186983,X,base year is 2015
+VNM,2020-11-01,2020-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2020,2020,,116.896733,X,base year is 2015
+VNM,2021-11-01,2021-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2021,2021,,119.352091,X,base year is 2015
+VNM,2022-11-01,2022-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2022,2022,,124.570216,X,base year is 2015
+VNM,2023-11-01,2023-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2023,2023,,128.865734,X,base year is 2015
+VNM,2024-11-01,2024-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2024,2024,,132.430899,X,base year is 2015
+VNM,2025-11-01,2025-11-30,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7011,November,2025,2025,,137.164736,X,base year is 2015
+VNM,2000-12-01,2000-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2000,2000,,33.265688,X,base year is 2015
+VNM,2001-12-01,2001-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2001,2001,,33.432573,X,base year is 2015
+VNM,2002-12-01,2002-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2002,2002,,34.765518,X,base year is 2015
+VNM,2003-12-01,2003-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2003,2003,,35.811422,X,base year is 2015
+VNM,2004-12-01,2004-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2004,2004,,39.275247,X,base year is 2015
+VNM,2005-12-01,2005-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2005,2005,,42.695459,X,base year is 2015
+VNM,2006-12-01,2006-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2006,2006,,45.527809,X,base year is 2015
+VNM,2007-12-01,2007-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2007,2007,,51.278272,X,base year is 2015
+VNM,2008-12-01,2008-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2008,2008,,61.478173,X,base year is 2015
+VNM,2009-12-01,2009-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2009,2009,,65.485265,X,base year is 2015
+VNM,2010-12-01,2010-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2010,2010,,73.178519,X,base year is 2015
+VNM,2011-12-01,2011-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2011,2011,,86.443717,X,base year is 2015
+VNM,2012-12-01,2012-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2012,2012,,92.326518,X,base year is 2015
+VNM,2013-12-01,2013-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2013,2013,,97.899462,X,base year is 2015
+VNM,2014-12-01,2014-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2014,2014,,99.699992,X,base year is 2015
+VNM,2015-12-01,2015-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2015,2015,,100.295298,X,base year is 2015
+VNM,2016-12-01,2016-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2016,2016,,105.046534,X,base year is 2015
+VNM,2017-12-01,2017-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2017,2017,,107.773836,X,base year is 2015
+VNM,2018-12-01,2018-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2018,2018,,110.988692,X,base year is 2015
+VNM,2019-12-01,2019-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2019,2019,,116.798449,X,base year is 2015
+VNM,2020-12-01,2020-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2020,2020,,117.016903,X,base year is 2015
+VNM,2021-12-01,2021-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2021,2021,,119.135347,X,base year is 2015
+VNM,2022-12-01,2022-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2022,2022,,124.554645,X,base year is 2015
+VNM,2023-12-01,2023-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2023,2023,,129.014960,X,base year is 2015
+VNM,2024-12-01,2024-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2024,2024,,132.810843,X,base year is 2015
+VNM,2025-12-01,2025-12-31,237,'704,Viet Nam,23012,"Consumer Prices, General Indices (2015 = 100)",6125,Value,7012,December,2025,2025,,137.428311,X,base year is 2015
+VNM,2001-01-01,2001-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2001,2001,%,-1.005077,E,
+VNM,2002-01-01,2002-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2002,2002,%,1.677780,E,
+VNM,2003-01-01,2003-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2003,2003,%,5.130327,E,
+VNM,2004-01-01,2004-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2004,2004,%,3.147352,E,
+VNM,2005-01-01,2005-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2005,2005,%,15.499278,E,
+VNM,2006-01-01,2006-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2006,2006,%,11.055964,E,
+VNM,2007-01-01,2007-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2007,2007,%,7.295081,E,
+VNM,2008-01-01,2008-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2008,2008,%,22.011719,E,
+VNM,2009-01-01,2009-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2009,2009,%,27.575998,E,
+VNM,2010-01-01,2010-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2010,2010,%,7.590760,E,
+VNM,2011-01-01,2011-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2011,2011,%,16.592049,E,
+VNM,2012-01-01,2012-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2012,2012,%,23.018511,E,
+VNM,2013-01-01,2013-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2013,2013,%,1.338843,E,
+VNM,2014-01-01,2014-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2014,2014,%,4.492835,E,
+VNM,2015-01-01,2015-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2015,2015,%,2.108035,E,
+VNM,2016-01-01,2016-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2016,2016,%,0.939087,E,
+VNM,2017-01-01,2017-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2017,2017,%,2.368756,E,
+VNM,2018-01-01,2018-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2018,2018,%,-1.130281,E,
+VNM,2019-01-01,2019-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2019,2019,%,5.324393,E,
+VNM,2020-01-01,2020-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2020,2020,%,10.927108,E,
+VNM,2021-01-01,2021-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2021,2021,%,1.029649,E,
+VNM,2022-01-01,2022-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2022,2022,%,-0.136601,E,
+VNM,2023-01-01,2023-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2023,2023,%,6.075275,E,
+VNM,2024-01-01,2024-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2024,2024,%,2.307060,E,
+VNM,2025-01-01,2025-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2025,2025,%,4.411172,E,
+VNM,2026-01-01,2026-01-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7001,January,2026,2026,%,1.849246,E,
+VNM,2001-02-01,2001-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2001,2001,%,-2.523712,E,
+VNM,2002-02-01,2002-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2002,2002,%,5.152131,E,
+VNM,2003-02-01,2003-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2003,2003,%,4.523806,E,
+VNM,2004-02-01,2004-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2004,2004,%,4.843198,E,
+VNM,2005-02-01,2005-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2005,2005,%,14.400332,E,
+VNM,2006-02-01,2006-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2006,2006,%,10.095825,E,
+VNM,2007-02-01,2007-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2007,2007,%,7.555001,E,
+VNM,2008-02-01,2008-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2008,2008,%,25.231554,E,
+VNM,2009-02-01,2009-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2009,2009,%,22.157202,E,
+VNM,2010-02-01,2010-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2010,2010,%,9.093454,E,
+VNM,2011-02-01,2011-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2011,2011,%,17.225395,E,
+VNM,2012-02-01,2012-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2012,2012,%,21.190739,E,
+VNM,2013-02-01,2013-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2013,2013,%,1.507560,E,
+VNM,2014-02-01,2014-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2014,2014,%,3.338388,E,
+VNM,2015-02-01,2015-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2015,2015,%,1.482163,E,
+VNM,2016-02-01,2016-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2016,2016,%,2.393281,E,
+VNM,2017-02-01,2017-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2017,2017,%,0.497117,E,
+VNM,2018-02-01,2018-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2018,2018,%,0.268222,E,
+VNM,2019-02-01,2019-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2019,2019,%,5.531038,E,
+VNM,2020-02-01,2020-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2020,2020,%,9.320488,E,
+VNM,2021-02-01,2021-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2021,2021,%,2.389869,E,
+VNM,2022-02-01,2022-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2022,2022,%,-0.203337,E,
+VNM,2023-02-01,2023-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2023,2023,%,4.294811,E,
+VNM,2024-02-01,2024-02-29,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2024,2024,%,4.234976,E,
+VNM,2025-02-01,2025-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2025,2025,%,3.088513,E,
+VNM,2026-02-01,2026-02-28,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7002,February,2026,2026,%,3.458352,E,
+VNM,2001-03-01,2001-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2001,2001,%,-1.999258,E,
+VNM,2002-03-01,2002-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2002,2002,%,5.054843,E,
+VNM,2003-03-01,2003-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2003,2003,%,3.678315,E,
+VNM,2004-03-01,2004-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2004,2004,%,8.583781,E,
+VNM,2005-03-01,2005-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2005,2005,%,12.823950,E,
+VNM,2006-03-01,2006-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2006,2006,%,8.887189,E,
+VNM,2007-03-01,2007-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2007,2007,%,8.075953,E,
+VNM,2008-03-01,2008-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2008,2008,%,30.639223,E,
+VNM,2009-03-01,2009-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2009,2009,%,17.053598,E,
+VNM,2010-03-01,2010-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2010,2010,%,10.726459,E,
+VNM,2011-03-01,2011-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2011,2011,%,18.327682,E,
+VNM,2012-03-01,2012-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2012,2012,%,17.851398,E,
+VNM,2013-03-01,2013-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2013,2013,%,1.814631,E,
+VNM,2014-03-01,2014-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2014,2014,%,2.891665,E,
+VNM,2015-03-01,2015-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2015,2015,%,2.834712,E,
+VNM,2016-03-01,2016-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2016,2016,%,1.531671,E,
+VNM,2017-03-01,2017-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2017,2017,%,0.106906,E,
+VNM,2018-03-01,2018-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2018,2018,%,0.518971,E,
+VNM,2019-03-01,2019-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2019,2019,%,4.683090,E,
+VNM,2020-03-01,2020-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2020,2020,%,10.424911,E,
+VNM,2021-03-01,2021-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2021,2021,%,1.328278,E,
+VNM,2022-03-01,2022-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2022,2022,%,1.004650,E,
+VNM,2023-03-01,2023-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2023,2023,%,3.966768,E,
+VNM,2024-03-01,2024-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2024,2024,%,4.049616,E,
+VNM,2025-03-01,2025-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2025,2025,%,3.819281,E,
+VNM,2026-03-01,2026-03-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7003,March,2026,2026,%,2.905455,E,
+VNM,2001-04-01,2001-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2001,2001,%,-1.679209,E,
+VNM,2002-04-01,2002-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2002,2002,%,5.771584,E,
+VNM,2003-04-01,2003-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2003,2003,%,3.367280,E,
+VNM,2004-04-01,2004-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2004,2004,%,9.890707,E,
+VNM,2005-04-01,2005-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2005,2005,%,12.376679,E,
+VNM,2006-04-01,2006-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2006,2006,%,8.562152,E,
+VNM,2007-04-01,2007-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2007,2007,%,8.334819,E,
+VNM,2008-04-01,2008-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2008,2008,%,34.112011,E,
+VNM,2009-04-01,2009-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2009,2009,%,14.011182,E,
+VNM,2010-04-01,2010-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2010,2010,%,9.557783,E,
+VNM,2011-04-01,2011-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2011,2011,%,24.436377,E,
+VNM,2012-04-01,2012-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2012,2012,%,11.874247,E,
+VNM,2013-04-01,2013-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2013,2013,%,1.701732,E,
+VNM,2014-04-01,2014-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2014,2014,%,3.992333,E,
+VNM,2015-04-01,2015-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2015,2015,%,2.249432,E,
+VNM,2016-04-01,2016-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2016,2016,%,1.955315,E,
+VNM,2017-04-01,2017-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2017,2017,%,-0.544819,E,
+VNM,2018-04-01,2018-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2018,2018,%,1.003128,E,
+VNM,2019-04-01,2019-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2019,2019,%,4.275780,E,
+VNM,2020-04-01,2020-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2020,2020,%,11.780199,E,
+VNM,2021-04-01,2021-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2021,2021,%,0.541954,E,
+VNM,2022-04-01,2022-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2022,2022,%,1.082117,E,
+VNM,2023-04-01,2023-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2023,2023,%,3.617891,E,
+VNM,2024-04-01,2024-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2024,2024,%,4.319937,E,
+VNM,2025-04-01,2025-04-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7004,April,2025,2025,%,4.076159,E,
+VNM,2001-05-01,2001-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2001,2001,%,-1.126835,E,
+VNM,2002-05-01,2002-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2002,2002,%,6.754478,E,
+VNM,2003-05-01,2003-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2003,2003,%,2.340792,E,
+VNM,2004-05-01,2004-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2004,2004,%,12.205357,E,
+VNM,2005-05-01,2005-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2005,2005,%,11.052003,E,
+VNM,2006-05-01,2006-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2006,2006,%,8.179811,E,
+VNM,2007-05-01,2007-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2007,2007,%,9.193213,E,
+VNM,2008-05-01,2008-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2008,2008,%,42.354645,E,
+VNM,2009-05-01,2009-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2009,2009,%,6.495480,E,
+VNM,2010-05-01,2010-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2010,2010,%,9.229700,E,
+VNM,2011-05-01,2011-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2011,2011,%,28.335915,E,
+VNM,2012-05-01,2012-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2012,2012,%,8.453181,E,
+VNM,2013-05-01,2013-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2013,2013,%,1.487859,E,
+VNM,2014-05-01,2014-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2014,2014,%,4.534992,E,
+VNM,2015-05-01,2015-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2015,2015,%,1.851336,E,
+VNM,2016-05-01,2016-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2016,2016,%,2.550718,E,
+VNM,2017-05-01,2017-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2017,2017,%,-2.318039,E,
+VNM,2018-05-01,2018-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2018,2018,%,3.365766,E,
+VNM,2019-05-01,2019-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2019,2019,%,3.417626,E,
+VNM,2020-05-01,2020-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2020,2020,%,12.109343,E,
+VNM,2021-05-01,2021-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2021,2021,%,0.237953,E,
+VNM,2022-05-01,2022-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2022,2022,%,1.318453,E,
+VNM,2023-05-01,2023-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2023,2023,%,3.582034,E,
+VNM,2024-05-01,2024-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2024,2024,%,4.471048,E,
+VNM,2025-05-01,2025-05-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7005,May,2025,2025,%,3.710937,E,
+VNM,2001-06-01,2001-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2001,2001,%,-0.453403,E,
+VNM,2002-06-01,2002-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2002,2002,%,6.967987,E,
+VNM,2003-06-01,2003-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2003,2003,%,1.625837,E,
+VNM,2004-06-01,2004-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2004,2004,%,14.460740,E,
+VNM,2005-06-01,2005-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2005,2005,%,9.957894,E,
+VNM,2006-06-01,2006-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2006,2006,%,8.082933,E,
+VNM,2007-06-01,2007-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2007,2007,%,9.856571,E,
+VNM,2008-06-01,2008-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2008,2008,%,45.553467,E,
+VNM,2009-06-01,2009-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2009,2009,%,3.392068,E,
+VNM,2010-06-01,2010-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2010,2010,%,9.327733,E,
+VNM,2011-06-01,2011-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2011,2011,%,30.151567,E,
+VNM,2012-06-01,2012-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2012,2012,%,6.300952,E,
+VNM,2013-06-01,2013-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2013,2013,%,1.640441,E,
+VNM,2014-06-01,2014-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2014,2014,%,4.911619,E,
+VNM,2015-06-01,2015-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2015,2015,%,1.536478,E,
+VNM,2016-06-01,2016-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2016,2016,%,2.794965,E,
+VNM,2017-06-01,2017-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2017,2017,%,-3.099626,E,
+VNM,2018-06-01,2018-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2018,2018,%,5.103947,E,
+VNM,2019-06-01,2019-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2019,2019,%,2.442362,E,
+VNM,2020-06-01,2020-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2020,2020,%,12.459583,E,
+VNM,2021-06-01,2021-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2021,2021,%,-0.330215,E,
+VNM,2022-06-01,2022-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2022,2022,%,2.268350,E,
+VNM,2023-06-01,2023-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2023,2023,%,3.342203,E,
+VNM,2024-06-01,2024-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2024,2024,%,4.658236,E,
+VNM,2025-06-01,2025-06-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7006,June,2025,2025,%,2.995611,E,
+VNM,2001-07-01,2001-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2001,2001,%,0.114105,E,
+VNM,2002-07-01,2002-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2002,2002,%,6.783081,E,
+VNM,2003-07-01,2003-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2003,2003,%,1.523803,E,
+VNM,2004-07-01,2004-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2004,2004,%,15.496063,E,
+VNM,2005-07-01,2005-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2005,2005,%,9.519815,E,
+VNM,2006-07-01,2006-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2006,2006,%,8.547689,E,
+VNM,2007-07-01,2007-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2007,2007,%,11.125451,E,
+VNM,2008-07-01,2008-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2008,2008,%,44.693813,E,
+VNM,2009-07-01,2009-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2009,2009,%,2.327332,E,
+VNM,2010-07-01,2010-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2010,2010,%,9.612127,E,
+VNM,2011-07-01,2011-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2011,2011,%,32.632252,E,
+VNM,2012-07-01,2012-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2012,2012,%,3.604914,E,
+VNM,2013-07-01,2013-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2013,2013,%,2.222528,E,
+VNM,2014-07-01,2014-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2014,2014,%,5.079310,E,
+VNM,2015-07-01,2015-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2015,2015,%,1.374441,E,
+VNM,2016-07-01,2016-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2016,2016,%,2.636202,E,
+VNM,2017-07-01,2017-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2017,2017,%,-2.523045,E,
+VNM,2018-07-01,2018-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2018,2018,%,4.990836,E,
+VNM,2019-07-01,2019-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2019,2019,%,2.337708,E,
+VNM,2020-07-01,2020-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2020,2020,%,11.887698,E,
+VNM,2021-07-01,2021-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2021,2021,%,0.519312,E,
+VNM,2022-07-01,2022-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2022,2022,%,2.984442,E,
+VNM,2023-07-01,2023-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2023,2023,%,2.586006,E,
+VNM,2024-07-01,2024-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2024,2024,%,4.268236,E,
+VNM,2025-07-01,2025-07-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7007,July,2025,2025,%,2.912522,E,
+VNM,2001-08-01,2001-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2001,2001,%,0.000000,E,
+VNM,2002-08-01,2002-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2002,2002,%,6.783081,E,
+VNM,2003-08-01,2003-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2003,2003,%,1.320755,E,
+VNM,2004-08-01,2004-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2004,2004,%,16.537611,E,
+VNM,2005-08-01,2005-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2005,2005,%,9.084782,E,
+VNM,2006-08-01,2006-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2006,2006,%,8.407000,E,
+VNM,2007-08-01,2007-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2007,2007,%,11.913103,E,
+VNM,2008-08-01,2008-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2008,2008,%,44.148773,E,
+VNM,2009-08-01,2009-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2009,2009,%,1.736786,E,
+VNM,2010-08-01,2010-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2010,2010,%,9.996077,E,
+VNM,2011-08-01,2011-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2011,2011,%,34.060825,E,
+VNM,2012-08-01,2012-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2012,2012,%,2.040873,E,
+VNM,2013-08-01,2013-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2013,2013,%,2.959857,E,
+VNM,2014-08-01,2014-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2014,2014,%,4.985247,E,
+VNM,2015-08-01,2015-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2015,2015,%,1.021220,E,
+VNM,2016-08-01,2016-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2016,2016,%,2.394325,E,
+VNM,2017-08-01,2017-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2017,2017,%,-1.356805,E,
+VNM,2018-08-01,2018-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2018,2018,%,4.794794,E,
+VNM,2019-08-01,2019-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2019,2019,%,1.697325,E,
+VNM,2020-08-01,2020-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2020,2020,%,11.745158,E,
+VNM,2021-08-01,2021-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2021,2021,%,1.152382,E,
+VNM,2022-08-01,2022-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2022,2022,%,3.299810,E,
+VNM,2023-08-01,2023-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2023,2023,%,2.310482,E,
+VNM,2024-08-01,2024-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2024,2024,%,3.738612,E,
+VNM,2025-08-01,2025-08-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7008,August,2025,2025,%,2.572488,E,
+VNM,2001-09-01,2001-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2001,2001,%,0.914560,E,
+VNM,2002-09-01,2002-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2002,2002,%,6.375229,E,
+VNM,2003-09-01,2003-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2003,2003,%,0.916684,E,
+VNM,2004-09-01,2004-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2004,2004,%,17.120882,E,
+VNM,2005-09-01,2005-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2005,2005,%,9.084782,E,
+VNM,2006-09-01,2006-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2006,2006,%,7.726757,E,
+VNM,2007-09-01,2007-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2007,2007,%,13.315242,E,
+VNM,2008-09-01,2008-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2008,2008,%,42.693302,E,
+VNM,2009-09-01,2009-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2009,2009,%,1.787654,E,
+VNM,2010-09-01,2010-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2010,2010,%,10.809641,E,
+VNM,2011-09-01,2011-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2011,2011,%,33.382473,E,
+VNM,2012-09-01,2012-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2012,2012,%,1.837361,E,
+VNM,2013-09-01,2013-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2013,2013,%,3.546259,E,
+VNM,2014-09-01,2014-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2014,2014,%,4.536726,E,
+VNM,2015-09-01,2015-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2015,2015,%,0.668422,E,
+VNM,2016-09-01,2016-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2016,2016,%,2.624192,E,
+VNM,2017-09-01,2017-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2017,2017,%,-1.370011,E,
+VNM,2018-09-01,2018-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2018,2018,%,5.173635,E,
+VNM,2019-09-01,2019-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2019,2019,%,1.811230,E,
+VNM,2020-09-01,2020-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2020,2020,%,10.787455,E,
+VNM,2021-09-01,2021-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2021,2021,%,1.296967,E,
+VNM,2022-09-01,2022-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2022,2022,%,3.650883,E,
+VNM,2023-09-01,2023-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2023,2023,%,2.873431,E,
+VNM,2024-09-01,2024-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2024,2024,%,3.942225,E,
+VNM,2025-09-01,2025-09-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7009,September,2025,2025,%,2.042054,E,
+VNM,2001-10-01,2001-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2001,2001,%,0.570863,E,
+VNM,2002-10-01,2002-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2002,2002,%,6.403769,E,
+VNM,2003-10-01,2003-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2003,2003,%,1.118922,E,
+VNM,2004-10-01,2004-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2004,2004,%,16.886641,E,
+VNM,2005-10-01,2005-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2005,2005,%,9.740602,E,
+VNM,2006-10-01,2006-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2006,2006,%,7.876974,E,
+VNM,2007-10-01,2007-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2007,2007,%,13.935128,E,
+VNM,2008-10-01,2008-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2008,2008,%,40.561867,E,
+VNM,2009-10-01,2009-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2009,2009,%,2.544060,E,
+VNM,2010-10-01,2010-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2010,2010,%,11.914203,E,
+VNM,2011-10-01,2011-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2011,2011,%,31.723749,E,
+VNM,2012-10-01,2012-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2012,2012,%,2.071447,E,
+VNM,2013-10-01,2013-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2013,2013,%,4.134766,E,
+VNM,2014-10-01,2014-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2014,2014,%,3.697198,E,
+VNM,2015-10-01,2015-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2015,2015,%,0.809287,E,
+VNM,2016-10-01,2016-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2016,2016,%,2.606472,E,
+VNM,2017-10-01,2017-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2017,2017,%,-1.230986,E,
+VNM,2018-10-01,2018-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2018,2018,%,5.072670,E,
+VNM,2019-10-01,2019-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2019,2019,%,2.649755,E,
+VNM,2020-10-01,2020-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2020,2020,%,9.496946,E,
+VNM,2021-10-01,2021-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2021,2021,%,0.136676,E,
+VNM,2022-10-01,2022-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2022,2022,%,5.129179,E,
+VNM,2023-10-01,2023-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2023,2023,%,2.806137,E,
+VNM,2024-10-01,2024-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2024,2024,%,4.447161,E,
+VNM,2025-10-01,2025-10-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7010,October,2025,2025,%,1.271847,E,
+VNM,2001-11-01,2001-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2001,2001,%,-0.338965,E,
+VNM,2002-11-01,2002-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2002,2002,%,6.042190,E,
+VNM,2003-11-01,2003-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2003,2003,%,2.028993,E,
+VNM,2004-11-01,2004-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2004,2004,%,15.844045,E,
+VNM,2005-11-01,2005-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2005,2005,%,10.289305,E,
+VNM,2006-11-01,2006-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2006,2006,%,8.639090,E,
+VNM,2007-11-01,2007-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2007,2007,%,14.891998,E,
+VNM,2008-11-01,2008-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2008,2008,%,37.628330,E,
+VNM,2009-11-01,2009-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2009,2009,%,3.508649,E,
+VNM,2010-11-01,2010-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2010,2010,%,14.776686,E,
+VNM,2011-11-01,2011-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2011,2011,%,28.043888,E,
+VNM,2012-11-01,2012-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2012,2012,%,1.421827,E,
+VNM,2013-11-01,2013-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2013,2013,%,4.864293,E,
+VNM,2014-11-01,2014-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2014,2014,%,3.027320,E,
+VNM,2015-11-01,2015-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2015,2015,%,0.889051,E,
+VNM,2016-11-01,2016-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2016,2016,%,3.062437,E,
+VNM,2017-11-01,2017-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2017,2017,%,-1.603776,E,
+VNM,2018-11-01,2018-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2018,2018,%,4.803152,E,
+VNM,2019-11-01,2019-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2019,2019,%,5.611004,E,
+VNM,2020-11-01,2020-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2020,2020,%,6.630517,E,
+VNM,2021-11-01,2021-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2021,2021,%,-0.082216,E,
+VNM,2022-11-01,2022-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2022,2022,%,5.234908,E,
+VNM,2023-11-01,2023-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2023,2023,%,2.978766,E,
+VNM,2024-11-01,2024-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2024,2024,%,4.118059,E,
+VNM,2025-11-01,2025-11-30,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7011,November,2025,2025,%,1.492187,E,
+VNM,2001-12-01,2001-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2001,2001,%,0.678257,E,
+VNM,2002-12-01,2002-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2002,2002,%,5.166789,E,
+VNM,2003-12-01,2003-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2003,2003,%,2.842783,E,
+VNM,2004-12-01,2004-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2004,2004,%,15.385710,E,
+VNM,2005-12-01,2005-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2005,2005,%,11.055964,E,
+VNM,2006-12-01,2006-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2006,2006,%,7.899829,E,
+VNM,2007-12-01,2007-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2007,2007,%,18.919094,E,
+VNM,2008-12-01,2008-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2008,2008,%,31.858606,E,
+VNM,2009-12-01,2009-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2009,2009,%,5.778439,E,
+VNM,2010-12-01,2010-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2010,2010,%,16.182436,E,
+VNM,2011-12-01,2011-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2011,2011,%,24.796621,E,
+VNM,2012-12-01,2012-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2012,2012,%,1.008847,E,
+VNM,2013-12-01,2013-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2013,2013,%,5.083893,E,
+VNM,2014-12-01,2014-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2014,2014,%,2.606967,E,
+VNM,2015-12-01,2015-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2015,2015,%,0.967581,E,
+VNM,2016-12-01,2016-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2016,2016,%,2.869499,E,
+VNM,2017-12-01,2017-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2017,2017,%,-1.796985,E,
+VNM,2018-12-01,2018-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2018,2018,%,5.091278,E,
+VNM,2019-12-01,2019-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2019,2019,%,9.166051,E,
+VNM,2020-12-01,2020-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2020,2020,%,2.682300,E,
+VNM,2021-12-01,2021-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2021,2021,%,0.505229,E,
+VNM,2022-12-01,2022-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2022,2022,%,5.211061,E,
+VNM,2023-12-01,2023-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2023,2023,%,2.933111,E,
+VNM,2024-12-01,2024-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2024,2024,%,3.874055,E,
+VNM,2025-12-01,2025-12-31,237,'704,Viet Nam,23014,Food price inflation,6121,Value,7012,December,2025,2025,%,2.383177,E,

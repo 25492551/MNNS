@@ -1,0 +1,16 @@
+Q3C_New_14.dta  rows=35831  cols=9
+
+tinh_2014      nn=35831  min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=35831  min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=35831  min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=35831  min=1 max=99 nuniq=75 | HHcode 2014
+p17ma_         nn=35831  min=1 max=16 nuniq=16 | Input
+p17q1_         nn=35809  min=0 max=6.92e+05 nuniq=2677 | In TOTAL production of all crops, amount used of this input during the last 12 m
+p17q2_         nn=33973  min=0 max=1.5e+05 nuniq=1111 | In production of RICE, amount used of this input during the last 12 months (000V
+p17q3_         nn=27753  min=0 max=3.5e+04 nuniq=311 | In production of MAIZE, amount used of this input during the last 12 months (000
+panel0816      nn=28774  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[NA] n=1: 98=Not Applicable
+[input] n=16: 1=Seeds; 2=Saplings; 3=Chemical fertilizers; 4=Organic fertilizers (self provided); 5=Organic fertilizers (bought); 6=Pesticides, herbicides; 7=Outside hired labourers; 8=Small, non-durable tools; 9=Energy, fuel; 10=Minor repairs, maintenance; 11=Rental of asset, machinery, equipment and means of transport; 12=Rental of cattle for ploughing; 13=Irrigation fees; 14=Payment of cultivation loan interest; 15=Other costs (postage, advertisement, marketing, production insurance..); 16=Total
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

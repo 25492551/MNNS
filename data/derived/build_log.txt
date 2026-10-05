@@ -1,0 +1,20 @@
+2008 food raw codes [1, 2]
+2008 households 2278 commune matched 2183 month missing 250
+2010 food raw codes [1, 2]
+2010 households 2245 commune matched 2153 month missing 216
+2012 food raw codes [1, 2, 5]
+2012 households 2760 commune matched 2698 month missing 81
+2014 food raw codes [1, 2]
+2014 households 2725 commune matched 2655 month missing 242
+2016 food raw codes [1, 2]
+2016 households 2669 commune matched 2628 month missing 41
+all hh-waves 12677 rice grower hh-waves 8362 unique hh 2133
+rice growers by wave {2008: 1664, 2010: 1573, 2012: 1814, 2014: 1737, 2016: 1574}
+V missing among rice growers 121 V==0 152
+season (start) by wave
+ wave             2008  2010  2012  2014  2016
+row_0                                        
+Spring-summer@0     0     1     0     0     0
+Summer@1          131   123   144   128   115
+Winter-spring@0  1533  1449  1670  1609  1459
+start!=end share by wave {2008: 0.011, 2010: 0.032, 2012: 0.574, 2014: 0.656, 2016: 0.684}

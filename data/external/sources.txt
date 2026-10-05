@@ -1,0 +1,35 @@
+받은 날: 2026-10-04. 식 (R1)에서 파일 밖에 있던 항목 중 공개로 받을 수 있는 것만 모았다.
+
+riceatlas/
+  RiceAtlas v1 (Laborte 외 2017, Harvard Dataverse doi:10.7910/DVN/JE6R2R, CC0).
+  RiceCalendar_v1.zip 은 전 세계 원본이다.
+  vietnam/rice_calendar_vnm.csv 와 RiceCalendar_VNM.shp 는 베트남 60개 하위 행정구역이다.
+  작기별 파종·수확은 연중 일수(1–365)다. 이름은 Winter-spring, Summer, 세 번째 작기다.
+
+faostat/
+  HDX에 올라온 FAOSTAT 베트남 가격 추출이다. 원출처는 FAOSTAT.
+  vnm_rice_producer_price_lcu.csv: 쌀 농가수취가, 동/톤. 연간은 1991년부터, 월간은 2011년부터.
+  vnm_cpi_monthly.csv: 식품·일반 소비자물가지수, 2015=100, 월별.
+  나머지 두 csv는 품목 전체 생산자가격과 생산자물가 디플레이터 원본이다.
+
+fpma/
+  FAO GIEWS FPMA 국내 도매가. 안장·동탑·박리우, 쇄미 5·20·25%, 동/kg, 월별.
+  안장·동탑 25%는 2008-01부터 있다. 5% 계열은 2018-10부터다. 출처는 Agroinfo.
+  메콩 델타 도매가지, 소비자가나 성 전체 가격이 아니다.
+
+worldbank/
+  CMO-Historical-Data-Monthly.xlsx 는 Pink Sheet 원본이다.
+  fertilizer_and_rice_monthly.csv: 요소, DAP, TSP, 인광석, 염화칼륨, 베트남 쌀 5% 수출가. 달러/톤, 1960M01 이후.
+  쌀 수출가는 2008-06부터 값이 있다. 국내 소매가가 아니다.
+  vnm_cpi_annual.csv: World Bank FP.CPI.TOTL, 연간.
+
+gso/ (2026-10-05 추가)
+  GSO 2002-12-31 기준 district 목록. https://diaocthongthai.com/danh-sach-quan-huyen-viet-nam-2002/
+  danh_sach_quan_huyen_2002_raw.txt 는 페이지 본문 사본, district_codes_2002.csv 는 그 표를 뽑은 것이다.
+  코드는 성 3자리 + district 2자리(예: 10501 = Ha Tay의 Ha Dong)로 VARHS의 tinh·quan 코드와 같은 체계다.
+
+받지 못한 것
+  VHLSS 마이크로데이터. 통계청 신청 자료라 공개 주소가 없다.
+  살충제·제초제 kg당 국내 가격. 2008–2016 공개 지역 계열이 없다.
+  가구 면접 일자. 조사 밖에 없다.
+  CHIRPS 월강수와 GADM은 이미 data/ 에 있어 다시 받지 않았다.

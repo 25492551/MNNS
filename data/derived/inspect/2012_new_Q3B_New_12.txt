@@ -1,0 +1,30 @@
+Q3B_New_12.dta  rows=4935  cols=20
+
+tinh_2012      nn=4935   min=105 max=801 nuniq=12 | Province 2012
+quan_2012      nn=4935   min=1 max=50 nuniq=29 | District 2012
+xa_2012        nn=4935   min=1 max=99 nuniq=46 | Commune 2012
+ma_h0_2012     nn=4935   min=1 max=99 nuniq=74 | HHcode 2012
+p15ma_         nn=4935   min=1 max=20 nuniq=20 | Crop
+p15q1_         nn=4919   min=0 max=1e+06 nuniq=1087 | Total quantity of output produced (kg)
+p15q2_         nn=4915   min=0 max=9.055e+05 nuniq=1624 | Total value of output produced (000VND)
+p15q3_         nn=4825   min=0 max=98 nuniq=52 | Estimated post-harvest loss, in percent of total harvest
+p15q4a_        nn=4740   min=0 max=6.433e+05 nuniq=397 | Total quantity sold (kg)
+p15q4b_        nn=4679   min=0 max=5.79e+05 nuniq=33 | Total quantity bartered (kg)
+p15q5a_        nn=4862   min=0 max=9.055e+05 nuniq=640 | Total amount received from sales (000VND)
+p15q5b_        nn=4836   min=0 max=2.3e+04 nuniq=20 | Total amount received from bartering (000VND)
+p15q6_         nn=4877   min=0 max=6000 nuniq=224 | Amount stored today (kg)
+p15q7_         nn=4859   min=0 max=6.433e+05 nuniq=288 | Amount stored 12 months ago (kg)
+p15q8_         nn=4869   min=1 max=1e+06 nuniq=12 | Main responsible for selling this crop-ID code
+p15q9a_        nn=2719   min=1 max=1e+06 nuniq=8 | To whom did you mainly sell/barter the output? most important buyer
+p15q9b_        nn=2668   min=1 max=98 nuniq=3 | Contract with main buyer in advance of harvest
+p15q9c_        nn=195    min=1 max=98 nuniq=3 | Price specified in contract
+p15q10_        nn=4615   min=2 max=1e+06 nuniq=1268 | Estimated are in hectares of 3 most important crops in the last 12 months
+panel0816      nn=4026   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[yesno] n=3: 1=Yes; 2=No; 98=Not applicable
+[p15q9] n=8: 1=Private households/individuals; 2=Private trader/enterprise; 3=Cooperative; 4=State owned enterprise; 5=Foreign companies/individuals; 6=Other; 98=Not sell; 999999=Not Applicable
+[NA] n=1: 98=Not Applicable
+[p15q1] n=2: 98=Have not reaped yet; 999999=Not Applicable
+[crop] n=20: 1=Rice; 2=Maize; 3=Potato; 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Soy bean; 8=Vegetables; 9=Other annual crop; 10=Fruit; 11=Coffee; 12=Tea; 13=Cocoa; 14=Cashew nuts; 15=Sugar cane; 16=Pepper; 17=Rubber; 18=Medicinal trees; 19=Other perennial crop; 20=Forestry products
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

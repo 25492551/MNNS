@@ -1,0 +1,33 @@
+Q3c_New.dta  rows=18245  cols=20
+
+tinh_2008      nn=18245  min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=18245  min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=18245  min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=18245  min=1 max=98 nuniq=33 | HHcode 2008
+ntlp19         nn=18245  min=1 max=6 nuniq=6 | Respondent P19
+manh_1         nn=18245  nuniq=48 ex=['a3', 'a2', 'a1', 'b1'] | Plot 1
+manh_2         nn=18245  nuniq=54 ex=['a4', 'a3', 'a5', 'a1'] | Plot 2
+manh_3         nn=18245  nuniq=52 ex=['a5', 'a6', 'a4', 'a1'] | Plot 3
+manh_4         nn=18245  nuniq=52 ex=['', 'b1', 'b2', 'a7'] | Plot 4
+manh_5         nn=18245  nuniq=62 ex=['', 'b2', 'b3', 'a7'] | Plot 5
+p19ma_         nn=18245  min=1 max=16 nuniq=16 | Your household's use of inputs in crop production in the last 12 months
+p19q1_         nn=18245  min=0 max=6.71e+05 nuniq=2182 | 1. In your TOTAL production of all crops, how much did you use of this input dur
+p19q2_         nn=17288  min=0 max=3.5e+05 nuniq=804 | 2. In your production of RICE, how much did you use of this input during the las
+p19q3_         nn=12057  min=0 max=2.4e+04 nuniq=254 | 3. In you production of MAIZE, how much did you use of this input during the las
+p19q4a_        nn=18243  min=1 max=98 nuniq=3 | 4a. Indicate for which plots you have used this type of input. PLOT 1
+p19q4b_        nn=18244  min=0 max=98 nuniq=4 | 4b. Indicate for which plots you have used this type of input. PLOT 2
+p19q4c_        nn=18244  min=0 max=98 nuniq=4 | 4c. Indicate for which plots you have used this type of input. PLOT 3
+p19q4d_        nn=18244  min=0 max=98 nuniq=4 | 4d. Indicate for which plots you have used this type of input. PLOT 4
+p19q4e_        nn=18244  min=0 max=98 nuniq=4 | 4e. Indicate for which plots you have used this type of input. PLOT 5
+panel0816      nn=17387  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p19q4e_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p19q4d_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p19q4c_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p19q4b_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p19q4a_] n=3: 1=Yes; 2=No; 98=No Applicable
+[p19q3_] n=1: 98=No Applicable
+[p19q2_] n=1: 98=No Applicable
+[p19ma_] n=16: 1=Seeds; 2=Saplings; 3=Chemical fertilizers (urea, NPK, phosphate..); 4=Organic fertilizers (self provided); 5=Organic fertilizers (bought); 6=Pesticides, herbicides; 7=Outside hired labourers; 8=Small, non-durable tools (sickles, shears, shovels, bamboo baskets..); 9=Energy, fuel (electricity, petrol, oil, lubricant, burning fuel..); 10=Minor repairs, maintenance; 11=Rental of asset, machinery, equipment and means of transport; 12=Rental of cattle for ploughing; 13=Irrigation fees; 14=Payment of cultivation loan interest; 15=Other costs (postage, advertisement, marketing, production insurance..); 16=Total
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An

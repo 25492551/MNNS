@@ -1,0 +1,36 @@
+Q1_New_12.dta  rows=11524  cols=23
+
+tinh_2012      nn=11524  min=105 max=801 nuniq=12 | Province 2012
+quan_2012      nn=11524  min=1 max=50 nuniq=29 | District 2012
+xa_2012        nn=11524  min=1 max=99 nuniq=46 | Commune 2012
+ma_h0_2012     nn=11524  min=1 max=99 nuniq=82 | HHcode 2012
+tinh_2010      nn=9369   min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=9369   min=1 max=50 nuniq=29 | District 2010
+xa_2010        nn=9369   min=1 max=99 nuniq=48 | Commune 2010
+ma_h0_2010     nn=9369   min=1 max=98 nuniq=41 | HHcode 2010
+p1stt_         nn=11524  min=1 max=18 nuniq=18 | HH member code - individual id
+p1q2_          nn=11524  min=1 max=10 nuniq=10 | Relationship with the household head
+p1q3_          nn=11524  min=1 max=2 nuniq=2 | Gender of HH member
+p1q4_          nn=11524  min=99 max=2012 nuniq=101 | Year born
+p1q5_          nn=11524  min=1 max=98 nuniq=3 | Suffered from any illness during the last two weeks?
+p1q6a_         nn=11523  min=1 max=98 nuniq=11 | Illnesses suffered from during last 2 weeks? Most important ones_1
+p1q6b_         nn=10658  min=0 max=98 nuniq=12 | Illnesses suffered from during last 2 weeks? Most important ones_2
+p1q7_          nn=10585  min=0 max=365 nuniq=79 | During the past 12 months, how many days not able to perform normal activities d
+p2q8_          nn=11523  min=0 max=98 nuniq=7 | Material status
+p2q9_          nn=11524  min=1 max=98 nuniq=3 | Currently attending school?
+p2q10_         nn=11524  min=0 max=98 nuniq=16 | What grade did HH member finish
+p2q11_         nn=11523  min=1 max=98 nuniq=4 | Can HH member read and write?
+p2q12_         nn=11436  min=1 max=98 nuniq=8 | What is the highest diploma HH member has obtained?
+p2q13_         nn=11524  min=1 max=98 nuniq=4 | Has HH member ever served time in the Vietnamese army?
+panel0816      nn=9066   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[relationship] n=10: 1=Head; 2=Spouse; 3=Child; 4=Parent; 5=Parent in Law; 6=Grandparent/Grandparent in Law; 7=Grandchild; 8=Sister/Brother; 9=Other Relative; 10=Not Related
+[sex] n=2: 1=Male; 2=Female
+[yesno] n=2: 1=Yes; 2=No
+[maritalstatus] n=6: 1=Single; 2=Married; 3=Widowed; 4=Divorced; 5=Separated; 98=Not Applicable
+[yesnoNA] n=3: 1=Yes; 2=No; 98=Not Applicable
+[grade] n=14: 1=1; 2=2; 3=3; 4=4; 5=5; 6=6; 7=7; 8=8; 9=9; 10=10; 11=11; 12=12; 13=13; 98=Not Applicable
+[p2q11] n=4: 1=Can read and write; 2=Can either read or write; 3=No; 98=Not Applicable
+[diploma] n=9: 1=No Diploma; 2=Short-term vocational training; 3=Long-term vocational training; 4=Professional high shool; 5=Junior college diploma; 6=Bachelor degree; 7=Masters degree; 8=PhD; 98=Not Applicable

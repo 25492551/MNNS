@@ -1,0 +1,37 @@
+Q3B_New_16.dta  rows=3908  cols=25
+
+tinh_2016      nn=3908   min=105 max=801 nuniq=12 | Province 2016
+quan_2016      nn=3908   min=1 max=50 nuniq=31 | District 2016
+xa_2016        nn=3908   min=1 max=99 nuniq=47 | Commune 2016
+ma_h0_2016     nn=3908   min=1 max=99 nuniq=68 | HHcode 2016
+tinh_2014      nn=3904   min=105 max=801 nuniq=12 | Province 2014
+quan_2014      nn=3904   min=1 max=50 nuniq=29 | District 2014
+xa_2014        nn=3904   min=1 max=99 nuniq=47 | Commune 2014
+ma_h0_2014     nn=3904   min=1 max=99 nuniq=68 | HHcode 2014
+p16ma_         nn=3908   min=1 max=20 nuniq=19 | Crop
+p16q1_         nn=2960   min=0 max=8.694e+05 nuniq=1011 | Total quantity of output produced (kg)
+p16q2_         nn=3726   min=0 max=1.35e+06 nuniq=1531 | Total value of output produced (000VND)
+p16q3_         nn=3628   min=0 max=10 nuniq=41 | Estimated post-harvest loss, in percent of total harvest
+p16q4a_        nn=3628   min=0 max=8.694e+05 nuniq=474 | Total quantity sold (kg)
+p16q4b_        nn=3628   min=0 max=2450 nuniq=17 | Total quantity bartered (kg)
+p16q5a_        nn=1613   min=0 max=1.35e+06 nuniq=616 | Total amount received from sales (000VND)
+p16q5b_        nn=11     min=0 max=8000 nuniq=8 | Total amount received from bartering (000VND)
+p16q6_         nn=2835   min=0 max=8000 nuniq=226 | Amount stored today (kg)
+p16q7_         nn=2951   min=0 max=2e+04 nuniq=203 | Amount stored 12 months ago (kg)
+p16q8_         nn=3611   min=1 max=98 nuniq=11 | Main responsible for selling this crop-ID code
+p16q9a_        nn=1976   min=1 max=6 nuniq=5 | To whom did you mainly sell/barter the output? most important buyer
+p16q9b_        nn=1966   min=1 max=99 nuniq=22 | What is the ethnicity of the buyer
+p16q9c_        nn=1976   min=1 max=2 nuniq=2 | Contract with main buyer in advance of harvest
+p16q9d_        nn=36     min=1 max=2 nuniq=2 | Price specified in contract
+p16q10_        nn=3581   min=10 max=7.67e+05 nuniq=1203 | Estimated area in hectares of 3 most important crops in the last 12 months
+panel0816      nn=3200   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[crop] n=20: 1=Rice; 2=Maize; 3=Potato; 4=Sweet potato; 5=Cassava; 6=Peanuts; 7=Soy bean; 8=Vegetables; 9=Other annual crop; 10=Fruit; 11=Coffee; 12=Tea; 13=Cocoa; 14=Cashew nuts; 15=Sugar cane; 16=Pepper; 17=Rubber; 18=Medicinal trees; 19=Other perennial crop; 20=Forestry products
+[p16q1] n=2: 98=Have not reaped yet; 99=Not Applicable
+[dk] n=1: 99=Don't know
+[p16q8] n=1: 98=Not sell
+[p16q9] n=7: 1=Private households/individuals; 2=Private trader/enterprise; 3=Cooperative; 4=State owned enterprise; 5=Foreign companies/individuals; 6=Other; 98=Not sell
+[yesno] n=3: 1=Yes; 2=No; 98=Not applicable
+[p16q9b] n=2: 23=Kinh; 99=Don't know

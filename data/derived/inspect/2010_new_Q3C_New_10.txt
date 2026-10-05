@@ -1,0 +1,22 @@
+Q3C_New_10.dta  rows=30952  cols=14
+
+tinh_2010      nn=30952  min=105 max=801 nuniq=12 | Province 2010
+quan_2010      nn=30952  min=1 max=50 nuniq=28 | District 2010
+xa_2010        nn=30952  min=1 max=99 nuniq=44 | Commune 2010
+ma_h0_2010     nn=30952  min=1 max=98 nuniq=37 | HHcode 2010
+p18ma_         nn=30952  min=1 max=16 nuniq=16 | Input
+p18q1_         nn=30946  min=0 max=6.49e+05 nuniq=2180 | In TOTAL production of all crops, amount used of this input during the last 12 m
+p18q2_         nn=29828  min=0 max=2.5e+05 nuniq=825 | In production of RICE, amount used of this input during the last 12 months (000V
+p18q3_         nn=24730  min=0 max=3.15e+04 nuniq=278 | In production of MAIZE, amount used of this input during the last 12 months (000
+p18q4a_        nn=30946  min=1 max=98 nuniq=3 | 4a. Indicate for which plots you have used this type of input. PLOT 1
+p18q4b_        nn=30158  min=1 max=98 nuniq=3 | 4b. Indicate for which plots you have used this type of input. PLOT 2
+p18q4c_        nn=28896  min=1 max=98 nuniq=3 | 4c. Indicate for which plots you have used this type of input. PLOT 3
+p18q4d_        nn=27424  min=1 max=98 nuniq=3 | 4d. Indicate for which plots you have used this type of input. PLOT 4
+p18q4e_        nn=26017  min=1 max=98 nuniq=3 | 4e. Indicate for which plots you have used this type of input. PLOT 5
+panel0816      nn=29624  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[yesnoNA] n=3: 1=Yes; 2=No; 98=Not Applicable
+[NA] n=1: 98=Not Applicable
+[input] n=16: 1=Seeds; 2=Saplings; 3=Chemical fertilizers; 4=Organic fertilizers (self provided); 5=Organic fertilizers (bought); 6=Pesticides, herbicides; 7=Outside hired labourers; 8=Small, non-durable tools; 9=Energy, fuel; 10=Minor repairs, maintenance; 11=Rental of asset, machinery, equipment and means of transport; 12=Rental of cattle for ploughing; 13=Irrigation fees; 14=Payment of cultivation loan interest; 15=Other costs (postage, advertisement, marketing, production insurance..); 16=Total
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An

@@ -1,0 +1,179 @@
+Phieu2_New_14.dta  rows=2725  cols=148
+
+tinh_2014      nn=2725   min=105 max=801 nuniq=12 | Province 2012
+quan_2014      nn=2725   min=1 max=50 nuniq=29 | District 2012
+xa_2014        nn=2725   min=1 max=99 nuniq=47 | Commune 2012
+ma_h0_2014     nn=2725   min=1 max=99 nuniq=82 | HHcode 2012
+p38q1_01       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - bread, rice, noodles etc
+p38q1_02       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - Any potatoes, yams, cassava or any other food made from roots 
+p38q1_03       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - vegetables
+p38q1_04       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - fruit
+p38q1_05       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - meat, poultry, offal
+p38q1_06       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - eggs
+p38q1_07       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - fish and seafood
+p38q1_08       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - pulses, legumes, nuts
+p38q1_09       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - cheese, youghurt, milk etc
+p38q1_10       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - oil, fat, butter
+p38q1_11       nn=2725   min=1 max=2 nuniq=2 | did your HH eat - sugar, honey
+p38q2          nn=2725   min=1 max=98 nuniq=4 | At present, do you smoke?
+p38q3a         nn=2723   min=1 max=9 nuniq=5 | In which amount are the following beverages normally consumed-BEER
+p38q3b         nn=2723   min=1 max=9 nuniq=5 | In which amount are the following beverages normally consumed-WINE (Rice, Cassav
+p41q1          nn=2725   min=1 max=2 nuniq=2 | Has your household borrowed money or goods since 1 July 2010
+p42q21         nn=2725   min=0 max=98 nuniq=9 | How many times since 1 July 2012 have you had a loan rejected?
+p42q22a        nn=2723   min=1 max=98 nuniq=7 | What are the three main reasons for having loan rejected - First
+p42q22b        nn=2703   min=2 max=98 nuniq=5 | What are the three main reasons for having loan rejected - Second
+p42q22c        nn=2700   min=8 max=98 nuniq=2 | What are the three main reasons for having loan rejected - Third
+p43q1          nn=2725   min=1 max=2 nuniq=2 | Household has any type of insurance
+p43q6          nn=2725   min=0 max=1e+05 nuniq=41 | If insurance against loss or damage of crop were available, how much would respo
+p44q1          nn=2725   min=1 max=2 nuniq=2 | Since 1 July 2012, did HH suffer from an unexpected loss from any of shocks ment
+p44q1b_01      nn=891    min=1 max=2 nuniq=2 | Floods
+p44q1b_02      nn=891    min=1 max=2 nuniq=2 | Droughts
+p44q1b_03      nn=891    min=1 max=2 nuniq=2 | Typhoons and other natural
+p44q1b_04      nn=891    min=1 max=2 nuniq=2 | pest infestation, crop diseases
+p44q1b_05      nn=891    min=1 max=2 nuniq=2 | Avian flu
+p44q1b_06      nn=891    min=1 max=2 nuniq=2 | Change in crop price
+p44q1b_07      nn=891    min=1 max=2 nuniq=2 | Shortage or changes in price of  key inputs/services
+p44q1b_08      nn=891    min=1 max=2 nuniq=2 | changes in prices of food or other essential commodities
+p44q1b_09      nn=891    min=1 max=2 nuniq=2 | unemployment
+p44q1b_10      nn=891    min=1 max=2 nuniq=2 | Unsuccessful investment
+p44q1b_11      nn=891    min=1 max=2 nuniq=2 | Loss of land
+p44q1b_12      nn=891    min=1 max=2 nuniq=2 | Crime
+p44q1b_13      nn=891    min=1 max=2 nuniq=2 | Divorce, abandoment or family disputes
+p44q1b_14      nn=891    min=1 max=2 nuniq=2 | Serious illness, injury or death of HH member
+p44q1b_15      nn=891    min=1 max=2 nuniq=2 | Any other shock not included above
+p44q8a         nn=2725   min=1 max=98 nuniq=3 | Has the weather in general been favourable for agriculture - during last 12 mont
+p44q8b         nn=2725   min=1 max=98 nuniq=4 | During the last three years the weather has been in general?
+p47q13         nn=2725   min=0 max=50 nuniq=27 | Number of people known whom could be asked for help with [this]
+di_cu          nn=2725   min=1 max=2 nuniq=2 | is migration relevant to the HH
+p53q1          nn=2725   min=1 max=2 nuniq=2 | Farming alternatives preferred by HH- choice 1
+p53q2          nn=2725   min=1 max=99 nuniq=4 | Farming alternatives preferred by HH-choice 2
+p53q3a         nn=2725   min=1 max=3 nuniq=3 | Most people are basically honest and can be trusted.
+p53q3b         nn=2725   min=1 max=3 nuniq=3 | In this commune one has to be careful, there are people you cannot trust.
+p53q3c         nn=2725   min=1 max=3 nuniq=3 | This commune has prospered in the last five years.
+p53q3d         nn=2725   min=1 max=3 nuniq=3 | This commune will prosper in the coming five years.
+p53q4a         nn=2725   min=0 max=3e+05 nuniq=46 | How much willing to pay for a 1 in 10 chance of winning a prize of 2,000,000 VND
+p53q4b         nn=2725   min=0 max=7e+05 nuniq=58 | How much willing to pay for a 1 in 10 chance of winning a prize of 20,000,000 VN
+p53q5a         nn=2725   min=1 max=2 nuniq=2 | 50% chance of loosing 2,000VND and 50% chance of winning 6,000VND
+p53q5b         nn=2724   min=1 max=2 nuniq=2 | 50% chance of loosing 3,000VND and 50% chance of winning 6,000VND
+p53q5c         nn=2725   min=1 max=2 nuniq=2 | 50% chance of loosing 4,000VND and 50% chance of winning 6,000VND
+p53q5d         nn=2724   min=1 max=2 nuniq=2 | 50% chance of loosing 5,000VND and 50% chance of winning 6,000VND
+p53q5e         nn=2725   min=1 max=2 nuniq=2 | 50% chance of loosing 6,000VND and 50% chance of winning 6,000VND
+p53q5f         nn=2724   min=1 max=2 nuniq=2 | 50% chance of loosing 7,000VND and 50% chance of winning 6,000VND
+p54q1          nn=2725   min=1 max=2 nuniq=2 | Any HH member holding office or other positions of public responsibility in the 
+p54q2a         nn=2725   min=1 max=98 nuniq=10 | HH member ID holding these public responsibility positions? 1st person
+p54q2b         nn=2589   min=1 max=98 nuniq=7 | HH member ID holding these public responsibility positions? 2nd person
+p54q3a         nn=2716   min=1 max=98 nuniq=7 | Positions held by HH members? 1st person
+p54q3b         nn=2583   min=1 max=98 nuniq=6 | Positions held by HH members? 2nd person
+p54q4          nn=2725   min=1 max=2 nuniq=2 | Any relatives outside HH holding office or other trusted positions in the Commun
+p54q5a         nn=2725   min=1 max=98 nuniq=5 | Relationship to these relatives with trusted position? 1st person
+p54q5b         nn=2298   min=1 max=98 nuniq=5 | Relationship to these relatives with trusted position? 2nd person
+p54q6a         nn=2700   min=1 max=98 nuniq=7 | Positions held by relatives? 1st person
+p54q6b         nn=2298   min=1 max=98 nuniq=7 | Positions held by relatives? 2nd person
+p54q7          nn=2725   min=1 max=2 nuniq=2 | Any personal friends holding office or other trusted positions in the Commune, o
+p54q8a         nn=2246   min=1 max=98 nuniq=7 | Positions held by friends? 1st person
+p54q8b         nn=2107   min=1 max=98 nuniq=7 | Positions held by friends? 2nd person
+p55q2          nn=2725   min=1 max=5 nuniq=5 | Access to internet services, if yes where mainly?
+p55q3b_01      nn=2725   min=1 max=9 nuniq=5 | For information, how trustworthy are - RELATIVES
+p55q3b_02      nn=2725   min=1 max=9 nuniq=5 | For information, how trustworthy are - COMMUNITY BOARD
+p55q3b_03      nn=2725   min=1 max=9 nuniq=5 | For information, how trustworthy are - COMMUNITY LOUD SPEAKERS
+p55q3b_04      nn=2725   min=1 max=9 nuniq=5 | For information, how trustworthy are - LOCAL MARKET
+p55q3b_05      nn=2725   min=1 max=98 nuniq=6 | For information, how trustworthy are - NEWSPAPER
+p55q3b_06      nn=2725   min=1 max=98 nuniq=6 | For information, how trustworthy are - RADIO
+p55q3b_07      nn=2725   min=1 max=9 nuniq=5 | For information, how trustworthy are - TELEVISON
+p55q3b_08      nn=2725   min=1 max=98 nuniq=6 | For information, how trustworthy are - EXTENSION AGENTS
+p55q3b_09      nn=2725   min=0 max=98 nuniq=7 | For information, how trustworthy are - OTHER GROUPS/MASS ORGANISATION
+p55q3b_10      nn=2725   min=1 max=98 nuniq=6 | For information, how trustworthy are - BUSINESS/WORK ASSOCIATES
+p55q3b_11      nn=2725   min=1 max=98 nuniq=6 | For information, how trustworthy are - INTERNET
+p56q8          nn=2725   min=0 max=5e+04 nuniq=71 | How much money did you spend during the Tet holidays?
+p56q9a         nn=2725   min=1 max=2 nuniq=2 | Have any members passed away in the last 12 months?
+p56q9b         nn=2724   min=98 max=2.5e+05 nuniq=28 | if yes, how much did you spend on their funeral on average?
+p56q9c         nn=2725   min=1 max=2 nuniq=2 | Did your HH join any funerals of other HHs?
+p56q9d         nn=2724   min=0 max=2000 nuniq=19 | On average, how much do you spend per funeral?
+p57q1b_1       nn=2725   min=1 max=7 nuniq=7 | Hard work: Rank importance for being economically sucessful
+p57q1b_2       nn=2725   min=1 max=7 nuniq=7 | Personal relationships with people in powerful positions: Rank importance for be
+p57q1b_3       nn=2725   min=1 max=7 nuniq=7 | Good relations with friends and family: Rank importance for being economically s
+p57q1b_4       nn=2725   min=1 max=7 nuniq=7 | Being a man: Rank importance for being economically sucessful
+p57q1b_5       nn=2725   min=1 max=7 nuniq=7 | Being a woman: Rank importance for being economically sucessful
+p57q1b_6       nn=2725   min=1 max=7 nuniq=7 | Education: Rank importance for being economically sucessful
+p57q1b_7       nn=2725   min=1 max=7 nuniq=7 | Work experience: Rank importance for being economically sucessful
+p57q2b_1       nn=2725   min=1 max=8 nuniq=8 | High income and wealth: Rank importance for being happy
+p57q2b_2       nn=2725   min=1 max=8 nuniq=8 | Good health: Rank importance for being happy
+p57q2b_3       nn=2725   min=1 max=8 nuniq=8 | A stable life: Rank importance for being happy
+p57q2b_4       nn=2725   min=1 max=8 nuniq=8 | Being married: Rank importance for being happy
+p57q2b_5       nn=2725   min=1 max=8 nuniq=8 | Having children and grand children: Rank importance for being happy
+p57q2b_6       nn=2725   min=1 max=8 nuniq=8 | An interesting occupation: Rank importance for being happy
+p57q2b_7       nn=2725   min=1 max=8 nuniq=8 | Freedom to choose where to live and work: Rank importance for being happy
+p57q2b_8       nn=2725   min=1 max=8 nuniq=8 | Good friends and nieghbours: Rank importance for being happy
+p57q3          nn=2725   min=1 max=4 nuniq=4 | Taking all things together would you say you are pleased with your life
+p57q4b_1       nn=2518   min=1 max=5 nuniq=5 | The hours you work per month: How satisfied you are with this aspect of your mos
+p57q4b_2       nn=2518   min=1 max=5 nuniq=5 | The income from the work:     How satisfied you are with this aspect of your mos
+p57q4b_3       nn=2518   min=1 max=5 nuniq=5 | The job security, i.e. the probability that this work will also be available in 
+p57q4b_4       nn=2518   min=1 max=5 nuniq=5 | Being able to use your own initiative: How satisfied you are with this aspect of
+p57q4b_5       nn=2518   min=1 max=5 nuniq=5 | The content of the work:      How satisfied you are with this aspect of your mos
+p57q5b_1       nn=2725   min=1 max=3 nuniq=3 | affect community - violent crime
+p57q5b_2       nn=2725   min=1 max=3 nuniq=3 | affect community - theft/burglary
+p57q5b_3       nn=2725   min=1 max=3 nuniq=3 | affect community - drug addiction
+p57q5b_4       nn=2725   min=1 max=3 nuniq=3 | affect community - alcohol addiction
+p57q5b_5       nn=2725   min=1 max=3 nuniq=3 | affect community - gambling
+p57q5c_1       nn=2725   min=1 max=3 nuniq=3 | last five years - violent crime
+p57q5c_2       nn=2725   min=1 max=3 nuniq=3 | last five years - theft/burglary
+p57q5c_3       nn=2725   min=1 max=3 nuniq=3 | last five years - drug addiction
+p57q5c_4       nn=2725   min=1 max=3 nuniq=3 | last five years - alcohol addiction
+p57q5c_5       nn=2725   min=1 max=3 nuniq=3 | last five years - gambling
+p57q5d_1       nn=2725   min=1 max=2 nuniq=2 | HH member been victim - violent crime
+p57q5d_2       nn=2725   min=1 max=2 nuniq=2 | HH member been victim - theft/burglary
+p57q5d_3       nn=2725   min=1 max=2 nuniq=2 | HH member been victim - drug addiction
+p57q5d_4       nn=2725   min=1 max=2 nuniq=2 | HH member been victim - alcohol adiction
+p57q5d_5       nn=2725   min=1 max=2 nuniq=2 | HH member been victim - gambling
+p58q6b_01      nn=2725   min=1 max=2 nuniq=2 | reason for migration - work
+p58q6b_02      nn=2725   min=1 max=2 nuniq=2 | reason for migration - looking for work
+p58q6b_03      nn=2725   min=1 max=2 nuniq=2 | reason for migration - lack of land
+p58q6b_04      nn=2725   min=1 max=2 nuniq=2 | reason for migration - education
+p58q6b_05      nn=2725   min=1 max=2 nuniq=2 | reason for migration - escaping natural disaster
+p58q6b_06      nn=2725   min=1 max=2 nuniq=2 | reason for migration - marriage
+p58q6b_07      nn=2725   min=1 max=2 nuniq=2 | reason for migration - health care
+p58q6b_08      nn=2725   min=1 max=2 nuniq=2 | reason for migration - conflict with neighbours
+p58q6b_09      nn=2725   min=1 max=2 nuniq=2 | reason for migration - conflict with leaders
+p58q6b_10      nn=2725   min=1 max=2 nuniq=2 | reason for migration - social pressure
+p58q6b_11      nn=2725   min=1 max=2 nuniq=2 | reason for migration - relocation by government
+p58q6b_12      nn=2725   min=1 max=2 nuniq=2 | reason for migration - return migration
+p58q7b_01      nn=2725   min=1 max=2 nuniq=2 | migration difficulties - land
+p58q7b_02      nn=2725   min=1 max=2 nuniq=2 | migration difficulties - employment
+p58q7b_03      nn=2725   min=1 max=2 nuniq=2 | migration difficulties - conflict related to land
+p58q7b_04      nn=2725   min=1 max=2 nuniq=2 | migration difficulties - conflict
+p58q7b_05      nn=2725   min=1 max=2 nuniq=2 | reason for migration - other conflict
+p58q7b_06      nn=2725   min=1 max=2 nuniq=2 | reason for migration - education
+p58q7b_07      nn=2725   min=1 max=2 nuniq=2 | reason for migration - health care
+p58q7b_08      nn=2725   min=1 max=2 nuniq=2 | reason for migration - access to social services
+p58q7b_09      nn=2725   min=1 max=2 nuniq=2 | reason for migration - cultural integration
+p58q7b_10      nn=2725   min=1 max=2 nuniq=2 | reason for migration - discrimination
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p57q5c] n=3: 1=improved; 2=stayed the same; 3=worsened
+[p57q5b] n=3: 1=severe; 2=moderately severe; 3=not severe
+[p57q4b] n=5: 1=very satisfied; 2=satisfied; 3=neither satisified nor unsatisfied; 4=unsatisfied; 5=very unsatisifed
+[p57q3] n=4: 1=very pleased with your life ; 2=rather  pleased with your life; 3=not very  pleased with your life; 4=not at all  pleased with your life 
+[p57q2b] n=2: 1=1 (most important); 8=8 (least important)
+[p57q1b] n=2: 1=1 (most important); 7=7 (least important)
+[na] n=1: 98=Not applicable
+[p55q3b] n=6: 1=Highly trustworthy; 2=Mostly trustworthy; 3=Mostly not trustworthy; 4=Not trustworthy; 9=Don't know information source; 98=Not applicable
+[p55q2] n=5: 1=Don't have access; 2=Access from home; 3=From workplace; 4=From Internet Café; 5=I don't know what internet is
+[p54q368] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=Not Applicable
+[p54q5] n=5: 1=Father/mother (also in-laws); 2=Sister/brother (also in-laws); 3=Son/daughter (also in-laws); 4=Cousin or other; 98=Not Applicable
+[p54q2] n=1: 98=Not Applicable
+[p53q5] n=2: 1=Accept; 2=Reject
+[dk] n=1: 99=Don't know
+[p53q3] n=4: 1=Agree; 2=Disagree; 3=No opinion/do not want to answer; 99=Don't know
+[p53q2] n=4: 1=Get and farm 0,5 hectare of land entirely by yourself; 2=Get and farm 3,5 hectares of land jointly with one other family from your commune (to which you are not related); 98=Not applicable; 99=Don't know
+[p53q1] n=3: 1=Get and farm 0,5 hectare of land entirely by yourself; 2=Get and farm 1,5 hectares of land jointly with one other family from your commune (to which you are not related); 99=Don't know
+[yesnona] n=3: 1=Yes; 2=No; 98=Not applicable
+[p44q8b] n=4: 1=Better than normal; 2=Normal; 3=Worse than normal; 98=Not applicable
+[p43q6] n=1: 98=not interested
+[p42q22] n=10: 1=Not enough collateral; 2=No guarantor; 3=Business plan not good enough; 4=Lack of funds for lending; 5=Bad credit history; 6=Stated purpose of loan did not match objective of credit source; 7=Commune authorities did not approve; 8=No reason given; 9=Other; 98=NA
+[p38q3b] n=6: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=1 or 2 glasses(<1/2liter a day); 4=I don't drink this on a daily basis; 9=No husband; 98=Not Applicable
+[p38q3a] n=6: 1=1 liter a day or more; 2=Around 1/2 liter a day; 3=1 or 2 glasses(<1/2liter a day); 4=I don't drink this on a daily basis; 9=No husband; 98=Not Applicable
+[p38q2] n=4: 1=Yes; 2=No, but I used to smoke before; 3=No, I have never smoked; 98=Not Applicable
+[yesno] n=2: 1=Yes; 2=No
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[P39Q21] n=1: 98=Kh«ng vay

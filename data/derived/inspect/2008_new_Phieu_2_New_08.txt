@@ -1,0 +1,201 @@
+Phieu_2_New_08.dta  rows=2278  cols=108
+
+tinh_2008      nn=2278   min=105 max=801 nuniq=12 | Province 2008
+quan_2008      nn=2278   min=1 max=50 nuniq=28 | District 2008
+xa_2008        nn=2278   min=1 max=99 nuniq=45 | Commune 2008
+ma_h0_2008     nn=2278   min=1 max=98 nuniq=33 | HHcode 2008
+ntlp47         nn=2278   min=1 max=7 nuniq=7 | Respondent P47
+ntlp49         nn=2278   min=1 max=8 nuniq=8 | Respondent P49
+p49q1          nn=2278   min=1 max=3 nuniq=3 | 1. To your knowledge is there a farmer interest group or farmer field class in y
+p49q2          nn=1285   min=1 max=98 nuniq=7 | 2. How did you hear about thus group?
+p49q3          nn=1285   min=1 max=98 nuniq=3 | 3. Are you a member of such a group/field class?
+p49q4          nn=1285   min=1 max=98 nuniq=4 | 4. Why not?
+p49q5          nn=1285   min=98 max=2008 nuniq=23 | 5. When did you become a member of this group?
+p49q6          nn=1285   min=1 max=98 nuniq=3 | 6. How many of the current members did you know before joining this group?
+p49q7a         nn=1285   min=0 max=98 nuniq=9 | 7a. What are the main benefits you expect to receive from being a member of this
+p49q7b         nn=1284   min=0 max=98 nuniq=9 | 7b. What are the main benefits you expect to receive from being a member of this
+p49q7c         nn=1236   min=0 max=98 nuniq=5 | 7c. What are the main benefits you expect to receive from being a member of this
+p49q8a         nn=1285   min=1 max=98 nuniq=9 | 8a. What are the benefits you have already received?
+p49q8b         nn=1278   min=0 max=98 nuniq=9 | 8b. What are the benefits you have already received?
+p49q8c         nn=1235   min=0 max=98 nuniq=6 | 8c. What are the benefits you have already received?
+p49q9          nn=1285   min=1 max=98 nuniq=6 | 9. How are leaders in this group selected?
+p49q10         nn=1285   min=1 max=98 nuniq=4 | 10. How much influence do you feel you have on decision-making in this group?
+p49q11         nn=1285   min=1 max=98 nuniq=3 | 11. How often do you participate in group activities?
+p49q12         nn=1286   min=1 max=98 nuniq=5 | 12. Why do you not participate more often?
+ntlp50         nn=2278   min=1 max=8 nuniq=8 | Respondent P50
+p50q13         nn=2278   min=0 max=99 nuniq=34 | How many people do you know whom you could ask for help with this?
+ntlp51         nn=2278   min=1 max=8 nuniq=8 | Respondent P51
+p51q1          nn=2278   min=1 max=99 nuniq=3 | 1. Suppose your household faced the following alternatives, which one would it p
+p51q2          nn=2278   min=1 max=99 nuniq=4 | 2. Suppose your household faced instead the following alternatives, which one wo
+p51q3a         nn=2278   min=1 max=99 nuniq=4 | 3a. Most people are basically honest and can be trusted.
+p51q3b         nn=2278   min=1 max=99 nuniq=4 | 3b. In this commune one has to be careful, there are people you cannot trust.
+p51q3c         nn=2278   min=1 max=99 nuniq=4 | 3c. This commune has prospered in the last five years.
+p51q3d         nn=2278   min=1 max=99 nuniq=4 | 3d. This commune will prosper in the coming five years.
+ntlp52         nn=2278   min=1 max=7 nuniq=7 | Respondent P52
+p52q1          nn=2278   min=1 max=2 nuniq=2 | 1. Does any member of your household hold any office or other positions of publi
+p52q2a         nn=2278   min=1 max=98 nuniq=7 | 2a. Which persons hold these positions? 1st person
+p52q2b         nn=2169   min=1 max=98 nuniq=7 | 2b. Which persons hold these positions? 2nd person
+p52q3a         nn=2278   min=1 max=98 nuniq=7 | 3a. Which positions do these persons hold? 1st person
+p52q3b         nn=2169   min=2 max=98 nuniq=6 | 3b. Which positions do these persons hold? 2nd person
+p52q4          nn=2278   min=1 max=2 nuniq=2 | 4. Do any of your relatives outside this household hold any office or other trus
+p52q5a         nn=2278   min=1 max=98 nuniq=5 | 5a. How are you related to these persons? 1st person
+p52q5b         nn=1888   min=1 max=98 nuniq=5 | 5b. How are you related to these persons? 2nd person
+p52q6a         nn=2278   min=1 max=98 nuniq=7 | 6a. Which positions do these persons hold? 1st person
+p52q6b         nn=1888   min=1 max=98 nuniq=7 | 6b. Which positions do these persons hold? 2nd person
+p52q7          nn=2278   min=1 max=2 nuniq=2 | 7. Do any of your personal friends hold any office or other trusted positions in
+p52q8a         nn=2278   min=1 max=98 nuniq=7 | 8a. Which positions do these persons hold? 1st person
+p52q8b         nn=2150   min=1 max=98 nuniq=6 | 8b. Which positions do these persons hold? 2nd person
+ntlp53         nn=2278   min=1 max=7 nuniq=7 | Respondent P53
+p53q2          nn=2278   min=0 max=8 nuniq=15 | 2. How many hours a day do you watch TV, on average?
+p53q3          nn=2278   min=1 max=4 nuniq=4 | 3. How often does someone in your household listen to the radio?
+p53q4          nn=2278   min=1 max=4 nuniq=4 | 4. How often does someone in your household read a daily newspaper?
+p53q5          nn=2278   min=1 max=5 nuniq=5 | 5. Does anyone in your household have access to internet services? If so, where 
+ntlp54         nn=2277   min=1 max=7 nuniq=7 | Respondent P54
+p54q8          nn=2277   min=0 max=3e+04 nuniq=67 | 8. How much did you spend during the Tet holidays?
+ntlp55         nn=2278   min=1 max=15 nuniq=8 | Respondent P55
+ntlp56         nn=2278   min=1 max=7 nuniq=7 | Respondent P56
+p56q1_01       nn=2055   min=1 max=98 nuniq=10 | 1.1 Problems, 1st response
+p56q1_02       nn=1531   min=1 max=98 nuniq=11 | 1.2 Problems, 2nd response
+p56q1_03       nn=947    min=1 max=98 nuniq=11 | 1.3 Problems, 3rd response
+p56q1_04       nn=426    min=1 max=98 nuniq=10 | 1.4 Problems, 4th response
+p56q1_05       nn=173    min=1 max=98 nuniq=11 | 1.5 Problems, 5th response
+p56q1_06       nn=71     min=1 max=98 nuniq=10 | 1.6 Problems, 6th response
+p56q1_07       nn=14     min=1 max=98 nuniq=6 | 1.7 Problems, 7th response
+p56q1_08       nn=7      min=1 max=98 nuniq=3 | 1.8 Problems, 8th response
+p56q1_09       nn=7      min=1 max=98 nuniq=3 | 1.9 Problems, 9th response
+p56q1_10       nn=7      min=1 max=98 nuniq=3 | 1.10 Problems, 10th response
+p56q2a         nn=2278   min=1 max=3 nuniq=3 | 2a. Differences in education
+p56q2b         nn=2278   min=1 max=3 nuniq=3 | 2b. Differences in wealth/material possessions
+p56q2c         nn=2278   min=1 max=3 nuniq=3 | 2c. Differences in landholdings
+p56q2d         nn=2278   min=1 max=3 nuniq=3 | 2d. Differences in social status
+p56q2e         nn=2278   min=1 max=3 nuniq=3 | 2e. Differences between men and women
+p56q2f         nn=2278   min=1 max=3 nuniq=3 | 2f. Differences between younger and older generations
+p56q2g         nn=2278   min=1 max=3 nuniq=3 | 2g. Differences in religious beliefs
+p56q2h         nn=2278   min=1 max=3 nuniq=3 | 2h. Differences in ethnic background
+p56q2i         nn=2278   min=1 max=3 nuniq=3 | 2i. Differences between long-time inhabitants and new settlers
+p56q2j         nn=2278   min=1 max=3 nuniq=3 | 2j. Other differences
+ntlp57         nn=2278   min=1 max=98 nuniq=9 | Respondent P57
+p57q1a         nn=1652   min=1 max=5 nuniq=5 | 1a. Decision making: who in the HH has the final say on: Visits to family/friend
+p57q1b         nn=1652   min=1 max=5 nuniq=5 | 1b. Decision making: who in the HH has the final say on: Making household purcha
+p57q1c         nn=1652   min=1 max=5 nuniq=5 | 1c. Decision making: who in the HH has the final say on: Making large household 
+p57q1d         nn=1585   min=1 max=98 nuniq=6 | 1d. Decision making: who in the HH has the final say on: Whether to use contrace
+p57q1e         nn=1652   min=1 max=5 nuniq=5 | 1e. Decision making: who in the HH has the final say on: Respondent's own health
+p57q1          nn=1652   min=1 max=2 nuniq=2 | 1. Does respondent have children?
+p57q1f         nn=1652   min=1 max=98 nuniq=6 | 1f. Decision making: who in the HH has the final say on: Schooling of children?
+p57q1g         nn=1652   min=1 max=98 nuniq=6 | 1g. Decision making: who in the HH has the final say on: Health care for childre
+p57q1h         nn=1652   min=1 max=98 nuniq=6 | 1h. Decision making: who in the HH has the final say on: Whether to have (a)noth
+p57q2a1        nn=1653   min=0 max=2000 nuniq=71 | 2a1. Connection to birth family: How far is it to your closest birth family memb
+p57q2a2        nn=712    min=0 max=3e+04 nuniq=50 | 2a2. Connection to birth family: How far is it to your closest birth family memb
+p57q2b         nn=1652   min=1 max=2 nuniq=2 | 2b. Connection to birth family: Can you get shelter for a couple of nights at so
+p57q2c         nn=1652   min=1 max=2 nuniq=2 | 2c. Connection to birth family: Can you get financial support from someone from 
+p57q3a_1       nn=1652   min=1 max=2 nuniq=2 | 3a_1. Financial ownership: Could you sell/dispose of it without permission from 
+p57q3a_2       nn=1651   min=1 max=2 nuniq=2 | 3a_2. Financial ownership: Could you sell/dispose of it without permission from 
+p57q3a_3       nn=1651   min=1 max=2 nuniq=2 | 3a_3. Financial ownership: Could you sell/dispose of it without permission from 
+p57q3a_4       nn=1651   min=1 max=2 nuniq=2 | 3a_4. Financial ownership: Could you sell/dispose of it without permission from 
+p57q3a_5       nn=1651   min=1 max=2 nuniq=2 | 3a_5. Financial ownership: Could you sell/dispose of it without permission from 
+p57q4          nn=1652   min=1 max=99 nuniq=4 | 4. Do you feel you have more decision-making power over your daily activities no
+p57q4a         nn=2278   nuniq=208 ex=['98', '99', '®êi sèng khÊm kh¸ h¬n,mäi viÖc ®Òu lo he', ''] | 4a. If yes, why?
+p58q5          nn=1587   min=1 max=98 nuniq=3 | 5. Have you ever used any kind of birth control?
+p58q6          nn=1532   min=1 max=98 nuniq=11 | 6. Which method?
+p58q7          nn=1532   min=1 max=98 nuniq=3 | 7. Are you currently using any kind of birthcontrol?
+p58q8          nn=1514   min=1 max=98 nuniq=12 | 8. Which kind of birthcontrol are you currently using?
+ntlp59         nn=2278   min=1 max=98 nuniq=9 | Respondent P59
+p59q1          nn=1068   min=1 max=2 nuniq=2 | 1. Have you heard about the new LAND Law from 2003?
+p59q2          nn=1068   min=1 max=98 nuniq=5 | 2. How much do you know about the new land law?
+p59q3          nn=1057   min=1 max=99 nuniq=6 | 3. What is the maximum amount of annual land crop land that can be allocated to 
+p59q4          nn=1057   min=1 max=98 nuniq=5 | 4. When the government confiscates a plot of land, and there is no other land av
+p59q5          nn=1057   min=1 max=98 nuniq=3 | 5. Can the names of both the husband and the wife be written into household's Re
+p59q6a         nn=1057   min=1 max=98 nuniq=7 | 6a. From which sources have you mainly heard about these issues (mentioned in Q.
+p59q6b         nn=1043   min=2 max=98 nuniq=8 | 6b. From which sources have you mainly heard about these issues (mentioned in Q.
+panel0816      nn=2131   min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[TINH_2008] n=12: 105=Hµ T©y; 205=Lµo Cai; 217=Phó Thä; 301=Lai Ch©u; 302=§iÖn Biªn; 403=NghÖ An; 503=Qu¶ng Nam; 511=L©m §ång; 605=§ak Lak; 606=§ak N«ng; 607=L©m §ång; 801=Long An
+[NTLP57] n=1: 98=Kh«ng ¸p dông
+[NTLP59] n=1: 98=Kh«ng ¸p dông
+[p49q1] n=3: 1=Yes; 2=No; 3=Don't know
+[p49q2] n=7: 1=From friend/relative; 2=From government official; 3=At market; 4=TV/radio/Newspaper; 5=From organisation; 6=Other (specify); 98=No Applicable
+[p49q3] n=3: 1=Yes; 2=No; 98=No Applicable
+[p49q4] n=5: 1=Not interested; 2=No time; 3=Unable to pay fee; 4=Interested but not invited/accepted; 98=No Applicable
+[p49q5] n=1: 98=No Applicable
+[p49q6] n=4: 1=Many; 2=Less than half; 3=None; 98=No applicable
+[p49q7a] n=9: 1=Training on agriculture; 2=Training on livestock; 3=Better market access; 4=Better access to inputs; 5=Better relations with other farmers; 6=Increased knowledge; 7=Increased income; 8=Other; 98=No Applicable
+[p49q7b] n=9: 1=Training on agriculture; 2=Training on livestock; 3=Better market access; 4=Better access to inputs; 5=Better relations with other farmers; 6=Increased knowledge; 7=Increased income; 8=Other; 98=No Applicable
+[p49q7c] n=9: 1=Training on agriculture; 2=Training on livestock; 3=Better market access; 4=Better access to inputs; 5=Better relations with other farmers; 6=Increased knowledge; 7=Increased income; 8=Other; 98=No Applicable
+[p49q8a] n=10: 1=No Benefit; 2=Training on agriculture; 3=Training on livestock; 4=Better market access; 5=Better access to inputs; 6=Better relations with other farmers; 7=Increased knowledge; 8=Increased income; 9=Other; 98=No Applicable
+[p49q8b] n=10: 1=No Benefit; 2=Training on agriculture; 3=Training on livestock; 4=Better market access; 5=Better access to inputs; 6=Better relations with other farmers; 7=Increased knowledge; 8=Increased income; 9=Other; 98=No Applicable
+[p49q8c] n=10: 1=No Benefit; 2=Training on agriculture; 3=Training on livestock; 4=Better market access; 5=Better access to inputs; 6=Better relations with other farmers; 7=Increased knowledge; 8=Increased income; 9=Other; 98=No Applicable
+[p49q9] n=6: 1=By an outside person or entity; 2=Each leader chooses his/her successor; 3=By a small group of members; 4=By decision/vote of all members; 5=Other; 98=No Applicable
+[p49q10] n=4: 1=None; 2=Some; 3=A lot; 98=No Applicable
+[p49q11] n=4: 1=Almost always; 2=Sometimes; 3=Rarely/never; 98=No Applicable
+[p49q12] n=6: 1=Lack of time; 2=No influence; 3=Waste of time; 4=Illness; 5=Other; 98=No Applicable
+[p51q1] n=3: 1=Get and farm 1/2 hectare of land entirely by yourself; 2=Get and farm 1 and 1/2 hectares of land jointly with one other family from your commune (to which you are not related); 99=Don't know
+[p51q2] n=3: 1=Get and farm 1/2 hectare of land entirely by yourself; 2=Get and farm 3 and 1/2 hectares of land jointly with one other family from your commune (to which you are not related); 99=Don't know
+[p51q3a] n=4: 1=Agree; 2=Disagree; 3=No idea (don't want to tell); 99=Don't know
+[p51q3b] n=4: 1=Agree; 2=Disagree; 3=No idea (don't want to tell); 99=Don't know
+[p51q3c] n=4: 1=Agree; 2=Disagree; 3=No idea (don't want to tell); 99=Don't know
+[p51q3d] n=4: 1=Agree; 2=Disagree; 3=No idea (don't want to tell); 99=Don't know
+[p52q1] n=3: 1=Yes; 2=No; 98=No applicable
+[p52q2a] n=1: 98=No Applicable
+[p52q2b] n=1: 98=No Applicable
+[p52q3a] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p52q3b] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p52q4] n=2: 1=Yes; 2=No
+[p52q5a] n=5: 1=Father/mother (also in-laws); 2=Sister/brother (also in-laws); 3=Son/daughter (also in-laws); 4=Cousin or other; 98=No Applicable
+[p52q5b] n=5: 1=Father/mother (also in-laws); 2=Sister/brother (also in-laws); 3=Son/daughter (also in-laws); 4=Cousin or other; 98=No Applicable
+[p52q6a] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p52q6b] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p52q7] n=2: 1=Yes; 2=No
+[p52q8a] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p52q8b] n=7: 1=District leaders; 2=District official; 3=Commune leaders; 4=Commune official; 5=Mass organization leader; 6=Other; 98=No Applicable
+[p53q3] n=4: 1=Every day; 2=Every week; 3=Every month; 4=Never
+[p53q4] n=4: 1=Every day; 2=Every week; 3=Every month; 4=Never
+[p53q5] n=5: 1=Don't have access from home; 2=Access from home; 3=From workplace; 4=From internet cafe; 5=I don't know what internet is
+[p56q1_01] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_02] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_03] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_04] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_05] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_06] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_07] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_08] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_09] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q1_10] n=10: 1=Natural disasters/epidemic diseases; 2=Power, roads and drinking water; 3=Health services and education; 4=Poor irrigation system; 5=Access to education/health; 6=Quality of education/health; 7=Environmental problems; 8=Gender discrimination/family violence; 9=Ethnic discrimination; 10=Social evils
+[p56q2a] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2b] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2c] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2d] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2e] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2f] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2g] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2h] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2i] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p56q2j] n=3: 1=Not at all; 2=Somewhat; 3=A lot
+[p57q1a] n=5: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only
+[p57q1b] n=5: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only
+[p57q1c] n=5: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only
+[p57q1d] n=6: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only; 98=No Applicable
+[p57q1e] n=5: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only
+[p57q1f] n=6: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only; 98=No Applicable
+[p57q1g] n=6: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only; 98=No Applicable
+[p57q1h] n=6: 1=Respondent only; 2=Jointly with husband; 3=Jointly with someone else; 4=Husband only; 5=Someone else only; 98=No Applicable
+[p57q1] n=2: 1=Yes; 2=No
+[p57q2b] n=2: 1=Yes; 2=No
+[p57q2c] n=2: 1=Yes; 2=No
+[p57q3a_1] n=2: 1=Yes; 2=No
+[p57q3a_2] n=2: 1=Yes; 2=No
+[p57q3a_3] n=2: 1=Yes; 2=No
+[p57q3a_4] n=2: 1=Yes; 2=No
+[p57q3a_5] n=2: 1=Yes; 2=No
+[p57q4] n=4: 1=Yes; 2=No; 98=No Applicable; 99=Don't know
+[p58q5] n=3: 1=Yes; 2=No; 98=No Applicable
+[p58q6] n=12: 1=Pill; 2=IUD; 3=Injections; 4=Implants; 5=Diaphragms/foam/jelly; 6=Condom; 7=Female sterilisation; 8=Male sterilisation; 9=Periodic abstinence; 10=Withdrawal; 11=Any other way; 98=No Applicable
+[p58q7] n=3: 1=Yes; 2=No; 98=No Applicable
+[p58q8] n=13: 1=Pill; 2=IUD; 3=Injections; 4=Implants; 5=Diaphragms; 6=Condom; 7=Female sterilisation; 8=Male sterilisation; 9=Periodic abstinence; 10=Withdrawal; 11=None; 12=Any other way; 98=No Applicable
+[p59q1] n=2: 1=Yes; 2=No
+[p59q2] n=5: 1=No knowledge at all; 2=Little Knowledge; 3=Some knowledge; 4=Substantial knowledge; 98=No Applicable
+[p59q3] n=2: 99=Don't know; 98=No Applicable
+[p59q4] n=6: 1=No compensation; 2=Half the market value of the land; 3=The market value of the land; 4=One and a half times the market value of the land; 5=Compensation is arbitrarily decided by local authorities; 98=No Applicable
+[p59q5] n=3: 1=Yes; 2=No; 98=No Applicable
+[p59q6a] n=9: 1=Have not heard about these issues; 2=TV, radio, newspaper; 3=Public loudspeakers; 4=Friends and family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=No Applicable
+[p59q6b] n=9: 1=Have not heard about these issues; 2=TV, radio, newspaper; 3=Public loudspeakers; 4=Friends and family; 5=Meeting arranged by commune authorities to inform about law; 6=Extension agent/agricultural organisation; 7=Farmer interest group/farmer field class; 8=Other; 98=No Applicable

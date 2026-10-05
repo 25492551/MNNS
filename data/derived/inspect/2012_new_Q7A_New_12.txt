@@ -1,0 +1,20 @@
+Q7A_New_12.dta  rows=38598  cols=10
+
+tinh_2012      nn=38598  min=105 max=801 nuniq=12 | Province 2012
+quan_2012      nn=38598  min=1 max=50 nuniq=29 | District 2012
+xa_2012        nn=38598  min=1 max=99 nuniq=46 | Commune 2012
+ma_h0_2012     nn=38598  min=1 max=99 nuniq=82 | HHcode 2012
+p35ma_         nn=38598  min=1 max=98 nuniq=15 | Food item
+p35q1_         nn=38504  min=1 max=2 nuniq=2 | Household consumed food item in the last 4 weeks
+p35q2_         nn=31284  min=0 max=99 nuniq=86 | Quantity consumed of this item in the last 4 weeks
+p35q3_         nn=31287  min=0 max=800 nuniq=85 | Market price per unit (000VND)
+p35q4_         nn=38475  min=0 max=1e+06 nuniq=296 | Total monetary value consumed in the past 4 weeks (000VND)
+panel0816      nn=29834  min=1 max=1 nuniq=1 | 08-16 balanced and representative panel of 2131 households
+
+VALUE LABELS
+[p35ma_food] n=14: 1=Pork; 2=Beef; 3=Chicken; 4=Any kind of fish; 5=Any kind of shrimp; 6=Any kind of fruit; 7=Any kind of candy/cookie; 8=Powdered or canned  milk; 9=Liquid milk; 10=Any kind of beer; 11=Rice wine or other local alcoholic drink; 12=Coffee; 13=Industrial beverages (in can, bottle); 14=Eating and drinking outside the home/processed foods
+[province] n=12: 105=Ha Tay; 205=Lao Cai; 217=Phu Tho; 301=Lai Chau; 302=Dien Bien; 403=Nghe An; 503=Quang Nam; 511=Khanh Hoa; 605=Dak Lak; 606=Dak Nong; 607=Lam Dong; 801=Long An
+[yesno] n=2: 1=yes; 2=No
+[p35q2] n=2: 98=Not Applicable; 99=Cannot estimate
+[p35q3] n=2: 98=Not Applicable; 99=Don't know
+[p35q4] n=1: 999999=Not Applicable
